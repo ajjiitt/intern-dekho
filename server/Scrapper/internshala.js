@@ -121,6 +121,7 @@ async function internshala(job_role) {
         `Scrapper/data/internshala-${job_role}.json`,
         JSON.stringify(internships, null, 2)
     );
+    return internships;
 }
 
 // internshala();

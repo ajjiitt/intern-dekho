@@ -82,7 +82,7 @@ async function indeed(job_id) {
         currNoOfPage += 10;
     }
 
-    console.log(internships);
+    // console.log(internships);
     console.log(internships.length);
     await browser.close();
 
@@ -92,6 +92,7 @@ async function indeed(job_id) {
         `Scrapper/data/indeed-${job_id}.json`,
         JSON.stringify(internships, null, 2)
     );
+    return internships;
 }
 
 // indeed(20);

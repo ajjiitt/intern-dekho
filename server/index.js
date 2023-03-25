@@ -5,8 +5,9 @@ const indeed = require("./Scrapper/indeed");
 const naukri = require("./Scrapper/naukri");
 const app = express();
 const { linkedin } = require("./Scrapper/linkedin");
-const cron = require('node-cron');
-
+const cron = require("node-cron");
+const shuffle = require("./utils/shuffleArray");
+const fs = require("fs").promises;
 
 const PORT = 4000;
 
@@ -73,14 +74,16 @@ app.get("/naukri/:keyword", async(req, res) => {
     }
 });
 
-
 app.get("/linkedin/:keyword", async(req, res) => {
     const { keyword } = req.params;
     console.log(keyword);
     try {
         await linkedin(keyword);
 
-        const linkedinLatestData = require(`./Scrapper/data/linkedin-${keyword.replace(" ", "-")}`);
+        const linkedinLatestData = require(`./Scrapper/data/linkedin-${keyword.replace(
+      " ",
+      "-"
+    )}`);
 
         res.status(200).json({
             status: true,
@@ -94,6 +97,23 @@ app.get("/linkedin/:keyword", async(req, res) => {
     }
 });
 
+app.get("/browseAll", async(req, res) => {
+    try {
+
+        const latestBrowseAllData = require('./Scrapper/data/browseAll');
+
+        return res.status(200).json({
+            status: true,
+            data: latestBrowseAllData,
+        });
+
+    } catch (err) {
+        res.status(404).json({
+            status: false,
+            data: err,
+        });
+    }
+});
 
 app.get('/test', async(req, res) => {
 
@@ -107,10 +127,22 @@ app.get('/test', async(req, res) => {
             promiseArr.push(indeed(keywords[i]));
         }
 
-        const result = await Promise.all(promiseArr)
+        const result = await Promise.all(promiseArr);
+        console.log(result, "I was here");
+        let finalResult = result.flat();
+
+        let randomResult = shuffle(finalResult);
+
+        await fs.writeFile(
+            "Scrapper/data/browseAll.json",
+            JSON.stringify(randomResult, null, 2)
+        );
+
+        // const updatedData 
+
         return res.status(200).json({
             status: true,
-            data: result
+            data: randomResult
         })
     } catch (err) {
         res.status(404).json({
@@ -122,14 +154,13 @@ app.get('/test', async(req, res) => {
 
 })
 
-
 app.listen(PORT, () => {
     console.log("Server Connected on PORT: " + PORT);
     //schedule here
     // "0 * * * *" every hour
-    cron.schedule("0 * * * *", () => {
+    cron.schedule("0 * * * *", async() => {
         const keywords = ["software engineer"];
-        let promiseArr = []
+        let promiseArr = [];
         for (let i = 0; i < keywords.length; i++) {
             promiseArr.push(naukri(keywords[i]));
             promiseArr.push(internshala(keywords[i]));
@@ -137,9 +168,15 @@ app.listen(PORT, () => {
             promiseArr.push(linkedin(keywords[i]));
         }
 
-        const result = Promise.all(promiseArr);
+        const result = await Promise.all(promiseArr);
+
+        let finalResult = result.flat();
+
+        let randomResult = shuffle(finalResult);
+
+        await fs.writeFile(
+            "Scrapper/data/browseAll.json",
+            JSON.stringify(randomResult, null, 2)
+        );
     });
-
-
-
 });

@@ -66,6 +66,7 @@ async function naukri(job_role) {
   console.log("Total Internship Found " + internships.length);
   
   await fs.writeFile(`Scrapper/data/naukri-${job_role}.json`, JSON.stringify(internships, null, 2));
+  return internships;
 }
 
 // naukri(3);
