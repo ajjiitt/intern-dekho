@@ -1,21 +1,21 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs").promises;
-async function naukri(totalPage) {
-  console.log("Naukri Scrapping");
-  const browser = await puppeteer.launch({
-    headless: false,
-    defaultViewport: false,
-  });
+async function naukri(job_role) {
+    console.log("Naukri Scrapping");
+    const browser = await puppeteer.launch({
+        headless: false,
+        defaultViewport: false,
+    });
 
-  let internships = [];
+    let internships = [];
 
-  const page = await browser.newPage();
-  let currPage = 1;
-  while (totalPage >= currPage) {
-    await page.goto(
-      `https://www.naukri.com/internship-jobs${
-        totalPage == 1 ? "" : `-${currPage}`
-      }?k=internship&experience=0`
+    const page = await browser.newPage();
+    let totalPage = 8;
+    let currPage = 1;
+    while (totalPage >= currPage) {
+        await page.goto(
+                `https://www.naukri.com/internship-jobs${totalPage == 1 ? "" : `-${currPage}`}?k=${job_role}-intern&experience=0`
+      // `https://www.naukri.com/${job_role}-intern-jobs-in-india?k=software%20engineer%2C%20intern&l=india&experience=0`
     );
     await delay(2000);
     let internshipHandles = await page.$$(".list > .jobTuple");
@@ -48,7 +48,7 @@ async function naukri(totalPage) {
       //   (element) => element.textContent.trim()
       // );
       let internshipData = {
-        site: "naukri",
+        site: "Naukri",
         title,
         companyName,
         link,
@@ -65,10 +65,11 @@ async function naukri(totalPage) {
   await browser.close();
   console.log("Total Internship Found " + internships.length);
   
-  await fs.writeFile('./data/naukri.json', JSON.stringify(internships, null, 2));
+  await fs.writeFile(`./data/naukri-${job_role}.json`, JSON.stringify(internships, null, 2));
 }
 
 // naukri(3);
+// naukri("software-engineer");
 module.exports = naukri;
 
 function delay(time) {
