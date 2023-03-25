@@ -2,6 +2,7 @@ const puppeteer = require("puppeteer");
 const fs = require("fs").promises;
 async function indeed(job_id) {
     console.log("Indeed Scrapping");
+    const job_role = job_id.replace(" ", "+")
     const browser = await puppeteer.launch({
         headless: false,
         defaultViewport: false,
@@ -16,7 +17,7 @@ async function indeed(job_id) {
     while (totalNoOfInternships >= currNoOfPage) {
         await page.goto(
             // `https://in.indeed.com/jobs?q=${job_id}&start=${currNoOfPage*10}&fromage=400&l=india&sc=0kf%3Ajt%28internship%29%3B`
-            `https://in.indeed.com/jobs?q=${job_id}&l=india&sc=0kf%3Ajt%28internship%29%3B&start=${currNoOfPage}&pp=gQAeAAAAAAAAAAAAAAAB_ZNFJABCAQEBB0kzEWkmfdSEcIBtfGQKvmC9KrH37385wpLWH-WrvWv6dC5191hcC4VVQ4dJeeqKU8QmWE3pvNznGufPEatnAAA&vjk=2e19e8bd9332062f`
+            `https://in.indeed.com/jobs?q=${job_role}&l=india&sc=0kf%3Ajt%28internship%29%3B&start=${currNoOfPage}&pp=gQAeAAAAAAAAAAAAAAAB_ZNFJABCAQEBB0kzEWkmfdSEcIBtfGQKvmC9KrH37385wpLWH-WrvWv6dC5191hcC4VVQ4dJeeqKU8QmWE3pvNznGufPEatnAAA&vjk=2e19e8bd9332062f`
         );
         await delay(1000);
         const internshipHandles = await page.$$(

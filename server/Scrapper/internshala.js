@@ -3,6 +3,7 @@ const fs = require("fs").promises;
 
 async function internshala(job_role) {
     console.log("Web-Scrapping Internshala");
+    const updatedJobRole = job_role.replace("-", " ");
     const browser = await puppeteer.launch({
         headless: true,
         defaultViewport: false,
@@ -13,13 +14,13 @@ async function internshala(job_role) {
     //get total no of pages
     let currNoOfPage = 1;
     await page.goto(
-        `https://internshala.com/internships/${job_role}-internship/page-${currNoOfPage}/`
+        `https://internshala.com/internships/${updatedJobRole}-internship/page-${currNoOfPage}/`
     );
     await page.click("#close_popup");
 
     const element = await page.$("#total_pages");
     let totalNoOfPage = await page.evaluate((ele) => ele.textContent, element);
-    totalNoOfPage = 10;
+    totalNoOfPage = 5;
     console.log("Total Number of Pages: " + totalNoOfPage);
 
     let internships = [];
@@ -27,7 +28,7 @@ async function internshala(job_role) {
     for (; currNoOfPage <= totalNoOfPage; currNoOfPage++) {
         if (currNoOfPage != 1) {
             await page.goto(
-                `https://internshala.com/internships/${job_role}-internship/page-${currNoOfPage}/`
+                `https://internshala.com/internships/${updatedJobRole}-internship/page-${currNoOfPage}/`
             );
             //check if popup is present or not
             // await page.click("#close_popup");
