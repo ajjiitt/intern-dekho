@@ -2,23 +2,39 @@ import React, { useState } from "react";
 import BookmarkBorderIcon from "@mui/icons-material/BookmarkBorder";
 import BookmarkOutlinedIcon from "@mui/icons-material/BookmarkOutlined";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-// import internshala-small from "Internshala-small.png";
-
+import {
+  collection,
+  addDoc,
+  doc,
+  getFirestore,
+  deleteDoc,
+} from "firebase/firestore";
+import DeleteOutlineIcon from "@mui/icons-material/DeleteOutline";
+import fb from "../utils/firebase";
 const InternshipCard = (props) => {
+  const db = getFirestore(fb);
+  const saveInternship = async (internship) => {
+    let user = JSON.parse(localStorage.getItem("user"));
+    if (user.email) {
+      await addDoc(collection(db, user.email), {
+        ...internship,
+      });
+    }
+    console.log("Saving internship");
+    alert("Internship saved to your profile");
+  };
+  const removeSavedInternship = async (docID) => {
+    let user = JSON.parse(localStorage.getItem("user"));
+    if (user.email) {
+      await deleteDoc(doc(db, user.email, docID));
+      props.getSavedInternships();
+    }
+  };
   const [bookmark, setBookmark] = useState(0);
-  // const [imgSrc, setImgSrc] = useState("");
-  // if (props.site === "Internshala") {
-  //   setImgSrc("internshala-small.png");
-  // } else if (props.site === "Linkedin") {
-  //   setImgSrc("linkedin-small.png");
-  // } else if (props.site === "Naukri") {
-  //   setImgSrc("naukri-small.png");
-  // } else if (props.site === "Indeed") {
-  //   setImgSrc("indeed-small.png");
   // }
-  const desc = props?.description
-  toString(desc)
-  var firstLine = desc.split('\n', 12)[0];
+  const desc = props?.description;
+  toString(desc);
+  var firstLine = desc.split("\n", 12)[0];
   return (
     <div>
       <div
@@ -76,26 +92,49 @@ const InternshipCard = (props) => {
               </button>
             </div>
           </div>
-          <div className="basis-1/12 flex justify-end pt-2 ">
-            {bookmark === 0 && (
-              <BookmarkBorderIcon
+          {props?.currValue != 6 ? (
+            <div className="basis-1/12 flex justify-end pt-2 ">
+              {bookmark === 0 && (
+                <BookmarkBorderIcon
+                  className="text-navOrange cursor-pointer"
+                  style={{ fontSize: "30px" }}
+                  onClick={() => {
+                    setBookmark(1);
+                    saveInternship({
+                      title: props.title,
+                      company: props.company,
+                      location: props.location,
+                      salary: props.salary,
+                      description: props.description,
+                      link: props.link,
+                      site: props.site,
+                    });
+                  }}
+                />
+              )}
+              {bookmark === 1 && (
+                <BookmarkOutlinedIcon
+                  className="text-navOrange cursor-pointer"
+                  style={{ fontSize: "30px" }}
+                  onClick={() => {
+                    setBookmark(0);
+                  }}
+                />
+              )}
+            </div>
+          ) : (
+            <div className="basis-1/12 flex justify-end pt-2 ">
+              <DeleteOutlineIcon
                 className="text-navOrange cursor-pointer"
                 style={{ fontSize: "30px" }}
                 onClick={() => {
                   setBookmark(1);
+
+                  removeSavedInternship(props.docID);
                 }}
               />
-            )}
-            {bookmark === 1 && (
-              <BookmarkOutlinedIcon
-                className="text-navOrange cursor-pointer"
-                style={{ fontSize: "30px" }}
-                onClick={() => {
-                  setBookmark(0);
-                }}
-              />
-            )}
-          </div>
+            </div>
+          )}
         </div>
       </div>
     </div>

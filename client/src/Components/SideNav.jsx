@@ -2,8 +2,10 @@ import React, { useState, useEffect } from "react";
 import InternshipCard from "../Cards/InternshipCard";
 import FilterAltOutlinedIcon from "@mui/icons-material/FilterAltOutlined";
 import axios from "axios";
-
+import { collection, addDoc, getFirestore, getDocs } from "firebase/firestore";
+import fb from "../utils/firebase";
 const SideNav = () => {
+  const db = getFirestore(fb);
   const [sidenav, setSidenav] = useState(1);
   const [internships, setInternships] = useState([]);
   useEffect(() => {
@@ -74,6 +76,29 @@ const SideNav = () => {
         console.log(error);
       });
   };
+  const getSavedInternships = async () => {
+    let user = JSON.parse(localStorage.getItem("user"));
+    if (user.email) {
+      const querySnapshot = await getDocs(collection(db, user.email));
+      let arr = [];
+      querySnapshot.forEach((doc) => {
+        arr.push({ ...doc.data(), docID: doc.id });
+      });
+      console.log(arr);
+      setInternships(arr);
+    } else {
+      alert("Please Login to view saved internships");
+    }
+  };
+
+  const saveInternship = async (internship) => {
+    let user = JSON.parse(localStorage.getItem("user"));
+    if (user.email) {
+      await addDoc(collection(db, user.email), {
+        ...internship,
+      });
+    }
+  };
 
   return (
     <div className="pt-14  md:pl-20 md:pr-20 pr-3 pl-3">
@@ -133,6 +158,16 @@ const SideNav = () => {
         >
           Naukri
         </div>
+        <div
+          className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
+          onClick={() => {
+            setSidenav(6);
+            getSavedInternships();
+          }}
+          style={{ backgroundColor: sidenav === 6 ? "#F6A92E" : "white" }}
+        >
+          Saved Internships
+        </div>
       </div>
       <hr></hr>
       <div className="flex p-3 gap-2 flex-col sm:flex-row">
@@ -162,6 +197,8 @@ const SideNav = () => {
           {internships.map((i) => {
             return (
               <InternshipCard
+                currValue={sidenav}
+                docID={i?.docID}
                 site={i?.site}
                 title={i?.title}
                 salary={i?.stipend}
@@ -169,6 +206,7 @@ const SideNav = () => {
                 company={i?.companyName}
                 link={i?.link}
                 description={i?.description}
+                getSavedInternships={getSavedInternships}
               />
             );
           })}
@@ -177,5 +215,6 @@ const SideNav = () => {
     </div>
   );
 };
+
 
 export default SideNav;

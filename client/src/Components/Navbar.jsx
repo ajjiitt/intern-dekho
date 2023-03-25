@@ -15,6 +15,7 @@ const Navbar = () => {
     console.log(user);
     if (user) {
       setUser(user);
+      navigate("/internships");
     }
   }, []);
   const logOutUser = () => {
@@ -34,6 +35,7 @@ const Navbar = () => {
           name: result.user.displayName,
           token,
         };
+        console.log(_user);
         setUser(_user);
         localStorage.setItem("user", JSON.stringify(_user));
         navigate("/internships");
