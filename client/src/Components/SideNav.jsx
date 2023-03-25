@@ -5,12 +5,11 @@ const SideNav = () => {
   const [sidenav,setSidenav] = useState(1);
 
   return (
-    <div className='pt-2
-     md:pl-20 md:pr-20 pr-3 pl-3'>
+    <div className='pt-14  md:pl-20 md:pr-20 pr-3 pl-3'>
         <div >
             <div className='text-2xl md:text-3xl  font-medium'>Search For Internships</div>
         </div>
-        <div className='flex flex-row gap-5 pt-2 pb-2 flex-wrap'>
+        <div className='flex flex-row gap-5 pt-6 pb-2 flex-wrap '>
             <div className=' hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer' onClick={()=>{setSidenav(1)}} style={{backgroundColor:sidenav===1?'#F6A92E':'white'}}>Browse All</div>
             <div className=' hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer' onClick={()=>{setSidenav(2)}}style={{backgroundColor:sidenav===2?'#F6A92E':'white'}}>Internshala</div>
             <div className=' hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer' onClick={()=>{setSidenav(3)}}style={{backgroundColor:sidenav===3?'#F6A92E':'white'}}>Linked In</div>
