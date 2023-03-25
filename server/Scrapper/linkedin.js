@@ -1,20 +1,22 @@
 const fs = require("fs").promises;
 const puppeteer = require("puppeteer");
 
-async function linkedin(tags) {
+async function linkedin(keyword) {
   console.log("LinkedIN Scrapping");
+  let urlSearch = keyword.replace(" ", "%20");
+  let newKeyword = keyword.replace(" ", "-");
   const browser = await puppeteer.launch({
     headless: false,
     defaultViewport: false,
   });
   const page = await browser.newPage();
-  const cookiesString = await fs.readFile("./data/cookies.json");
+  const cookiesString = await fs.readFile("Scrapper/data/cookies.json");
   const cookies = JSON.parse(cookiesString);
   await page.setCookie(...cookies);
   let internships = [];
 
   await page.goto(
-    `https://www.linkedin.com/jobs/search?keywords=${"internships"}&location=India&refresh=true`,
+    `https://www.linkedin.com/jobs/search?keywords=${urlSearch}&location=India&refresh=true`,
     {
       waitUntil: "domcontentloaded",
     }
@@ -24,17 +26,17 @@ async function linkedin(tags) {
     "ul.artdeco-pagination__pages.artdeco-pagination__pages--number > li:last-child",
     (element) => element.textContent.trim()
   );
-  noOfPages = Math.min(noOfPages, 10);
-
+  noOfPages = Math.min(noOfPages, 1);
   for (let j = 0; j < noOfPages; j++) {
     let offset = j * 25;
     await page.goto(
-      `https://www.linkedin.com/jobs/search?keywords=${"internships"}&location=India&refresh=true&start=${offset}`,
+      `https://www.linkedin.com/jobs/search?keywords=${urlSearch}&location=India&refresh=true&start=${offset}`,
       {
         waitUntil: "domcontentloaded",
       }
     );
     await delay(5000);
+    await page.waitForSelector(".jobs-unified-top-card__job-title");
     let internshipHandles = await page.$$(
       "section.scaffold-layout__list > div > ul.scaffold-layout__list-container > li"
     );
@@ -87,11 +89,15 @@ async function linkedin(tags) {
       internships.push(internshipData);
     }
   }
+  await browser.close();
+  console.log("Total Internship Found " + internships.length);
 
-  console.log(internships);
-  console.log(internships.length);
+  await fs.writeFile(
+    `Scrapper/data/linkedin-${newKeyword}.json`,
+    JSON.stringify(internships, null, 2)
+  );
 
-  //   await browser.close();
+  await browser.close();
 }
 
 async function getCookies() {
@@ -104,12 +110,11 @@ async function getCookies() {
   //save cookies
   const cookies = await page.cookies();
   console.log(cookies);
-  await fs.writeFile("./data/cookies.json", JSON.stringify(cookies, null, 2));
+  await fs.writeFile("Scrapper/data/cookies.json", JSON.stringify(cookies, null, 2));
   await browser.close();
 }
 
-module.exports = getCookies;
-linkedin();
+module.exports = { linkedin, getCookies };
 
 function delay(time) {
   return new Promise(function (resolve) {
