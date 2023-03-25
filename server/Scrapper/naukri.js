@@ -10,7 +10,7 @@ async function naukri(job_role) {
     let internships = [];
 
     const page = await browser.newPage();
-    let totalPage = 8;
+    let totalPage = 5;
     let currPage = 1;
     while (totalPage >= currPage) {
         await page.goto(
@@ -65,7 +65,7 @@ async function naukri(job_role) {
   await browser.close();
   console.log("Total Internship Found " + internships.length);
   
-  await fs.writeFile(`./data/naukri-${job_role}.json`, JSON.stringify(internships, null, 2));
+  await fs.writeFile(`Scrapper/data/naukri-${job_role}.json`, JSON.stringify(internships, null, 2));
 }
 
 // naukri(3);
