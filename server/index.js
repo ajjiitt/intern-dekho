@@ -18,7 +18,7 @@ app.get("/internshala/:keyword", async(req, res) => {
     console.log(keyword);
     try {
         // Add cron job
-        // await internshala(keyword);
+        await internshala(keyword);
 
         const internshalalatestData = require(`./Scrapper/data/internshala-${keyword}`);
 
@@ -119,11 +119,13 @@ app.get('/test', async(req, res) => {
 
     try {
         const keywords = ["software engineer"];
-        let promiseArr = []
+        let promiseArr = [];
+        const hashMap = new Map();
+        hashMap.set("software engineer", "software development")
         for (let i = 0; i < keywords.length; i++) {
             promiseArr.push(linkedin(keywords[i]));
             promiseArr.push(naukri(keywords[i]));
-            promiseArr.push(internshala(keywords[i]));
+            promiseArr.push(internshala(hashMap.get(keywords[i])));
             promiseArr.push(indeed(keywords[i]));
         }
 
@@ -161,9 +163,12 @@ app.listen(PORT, () => {
     cron.schedule("0 * * * *", async() => {
         const keywords = ["software engineer"];
         let promiseArr = [];
+
+        const hashMap = new Map();
+        hashMap.set("software engineer", "software development")
         for (let i = 0; i < keywords.length; i++) {
             promiseArr.push(naukri(keywords[i]));
-            promiseArr.push(internshala(keywords[i]));
+            promiseArr.push(internshala(hashMap.get(keywords[i])));
             promiseArr.push(indeed(keywords[i]));
             promiseArr.push(linkedin(keywords[i]));
         }
