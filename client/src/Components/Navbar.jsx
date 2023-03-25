@@ -1,27 +1,43 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
 import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 import fb from "../utils/firebase";
 
+import { useNavigate } from "react-router-dom";
+
 const Navbar = () => {
+  let navigate = useNavigate();
   const [hamburger, setHamburger] = useState(false);
   const [user, setUser] = useState({});
-
+  useEffect(() => {
+    const user = JSON.parse(localStorage.getItem("user"));
+    console.log(user);
+    if (user) {
+      setUser(user);
+    }
+  }, []);
+  const logOutUser = () => {
+    localStorage.removeItem("user");
+    setUser({});
+  };
   const googleUserLogin = () => {
     const auth = getAuth(fb);
     const provider = new GoogleAuthProvider();
     signInWithPopup(auth, provider)
-      .then((result) => {
+      .then(async (result) => {
         const credential = GoogleAuthProvider.credentialFromResult(result);
         const token = credential.accessToken;
-        const user = result.user;
-        setUser({
-          ...user,
+        let _user = {
+          email: result.user.email,
+          uid: result.user.uid,
+          name: result.user.displayName,
           token,
-        });
-        console.log(user);
-        localStorage.setItem("user", { user, token });
+        };
+        console.log(result.user);
+        setUser(_user);
+        console.log(_user);
+        localStorage.setItem("user", JSON.stringify(_user));
       })
       .catch((error) => {
         const errorCode = error.code;
@@ -69,9 +85,18 @@ const Navbar = () => {
             <div className="cursor-pointer text-lg hover:font-bold text-white">
               About
             </div>
-            <div className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 ">
-              Login
-            </div>
+            {!localStorage.getItem("user") ? (
+              <button
+                onClick={googleUserLogin}
+                className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 "
+              >
+                Login
+              </button>
+            ) : (
+              <button onClick={logOutUser} className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 ">
+                {user?.name}
+              </button>
+            )}
           </div>
         </div>
       </div>
@@ -84,15 +109,19 @@ const Navbar = () => {
       <div className="hidden md:flex flex-row gap-7 pr-8 justify-center items-center ">
         <div className="cursor-pointer text-lg hover:font-bold">Home </div>
         <div className="cursor-pointer text-lg hover:font-bold">About</div>
-        <button
-          onClick={googleUserLogin}
-          className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 "
-        >
-          Login
-        </button>
-        <button className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 ">
-          Saved
-        </button>
+
+        {!localStorage.getItem("user") ? (
+          <button
+            onClick={googleUserLogin}
+            className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 "
+          >
+            Login
+          </button>
+        ) : (
+          <button onClick={logOutUser}  className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 ">
+            {user?.name}
+          </button>
+        )}
       </div>
       <div
         className="md:hidden cursor-pointer"
