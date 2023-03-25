@@ -16,6 +16,9 @@ const InternshipCard = (props) => {
   // } else if (props.site === "Indeed") {
   //   setImgSrc("indeed-small.png");
   // }
+  const desc = props?.description
+  toString(desc)
+  var firstLine = desc.split('\n', 12)[0];
   return (
     <div>
       <div
@@ -62,7 +65,7 @@ const InternshipCard = (props) => {
               className=" shadow-black-100  rounded-md p-1 flex items-center justify-start text-base "
               style={{ fontWeight: "500", textOverflow: "ellipsis" }}
             >
-              {props?.description}
+              {firstLine}
             </div>
             <div className=" shadow-black-100  rounded-md p-1 flex items-center justify-end cursor-pointer ">
               <button
