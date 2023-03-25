@@ -20,7 +20,8 @@ const Navbar = () => {
           ...user,
           token,
         });
-        console.log(user)
+        console.log(user);
+        localStorage.setItem("user", { user, token });
       })
       .catch((error) => {
         const errorCode = error.code;
