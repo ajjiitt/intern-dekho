@@ -34,10 +34,9 @@ const Navbar = () => {
           name: result.user.displayName,
           token,
         };
-        console.log(result.user);
         setUser(_user);
-        console.log(_user);
         localStorage.setItem("user", JSON.stringify(_user));
+        navigate("/internships");
       })
       .catch((error) => {
         const errorCode = error.code;
@@ -93,7 +92,10 @@ const Navbar = () => {
                 Login
               </button>
             ) : (
-              <button onClick={logOutUser} className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 ">
+              <button
+                onClick={logOutUser}
+                className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 "
+              >
                 {user?.name}
               </button>
             )}
@@ -118,7 +120,10 @@ const Navbar = () => {
             Login
           </button>
         ) : (
-          <button onClick={logOutUser}  className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 ">
+          <button
+            onClick={logOutUser}
+            className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 "
+          >
             {user?.name}
           </button>
         )}
