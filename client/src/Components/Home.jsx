@@ -5,7 +5,7 @@ const Home = () => {
     <div>
         <div className=' flex flex-row justify-center items-center px-20' id="header">
             <div className='basis-1/2 flex justify-center items-center'>
-                <div className=' flex justify-center items-center flex-col w-72  text-3xl font-strong' style={{color:"#363636",}}>
+                <div className=' flex justify-center items-center flex-col w-72  text-3xl ' style={{color:"#363636",}}>
                     We're happy to see you here and can't wait to help you explore the internships.
                 </div> 
             </div>
