@@ -2,7 +2,7 @@ import "./index.css";
 import Navbar from "./Components/Navbar";
 import SideNav from "./Components/SideNav";
 import Home from "./Components/Home";
-
+import Footer from "./Components/Footer";
 import { Route, Routes } from "react-router-dom";
 function App() {
   return (
@@ -12,6 +12,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/internships" element={<SideNav />} />
       </Routes>
+      <Footer/>
     </div>
   );
 }

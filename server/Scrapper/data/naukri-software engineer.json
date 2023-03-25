@@ -532,6 +532,15 @@
   },
   {
     "site": "Naukri",
+    "title": "Associate I Software Engineer",
+    "companyName": "S&P Global Inc.",
+    "link": "https://www.naukri.com/job-listings-associate-i-software-engineer-s-p-global-inc-bangalore-bengaluru-0-to-2-years-250323500448",
+    "location": "Bangalore/Bengaluru",
+    "stipend": "Not disclosed",
+    "description": "Strong programming skills in Python Automation preferably in Windows environment Should..."
+  },
+  {
+    "site": "Naukri",
     "title": "Software Engineer - UI",
     "companyName": "Siemens",
     "link": "https://www.naukri.com/job-listings-software-engineer-ui-siemens-limited-bangalore-bengaluru-0-to-5-years-150323503232",
@@ -889,14 +898,5 @@
     "location": "Permanent Remote",
     "stipend": "4.5-5 Lacs PA",
     "description": "As a new graduate, youll have the opportunity to work alongside experienced developers ..."
-  },
-  {
-    "site": "Naukri",
-    "title": "Software Engineer I",
-    "companyName": "Airasia",
-    "link": "https://www.naukri.com/job-listings-software-engineer-i-airasia-india-private-limited-bangalore-bengaluru-0-to-3-years-251122502171",
-    "location": "Bangalore/Bengaluru",
-    "stipend": "Not disclosed",
-    "description": "Experience in writing, executing and monitoring automated test suites using a variety o..."
   }
 ]
