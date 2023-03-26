@@ -203,17 +203,6 @@
   },
   {
     "site": "Internshala",
-    "title": "Software Development",
-    "companyName": "PiStarTech Pvt. Ltd.",
-    "link": "https://internshala.com/internship/detail/software-development-internship-in-hyderabad-at-pistartech-pvt-ltd1679644267",
-    "location": [
-      "Hyderabad"
-    ],
-    "stipend": "20,000 /month",
-    "description": ""
-  },
-  {
-    "site": "Internshala",
     "title": "Unity Development",
     "companyName": "Twin Reality Technologies LLP",
     "link": "https://internshala.com/internship/detail/unity-development-part-time-job-internship-at-vadodara-in-twin-reality-technologies-llp1679652839",
@@ -468,6 +457,17 @@
   },
   {
     "site": "Internshala",
+    "title": "Electronics Hardware Engineering",
+    "companyName": "Techolution",
+    "link": "https://internshala.com/internship/detail/electronics-hardware-engineering-internship-in-hyderabad-at-techolution1679562015",
+    "location": [
+      "Hyderabad"
+    ],
+    "stipend": "15,000 /month",
+    "description": ""
+  },
+  {
+    "site": "Internshala",
     "title": "Inside Sales Specialist",
     "companyName": "Skill-Lync",
     "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
@@ -477,17 +477,6 @@
       "Hyderabad",
       "Chennai"
     ],
-    "description": ""
-  },
-  {
-    "site": "Internshala",
-    "title": "Java & Microservices Development",
-    "companyName": "NatWest Group",
-    "link": "https://internshala.com/internship/detail/java-microservices-development-internship-in-gurgaon-at-natwest-group1679561461",
-    "location": [
-      "Gurgaon"
-    ],
-    "stipend": "45,000 /month",
     "description": ""
   },
   {
@@ -686,17 +675,6 @@
       "Work From Home"
     ],
     "stipend": "4,000-6,000 /month",
-    "description": ""
-  },
-  {
-    "site": "Internshala",
-    "title": "Flutter Development",
-    "companyName": "Dropdown",
-    "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-dropdown1679407895",
-    "location": [
-      "Work From Home"
-    ],
-    "stipend": "20,000 /month",
     "description": ""
   },
   {
@@ -910,15 +888,13 @@
   },
   {
     "site": "Internshala",
-    "title": "Inside Sales Specialist",
-    "companyName": "Skill-Lync",
-    "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
+    "title": "Software Development",
+    "companyName": "Vistaar Digital Communications Private Limited",
+    "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-vistaar-digital-communications-private-limited1679289070",
     "location": [
-      "Delhi",
-      "Bangalore",
-      "Hyderabad",
-      "Chennai"
+      "Mumbai"
     ],
+    "stipend": "8,000 /month",
     "description": ""
   },
   {
@@ -934,13 +910,15 @@
   },
   {
     "site": "Internshala",
-    "title": "ASP.NET Development",
-    "companyName": "Blackcoffer",
-    "link": "https://internshala.com/internship/detail/aspnet-development-work-from-home-job-internship-at-blackcoffer1679318125",
+    "title": "Inside Sales Specialist",
+    "companyName": "Skill-Lync",
+    "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
     "location": [
-      "Work From Home"
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
     ],
-    "stipend": "6,000-12,000 /month",
     "description": ""
   },
   {
@@ -1355,15 +1333,13 @@
   },
   {
     "site": "Internshala",
-    "title": "Inside Sales Specialist",
-    "companyName": "Skill-Lync",
-    "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
+    "title": "Data Tagging",
+    "companyName": "Salesken",
+    "link": "https://internshala.com/internship/detail/data-tagging-internship-in-bangalore-at-salesken1679046415",
     "location": [
-      "Delhi",
-      "Bangalore",
-      "Hyderabad",
-      "Chennai"
+      "Bangalore"
     ],
+    "stipend": "10,000 /month",
     "description": ""
   },
   {
@@ -1379,13 +1355,15 @@
   },
   {
     "site": "Internshala",
-    "title": "Vue.js and Java/Python Development",
-    "companyName": "Growlytics Technologies Private Limited",
-    "link": "https://internshala.com/internship/detail/vuejs-and-java-python-development-internship-in-bangalore-at-growlytics-technologies-private-limited1679039590",
+    "title": "Inside Sales Specialist",
+    "companyName": "Skill-Lync",
+    "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
     "location": [
-      "Bangalore"
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
     ],
-    "stipend": "15,000 /month +  Incentives",
     "description": ""
   },
   {
@@ -1809,15 +1787,13 @@
   },
   {
     "site": "Internshala",
-    "title": "Inside Sales Specialist",
-    "companyName": "Skill-Lync",
-    "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
+    "title": "API Development",
+    "companyName": "Isourse",
+    "link": "https://internshala.com/internship/detail/api-development-internship-in-delhi-at-isourse1678783760",
     "location": [
-      "Delhi",
-      "Bangalore",
-      "Hyderabad",
-      "Chennai"
+      "Delhi"
     ],
+    "stipend": "15,000 /month",
     "description": ""
   },
   {
@@ -1833,13 +1809,15 @@
   },
   {
     "site": "Internshala",
-    "title": "Product Engineering",
-    "companyName": "Dashtoon",
-    "link": "https://internshala.com/internship/detail/product-engineering-internship-in-bangalore-at-dashtoon1678781767",
+    "title": "Inside Sales Specialist",
+    "companyName": "Skill-Lync",
+    "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
     "location": [
-      "Bangalore"
+      "Delhi",
+      "Bangalore",
+      "Hyderabad",
+      "Chennai"
     ],
-    "stipend": "25,000-40,000 /month",
     "description": ""
   },
   {
@@ -2255,6 +2233,28 @@
       "Noida"
     ],
     "stipend": "20,000 /month",
+    "description": ""
+  },
+  {
+    "site": "Internshala",
+    "title": "Flutter Development",
+    "companyName": "Settyl",
+    "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-settyl1678299992",
+    "location": [
+      "Work From Home"
+    ],
+    "stipend": "6,000-8,000 /month",
+    "description": ""
+  },
+  {
+    "site": "Internshala",
+    "title": "NLP Engineering",
+    "companyName": "UniAcco",
+    "link": "https://internshala.com/internship/detail/nlp-engineering-internship-in-delhi-at-uniacco1678268191",
+    "location": [
+      "Delhi"
+    ],
+    "stipend": "15,000-20,000 /month",
     "description": ""
   }
 ]
