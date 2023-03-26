@@ -8,10 +8,14 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/internships" element={<SideNav />} />
+      <div style={{height:"78vh"}}>
+      <Routes >
+          
+            <Route path="/" element={<Home />} />
+            <Route path="/internships" element={<SideNav />} />
+          
       </Routes>
+      </div>
       <Footer/>
     </div>
   );

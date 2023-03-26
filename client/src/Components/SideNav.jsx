@@ -11,6 +11,14 @@ const SideNav = () => {
   const db = getFirestore(fb);
   const [multipleSelectValuesOption, setMultipleSelectValuesOption] =
     useState("");
+
+  useEffect(() => {
+    let _user = JSON.parse(localStorage.getItem("user"))
+    if (sidenav == 6 && !_user) {
+      alert("Please Login to save & view saved internships.");
+      setSidenav(1);
+    }
+  })
   const [
     multipleSelectValuesOptionLocation,
     setMultipleSelectValuesOptionLocation,
@@ -271,22 +279,37 @@ const SideNav = () => {
           </div>
         </div>
         <div className="basis-3/4 max-h-96  flex flex-col gap-6 scrollbar-thin scrollbar-thumb-navOrange pr-3 scrollbar-track-orange-100 overflow-y-scroll">
-          {internships.map((i) => {
-            return (
-              <InternshipCard
-                currValue={sidenav}
-                docID={i?.docID}
-                site={i?.site}
-                title={i?.title}
-                salary={i?.stipend}
-                location={i?.location}
-                company={i?.companyName}
-                link={i?.link}
-                description={i?.description}
-                getSavedInternships={getSavedInternships}
-              />
-            );
-          })}
+            {
+              internships ? (
+              <div>
+                {
+                  internships.map((i) => {
+                    return (
+                      <InternshipCard
+                        currValue={sidenav}
+                        docID={i?.docID}
+                        site={i?.site}
+                        title={i?.title}
+                        salary={i?.stipend}
+                        location={i?.location}
+                        company={i?.companyName}
+                        link={i?.link}
+                        description={i?.description}
+                        getSavedInternships={getSavedInternships}
+                      />
+                    );
+                })}
+              </div>
+              ):(
+                <div className="mt-10 flex items-center justify-center flex-col" style={{height:"145px"}}>
+                  <img src="notfound.svg" alt="" style={{height:"100%",width:"100%"}} />
+                  <div className="flex justify-center items-center font-bold">Internships Not Found</div>
+                </div>
+              )
+            }
+          
+          
+         
         </div>
       </div>
     </div>
