@@ -47,15 +47,19 @@ const InternshipCard = (props) => {
       >
         <div className="flex flex-row justify-between gap-1">
           <div className="basis-1/12 flex justify-center">
-            <img
-              src={`${props.site.toLowerCase()}-small.png`}
-              alt=""
-              style={{
-                fontSize: "45px",
-                color: "rgb(10,102,194)",
-                height: "50%",
-              }}
-            />
+            <div style={{height:"80%"}}>
+              <img
+                src={`${props.site.toLowerCase()}-small.png`}
+                alt=""
+                style={{
+                  fontSize: "45px",
+                  color: "rgb(10,102,194)",
+                  height: "50%",
+                  // height:"70px"
+                }}
+              />
+            </div>
+
             {/* <LinkedInIcon
               className=""
               style={{ fontSize: "45px", color: "rgb(10,102,194)" }}
