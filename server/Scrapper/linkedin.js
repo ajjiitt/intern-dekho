@@ -58,10 +58,6 @@ async function linkedin(keyword) {
         "div.jobs-unified-top-card__primary-description > span.jobs-unified-top-card__subtitle-primary-grouping.t-black > span.jobs-unified-top-card__bullet",
         (element) => element.textContent.trim()
       );
-      let locRes = "";
-      location.map((loc) => {
-        locRes += loc + " ";
-      });
       let type = "";
       if (
         (await page.$(
@@ -85,7 +81,7 @@ async function linkedin(keyword) {
         site: "LinkedIN",
         title,
         companyName,
-        location: locRes + ", " + type,
+        location: location + ", " + type,
         description,
         link,
         stipend: "Not disclosed",
@@ -105,6 +101,7 @@ async function linkedin(keyword) {
 
   return internships;
 }
+// linkedin("software developer");
 
 async function getCookies() {
   const browser = await puppeteer.launch({ headless: false });
