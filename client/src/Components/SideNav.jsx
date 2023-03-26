@@ -197,13 +197,16 @@ const SideNav = () => {
   }, [multipleSelectValuesOptionLocation]);
 
   return (
-    <div className="pt-14  md:pl-20 md:pr-20 pr-3 pl-3">
+    <div className="pt-6  md:pl-20 md:pr-20 pr-3 pl-3">
       <div>
         <div className="text-2xl md:text-3xl  font-medium">
           Search For Internships
         </div>
       </div>
-      <div className="flex flex-row gap-5 pt-6 pb-2 flex-wrap ">
+      <div className="flex flex-row gap-5 pt-6 pb-2 flex-wrap justify-between">
+      <div className="flex flex-row gap-5">
+
+        
         <div
           className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
           onClick={() => {
@@ -265,8 +268,12 @@ const SideNav = () => {
           Saved Internships
         </div>
       </div>
+      <div>
+          Total internships found : {internships.length}
+      </div>
+      </div>
       <hr></hr>
-      <div className="flex p-3 gap-2 flex-col sm:flex-row">
+      <div className="flex p-3 gap-2 flex-col sm:flex-row" style={{height:"78vh"}}>
         <div
           className="basis-1/4 flex items-center  flex-col p-3 gap-2"
           style={{
@@ -310,7 +317,7 @@ const SideNav = () => {
             /> */}
           </div>
         </div>
-        <div className="basis-3/4 max-h-96  flex flex-col gap-6 scrollbar-thin scrollbar-thumb-navOrange pr-3 scrollbar-track-orange-100 overflow-y-scroll">
+        <div className="basis-3/4 h-full  flex flex-col gap-6 scrollbar-thin scrollbar-thumb-navOrange pr-3 scrollbar-track-orange-100 overflow-y-scroll">
           {internships.length && displayData.length == 0 ? (
             <div>
               {internships.map((i) => {
