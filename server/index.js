@@ -121,26 +121,26 @@ app.get("/browseAll", async(req, res) => {
 app.get("/test", async(req, res) => {
     try {
         const keywords = ["software engineer"];
-        // let promiseArr = [];
-        // const hashMap = new Map();
-        // hashMap.set("software engineer", "software development");
-        // for (let i = 0; i < keywords.length; i++) {
-        //     promiseArr.push(linkedin(keywords[i]));
-        //     promiseArr.push(naukri(keywords[i]));
-        //     promiseArr.push(internshala(hashMap.get(keywords[i])));
-        //     promiseArr.push(indeed(keywords[i]));
-        // }
+        let promiseArr = [];
+        const hashMap = new Map();
+        hashMap.set("software engineer", "software development");
+        for (let i = 0; i < keywords.length; i++) {
+            promiseArr.push(linkedin(keywords[i]));
+            promiseArr.push(naukri(keywords[i]));
+            promiseArr.push(internshala(hashMap.get(keywords[i])));
+            promiseArr.push(indeed(keywords[i]));
+        }
 
-        // const result = await Promise.all(promiseArr);
-        // console.log(result, "I was here");
-        // let finalResult = result.flat();
+        const result = await Promise.all(promiseArr);
+        console.log(result, "I was here");
+        let finalResult = result.flat();
 
-        // let randomResult = shuffle(finalResult);
+        let randomResult = shuffle(finalResult);
 
-        // await fs.writeFile(
-        //     "Scrapper/data/browseAll.json",
-        //     JSON.stringify(randomResult, null, 2)
-        // );
+        await fs.writeFile(
+            "Scrapper/data/browseAll.json",
+            JSON.stringify(randomResult, null, 2)
+        );
 
         await sendAlert("internshala");
         await sendAlert("naukri");

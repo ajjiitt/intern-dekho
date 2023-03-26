@@ -829,15 +829,6 @@
   },
   {
     "site": "Naukri",
-    "title": "Trainee Software Engineer",
-    "companyName": "Vision Unlimited",
-    "link": "https://www.naukri.com/job-listings-trainee-software-engineer-vision-unlimited-ludhiana-0-to-0-years-061022606342",
-    "location": "Ludhiana",
-    "stipend": "2.25-2.75 Lacs PA",
-    "description": "Desired Candidate Profile . An IT technical graduate / postgraduate fresher with 65% ma..."
-  },
-  {
-    "site": "Naukri",
     "title": "Software Engineer I",
     "companyName": "Cadence",
     "link": "https://www.naukri.com/job-listings-software-engineer-i-cadence-design-systems-bangalore-bengaluru-0-to-2-years-311222500392",
@@ -898,5 +889,14 @@
     "location": "Bangalore/Bengaluru",
     "stipend": "Not disclosed",
     "description": "Experience in writing, executing and monitoring automated test suites using a variety o..."
+  },
+  {
+    "site": "Naukri",
+    "title": "Software Engineer Trainee",
+    "companyName": "Shri Ramswaroop Digital Technology Pvt Ltd",
+    "link": "https://www.naukri.com/job-listings-software-engineer-trainee-shri-ramswaroop-digital-technology-pvt-ltd-lucknow-0-to-2-years-241122006237",
+    "location": "Lucknow",
+    "stipend": "50,000-2.5 Lacs PA",
+    "description": "Roles and Responsibilities Job Title/Designation:Software Engineer - TraineeEmployment ..."
   }
 ]

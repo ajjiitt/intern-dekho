@@ -5,7 +5,7 @@ async function internshala(job_role) {
   console.log("Web-Scrapping Internshala");
   const updatedJobRole = job_role.replace("-", " ");
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
     defaultViewport: false,
   });
 
@@ -105,7 +105,7 @@ async function internshala(job_role) {
         title,
         companyName,
         link,
-        location,
+        location: location.toString(),
         stipend,
         // startTime,
         // duration,
@@ -124,6 +124,6 @@ async function internshala(job_role) {
   return internships;
 }
 
-// internshala();
+// internshala("software development");
 
 module.exports = internshala;

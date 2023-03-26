@@ -11,14 +11,14 @@ const SideNav = () => {
   const db = getFirestore(fb);
   const [multipleSelectValuesOption, setMultipleSelectValuesOption] =
     useState("");
-
+  const [displayData, setDisplayData] = useState([]);
   useEffect(() => {
-    let _user = JSON.parse(localStorage.getItem("user"))
+    let _user = JSON.parse(localStorage.getItem("user"));
     if (sidenav == 6 && !_user) {
       alert("Please Login to save & view saved internships.");
       setSidenav(1);
     }
-  })
+  });
   const [
     multipleSelectValuesOptionLocation,
     setMultipleSelectValuesOptionLocation,
@@ -26,6 +26,7 @@ const SideNav = () => {
   // console.log(multipleSelectValuesOption)
   const [sidenav, setSidenav] = useState(1);
   const [internships, setInternships] = useState([]);
+  const [saveInternships, setSaveInternships] = useState([]);
   useEffect(() => {
     getInternships();
   }, []);
@@ -35,6 +36,7 @@ const SideNav = () => {
       .then(function (response) {
         // handle success
         setInternships(response?.data?.data);
+        setSaveInternships(response?.data?.data);
         console.log(response?.data?.data);
       })
       .catch(function (error) {
@@ -47,7 +49,9 @@ const SideNav = () => {
       .get("http://localhost:4000/internshala/software%20engineer")
       .then(function (response) {
         // handle success
+
         setInternships(response?.data?.data);
+        setSaveInternships(response?.data?.data);
         console.log(response?.data?.data);
       })
       .catch(function (error) {
@@ -60,7 +64,9 @@ const SideNav = () => {
       .get("http://localhost:4000/linkedin/software%20engineer")
       .then(function (response) {
         // handle success
+
         setInternships(response?.data?.data);
+        setSaveInternships(response?.data?.data);
         console.log(response?.data?.data);
       })
       .catch(function (error) {
@@ -73,7 +79,9 @@ const SideNav = () => {
       .get("http://localhost:4000/naukri/software%20engineer")
       .then(function (response) {
         // handle success
+
         setInternships(response?.data?.data);
+        setSaveInternships(response?.data?.data);
         console.log(response?.data?.data);
       })
       .catch(function (error) {
@@ -86,7 +94,9 @@ const SideNav = () => {
       .get("http://localhost:4000/indeed/software%20engineer")
       .then(function (response) {
         // handle success
+
         setInternships(response?.data?.data);
+        setSaveInternships(response?.data?.data);
         console.log(response?.data?.data);
       })
       .catch(function (error) {
@@ -96,8 +106,10 @@ const SideNav = () => {
   };
 
   const handleOnchange = (val) => setMultipleSelectValuesOption(val);
-  const handleOnchangeLocation = (val) =>
+  const handleOnchangeLocation = (val) => {
     setMultipleSelectValuesOptionLocation(val);
+    filterInternships();
+  };
 
   const multiSelectTag = [
     {
@@ -150,6 +162,7 @@ const SideNav = () => {
       });
       console.log(arr);
       setInternships(arr);
+      setSaveInternships(arr);
     } else {
       alert("Please Login to view saved internships");
     }
@@ -163,6 +176,25 @@ const SideNav = () => {
       });
     }
   };
+
+  const filterInternships = async () => {
+    let _locations = multipleSelectValuesOptionLocation.split(",");
+    console.log(_locations);
+    if(_locations.length === 1 && _locations[0] === ""){
+      setInternships(saveInternships);
+      return;
+    }
+    let res = saveInternships.filter((i) => {
+      return _locations.includes(i.location);
+    });
+    console.log(res);
+    // setInternships(res);
+    setInternships(res);
+  };
+
+  useEffect(() => {
+    filterInternships();
+  }, [multipleSelectValuesOptionLocation]);
 
   return (
     <div className="pt-14  md:pl-20 md:pr-20 pr-3 pl-3">
@@ -269,7 +301,7 @@ const SideNav = () => {
             <MultiSelect
               style={{ border: "none" }}
               className="multi-select"
-              onChange={handleOnchange}
+              onChange={handleOnchangeLocation}
               options={multiSelectTagLocation}
             />
             {/* <input
@@ -279,37 +311,41 @@ const SideNav = () => {
           </div>
         </div>
         <div className="basis-3/4 max-h-96  flex flex-col gap-6 scrollbar-thin scrollbar-thumb-navOrange pr-3 scrollbar-track-orange-100 overflow-y-scroll">
-            {
-              internships ? (
-              <div>
-                {
-                  internships.map((i) => {
-                    return (
-                      <InternshipCard
-                        currValue={sidenav}
-                        docID={i?.docID}
-                        site={i?.site}
-                        title={i?.title}
-                        salary={i?.stipend}
-                        location={i?.location}
-                        company={i?.companyName}
-                        link={i?.link}
-                        description={i?.description}
-                        getSavedInternships={getSavedInternships}
-                      />
-                    );
-                })}
+          {internships.length && displayData.length == 0 ? (
+            <div>
+              {internships.map((i) => {
+                return (
+                  <InternshipCard
+                    currValue={sidenav}
+                    docID={i?.docID}
+                    site={i?.site}
+                    title={i?.title}
+                    salary={i?.stipend}
+                    location={i?.location}
+                    company={i?.companyName}
+                    link={i?.link}
+                    description={i?.description}
+                    getSavedInternships={filterInternships}
+                    allInterns={true}
+                  />
+                );
+              })}
+            </div>
+          ) : (
+            <div
+              className="mt-10 flex items-center justify-center flex-col"
+              style={{ height: "145px" }}
+            >
+              <img
+                src="notfound.svg"
+                alt=""
+                style={{ height: "100%", width: "100%" }}
+              />
+              <div className="flex justify-center items-center font-bold">
+                Internships Not Found
               </div>
-              ):(
-                <div className="mt-10 flex items-center justify-center flex-col" style={{height:"145px"}}>
-                  <img src="notfound.svg" alt="" style={{height:"100%",width:"100%"}} />
-                  <div className="flex justify-center items-center font-bold">Internships Not Found</div>
-                </div>
-              )
-            }
-          
-          
-         
+            </div>
+          )}
         </div>
       </div>
     </div>
