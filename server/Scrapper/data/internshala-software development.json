@@ -14,6 +14,17 @@
   },
   {
     "site": "Internshala",
+    "title": "Hackathon Training (Coding Students)",
+    "companyName": "GEMA Education Technology Private Limited",
+    "link": "https://internshala.com/internship/detail/hackathon-training-coding-students-work-from-home-job-internship-at-gema-education-technology-private-limited1679804063",
+    "location": [
+      "Work From Home"
+    ],
+    "stipend": "1,000 /month",
+    "description": ""
+  },
+  {
+    "site": "Internshala",
     "title": "Automation Testing",
     "companyName": "ExactSpace",
     "link": "https://internshala.com/internship/detail/automation-testing-internship-in-bangalore-at-exactspace1679763378",
@@ -457,17 +468,6 @@
   },
   {
     "site": "Internshala",
-    "title": "Java & Microservices Development",
-    "companyName": "NatWest Group",
-    "link": "https://internshala.com/internship/detail/java-microservices-development-internship-in-gurgaon-at-natwest-group1679561461",
-    "location": [
-      "Gurgaon"
-    ],
-    "stipend": "45,000 /month",
-    "description": ""
-  },
-  {
-    "site": "Internshala",
     "title": "Inside Sales Specialist",
     "companyName": "Skill-Lync",
     "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
@@ -477,6 +477,17 @@
       "Hyderabad",
       "Chennai"
     ],
+    "description": ""
+  },
+  {
+    "site": "Internshala",
+    "title": "Java Microservice Development",
+    "companyName": "Indian Institute Of Technology Bombay",
+    "link": "https://internshala.com/internship/detail/java-microservice-development-internship-in-mumbai-at-indian-institute-of-technology-bombay1679555116",
+    "location": [
+      "Mumbai"
+    ],
+    "stipend": "10,000 /month",
     "description": ""
   },
   {
@@ -899,17 +910,6 @@
   },
   {
     "site": "Internshala",
-    "title": "ASP.NET Development",
-    "companyName": "Blackcoffer",
-    "link": "https://internshala.com/internship/detail/aspnet-development-work-from-home-job-internship-at-blackcoffer1679318125",
-    "location": [
-      "Work From Home"
-    ],
-    "stipend": "6,000-12,000 /month",
-    "description": ""
-  },
-  {
-    "site": "Internshala",
     "title": "Inside Sales Specialist",
     "companyName": "Skill-Lync",
     "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
@@ -919,6 +919,17 @@
       "Hyderabad",
       "Chennai"
     ],
+    "description": ""
+  },
+  {
+    "site": "Internshala",
+    "title": "Front End Development (ReactJS)",
+    "companyName": "Omikron Technologies Private Limited",
+    "link": "https://internshala.com/internship/detail/front-end-development-reactjs-work-from-home-job-internship-at-omikron-technologies-private-limited1679368107",
+    "location": [
+      "Work From Home"
+    ],
+    "stipend": "10,000 /month",
     "description": ""
   },
   {
@@ -1344,17 +1355,6 @@
   },
   {
     "site": "Internshala",
-    "title": "Vue.js and Java/Python Development",
-    "companyName": "Growlytics Technologies Private Limited",
-    "link": "https://internshala.com/internship/detail/vuejs-and-java-python-development-internship-in-bangalore-at-growlytics-technologies-private-limited1679039590",
-    "location": [
-      "Bangalore"
-    ],
-    "stipend": "15,000 /month +  Incentives",
-    "description": ""
-  },
-  {
-    "site": "Internshala",
     "title": "Inside Sales Specialist",
     "companyName": "Skill-Lync",
     "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
@@ -1364,6 +1364,17 @@
       "Hyderabad",
       "Chennai"
     ],
+    "description": ""
+  },
+  {
+    "site": "Internshala",
+    "title": "Unity Game Development",
+    "companyName": "IDZ Digital Private Limited",
+    "link": "https://internshala.com/internship/detail/unity-game-development-work-from-home-job-internship-at-idz-digital-private-limited1679036863",
+    "location": [
+      "Work From Home"
+    ],
+    "stipend": "8,000 /month",
     "description": ""
   },
   {
@@ -1798,17 +1809,6 @@
   },
   {
     "site": "Internshala",
-    "title": "Product Engineering",
-    "companyName": "Dashtoon",
-    "link": "https://internshala.com/internship/detail/product-engineering-internship-in-bangalore-at-dashtoon1678781767",
-    "location": [
-      "Bangalore"
-    ],
-    "stipend": "25,000-40,000 /month",
-    "description": ""
-  },
-  {
-    "site": "Internshala",
     "title": "Inside Sales Specialist",
     "companyName": "Skill-Lync",
     "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
@@ -1822,13 +1822,14 @@
   },
   {
     "site": "Internshala",
-    "title": "Chatbot Development",
-    "companyName": "Aurinko Management India Private Limited",
-    "link": "https://internshala.com/internship/detail/chatbot-development-work-from-home-job-internship-at-aurinko-management-india-private-limited1678706438",
+    "title": "Flutter Development",
+    "companyName": "CvDragon India",
+    "link": "https://internshala.com/internship/detail/flutter-development-internship-in-kolkata-howrah-at-cvdragon-india1678773774",
     "location": [
-      "Work From Home"
+      "Kolkata",
+      "Howrah"
     ],
-    "stipend": "2,500 /month",
+    "stipend": "7,500 /month",
     "description": ""
   },
   {

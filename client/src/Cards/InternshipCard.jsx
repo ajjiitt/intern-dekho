@@ -101,13 +101,13 @@ const InternshipCard = (props) => {
                   onClick={() => {
                     setBookmark(1);
                     saveInternship({
-                      title: props.title,
-                      company: props.company,
-                      location: props.location,
-                      salary: props.salary,
-                      description: props.description,
-                      link: props.link,
-                      site: props.site,
+                      title: props?.title,
+                      company: props?.company,
+                      location: props?.location,
+                      salary: props?.salary,
+                      description: props?.description,
+                      link: props?.link,
+                      site: props?.site,
                     });
                   }}
                 />
