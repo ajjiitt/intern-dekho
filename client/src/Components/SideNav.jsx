@@ -4,8 +4,18 @@ import FilterAltOutlinedIcon from "@mui/icons-material/FilterAltOutlined";
 import axios from "axios";
 import { collection, addDoc, getFirestore, getDocs } from "firebase/firestore";
 import fb from "../utils/firebase";
+import MultiSelect from "react-multiple-select-dropdown-lite";
+import "react-multiple-select-dropdown-lite/dist/index.css";
+
 const SideNav = () => {
   const db = getFirestore(fb);
+  const [multipleSelectValuesOption, setMultipleSelectValuesOption] =
+    useState("");
+  const [
+    multipleSelectValuesOptionLocation,
+    setMultipleSelectValuesOptionLocation,
+  ] = useState("");
+  // console.log(multipleSelectValuesOption)
   const [sidenav, setSidenav] = useState(1);
   const [internships, setInternships] = useState([]);
   useEffect(() => {
@@ -76,6 +86,52 @@ const SideNav = () => {
         console.log(error);
       });
   };
+
+  const handleOnchange = (val) => setMultipleSelectValuesOption(val);
+  const handleOnchangeLocation = (val) =>
+    setMultipleSelectValuesOptionLocation(val);
+
+  const multiSelectTag = [
+    {
+      label: "Software Engineer",
+      value: "Software Engineer",
+    },
+    {
+      label: "Backend Development Intern",
+      value: "Backend Development Intern",
+    },
+    {
+      label: "Frontend Development Intern",
+      value: "Frontend Development Intern",
+    },
+    {
+      label: "Mobile Development Intern",
+      value: "Mobile Development Intern",
+    },
+  ];
+  const multiSelectTagLocation = [
+    {
+      label: "Work From Home",
+      value: "Work From Home",
+    },
+    {
+      label: "India",
+      value: "India",
+    },
+    {
+      label: "Mumbai",
+      value: "Mumbai",
+    },
+    {
+      label: "Banglore",
+      value: "Banglore",
+    },
+    {
+      label: "Hydrebad",
+      value: "Hydrebad",
+    },
+  ];
+
   const getSavedInternships = async () => {
     let user = JSON.parse(localStorage.getItem("user"));
     if (user.email) {
@@ -179,18 +235,39 @@ const SideNav = () => {
               " 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2)",
           }}
         >
-          <div className="flex flex-row">
-            <FilterAltOutlinedIcon />
-            <div>Filter</div>
+          <div className="font-bold">
+            {/* <FilterAltOutlinedIcon /> */}
+            Filter
           </div>
           <div className="flex flex-col mt-9">
-            <div className=" flex items-center justify-center">
-              Keyword search
+            <div className=" flex items-center justify-start font-semibold">
+              Category
             </div>
-            <input
+            <MultiSelect
+              style={{ border: "none" }}
+              className="multi-select"
+              onChange={handleOnchange}
+              options={multiSelectTag}
+            />
+            {/* <input
               className="placeholder:italic placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-9 pr-3 shadow-sm focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 sm:text-sm"
               placeholder="Search for anything..."
+            /> */}
+          </div>
+          <div className="flex flex-col mt-4">
+            <div className=" flex items-center justify-start font-semibold">
+              Location
+            </div>
+            <MultiSelect
+              style={{ border: "none" }}
+              className="multi-select"
+              onChange={handleOnchange}
+              options={multiSelectTagLocation}
             />
+            {/* <input
+              className="placeholder:italic placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-9 pr-3 shadow-sm focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 sm:text-sm"
+              placeholder="Search for anything..."
+            /> */}
           </div>
         </div>
         <div className="basis-3/4 max-h-96  flex flex-col gap-6 scrollbar-thin scrollbar-thumb-navOrange pr-3 scrollbar-track-orange-100 overflow-y-scroll">
@@ -215,6 +292,5 @@ const SideNav = () => {
     </div>
   );
 };
-
 
 export default SideNav;

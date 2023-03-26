@@ -74,7 +74,7 @@ const InternshipCard = (props) => {
                 {props.location}
               </div>
               <div className="flex items-center justify-start   shadow-black-100 font-semiStrong">
-                Salary : {props.salary}
+                {props.salary && `Salary : ${props.salary}`}
               </div>
             </div>
             <div

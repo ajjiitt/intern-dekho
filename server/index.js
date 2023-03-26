@@ -83,7 +83,7 @@ app.get("/linkedin/:keyword", async(req, res) => {
     const { keyword } = req.params;
     console.log(keyword);
     try {
-        await linkedin(keyword);
+        // await linkedin(keyword);
 
         const linkedinLatestData = require(`./Scrapper/data/linkedin-${keyword.replace(
       " ",

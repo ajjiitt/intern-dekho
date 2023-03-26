@@ -1,21 +1,21 @@
 [
   {
     "site": "Naukri",
-    "title": "Software Engineering Intern",
-    "companyName": "Finsoftai",
-    "link": "https://www.naukri.com/job-listings-software-engineering-intern-finsoftai-pune-0-to-0-years-230323501189",
-    "location": "Pune",
-    "stipend": "Not disclosed",
-    "description": "Bachelor s / Master s Degree in Computer Science, Information Technology or Electronics..."
-  },
-  {
-    "site": "Naukri",
     "title": "Software Engineer Intern",
     "companyName": "Marvell Semiconductors",
     "link": "https://www.naukri.com/job-listings-software-engineer-intern-marvell-india-pvt-ltd-bangalore-bengaluru-0-to-1-years-150323501993",
     "location": "Bangalore/Bengaluru",
     "stipend": "Not disclosed",
     "description": "Studying for a Masters degree in Computer Networks, Electronics and Communication Syste..."
+  },
+  {
+    "site": "Naukri",
+    "title": "Software Engineering Intern",
+    "companyName": "Finsoftai",
+    "link": "https://www.naukri.com/job-listings-software-engineering-intern-finsoftai-pune-0-to-0-years-230323501189",
+    "location": "Pune",
+    "stipend": "Not disclosed",
+    "description": "Bachelor s / Master s Degree in Computer Science, Information Technology or Electronics..."
   },
   {
     "site": "Naukri",
@@ -451,6 +451,15 @@
   },
   {
     "site": "Naukri",
+    "title": "Senior Software Engineer - C++ Golang",
+    "companyName": "Siemens",
+    "link": "https://www.naukri.com/job-listings-senior-software-engineer-c-golang-siemens-limited-bangalore-bengaluru-0-to-7-years-150323503230",
+    "location": "Bangalore/Bengaluru",
+    "stipend": "Not disclosed",
+    "description": "You should be flexible for a Technology shift from C++ to Golang You Should be able to ..."
+  },
+  {
+    "site": "Naukri",
     "title": "Software Development Engineer 1",
     "companyName": "Jio",
     "link": "https://www.naukri.com/job-listings-software-development-engineer-1-jio-bangalore-bengaluru-delhi-ncr-mumbai-all-areas-0-to-3-years-100323005317",
@@ -466,15 +475,6 @@
     "location": "Bangalore/Bengaluru",
     "stipend": "Not disclosed",
     "description": "1.Skill in Automation Strategy and Methodology. 2.Strong skills in Python scripting. 3...."
-  },
-  {
-    "site": "Naukri",
-    "title": "Senior Software Engineer - C++ Golang",
-    "companyName": "Siemens",
-    "link": "https://www.naukri.com/job-listings-senior-software-engineer-c-golang-siemens-limited-bangalore-bengaluru-0-to-7-years-150323503230",
-    "location": "Bangalore/Bengaluru",
-    "stipend": "Not disclosed",
-    "description": "You should be flexible for a Technology shift from C++ to Golang You Should be able to ..."
   },
   {
     "site": "Naukri",
@@ -595,30 +595,12 @@
   },
   {
     "site": "Naukri",
-    "title": "Associate Software Engineer",
-    "companyName": "S&P Global Inc.",
-    "link": "https://www.naukri.com/job-listings-associate-software-engineer-s-p-global-inc-hyderabad-secunderabad-0-to-2-years-230323502501",
-    "location": "Hyderabad/Secunderabad",
-    "stipend": "Not disclosed",
-    "description": "Willing to work in 24*5 environment on rotational shifts Basic knowledge of Linux / Win..."
-  },
-  {
-    "site": "Naukri",
     "title": "Associate Professional Software Engineer",
     "companyName": "DXC Technology",
     "link": "https://www.naukri.com/job-listings-associate-professional-software-engineer-dxc-technology-bangalore-bengaluru-0-to-5-years-220822501100",
     "location": "Bangalore/Bengaluru",
     "stipend": "Not disclosed",
     "description": "Bachelors degree or equivalent combination of education and experienceBachelors degree ..."
-  },
-  {
-    "site": "Naukri",
-    "title": "Trainee/Associate Software Engineer (.Net)",
-    "companyName": "Cex Webuy Entertainment",
-    "link": "https://www.naukri.com/job-listings-trainee-associate-software-engineer-net-cex-webuy-entertainment-mumbai-mumbai-all-areas-0-to-2-years-210223010835",
-    "location": "Mumbai(Lower Parel), Mumbai (All Areas)",
-    "stipend": "4-6 Lacs PA",
-    "description": "Required Skills: . Experience: 0 - 2 years. . CTC: 4 - 6 lac pa. . . Job description: ...."
   },
   {
     "site": "Naukri",
@@ -691,6 +673,15 @@
     "location": "Bangalore/Bengaluru",
     "stipend": "Not disclosed",
     "description": "Working towards or currently possess a bachelors degree from a four-year college or uni..."
+  },
+  {
+    "site": "Naukri",
+    "title": "Associate Software Engineer",
+    "companyName": "S&P Global Inc.",
+    "link": "https://www.naukri.com/job-listings-associate-software-engineer-s-p-global-inc-hyderabad-secunderabad-0-to-2-years-230323502501",
+    "location": "Hyderabad/Secunderabad",
+    "stipend": "Not disclosed",
+    "description": "Willing to work in 24*5 environment on rotational shifts Basic knowledge of Linux / Win..."
   },
   {
     "site": "Naukri",
@@ -898,5 +889,14 @@
     "location": "Permanent Remote",
     "stipend": "4.5-5 Lacs PA",
     "description": "As a new graduate, youll have the opportunity to work alongside experienced developers ..."
+  },
+  {
+    "site": "Naukri",
+    "title": "Software Engineer I",
+    "companyName": "Airasia",
+    "link": "https://www.naukri.com/job-listings-software-engineer-i-airasia-india-private-limited-bangalore-bengaluru-0-to-3-years-251122502171",
+    "location": "Bangalore/Bengaluru",
+    "stipend": "Not disclosed",
+    "description": "Experience in writing, executing and monitoring automated test suites using a variety o..."
   }
 ]
