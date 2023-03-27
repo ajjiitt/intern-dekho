@@ -67,18 +67,18 @@ const InternshipCard = (props) => {
           </div>
           <div className="flex flex-col gap-2 basis-6/7">
             <div className=" shadow-black-100  rounded-md p-1 md:pt-2 flex items-center justify-start font-strong text-xl  ">
-              {props.title}
+              {props?.title}
             </div>
 
             <div className="flex flex-col sm:flex-row justify-between gap-1 ">
               <div className=" shadow-black-100  rounded-md p-1 flex items-center justify-start font-semiStrong">
-                {props.companyName}
+                {props?.companyName}
               </div>
               <div className="flex items-center justify-start   shadow-black-100 font-semiStrong">
-                {props.location}
+                {props?.location}
               </div>
               <div className="flex items-center justify-start   shadow-black-100 font-semiStrong">
-                {props.salary ? `Salary : ${props.salary}` : "Salary : Not Disclosed"}
+                {props.stipend ? `Salary : ${props?.stipend}` : "Salary : Not Disclosed"}
               </div>
             </div>
             <div
@@ -89,7 +89,7 @@ const InternshipCard = (props) => {
             </div>
             <div className=" shadow-black-100  rounded-md p-1 flex items-center justify-end cursor-pointer ">
               <button
-                onClick={() => window.open(props.link)}
+                onClick={() => window.open(props?.link)}
                 className="bg-navOrange py-1 px-5 rounded-md"
               >
                 view

@@ -9405,9 +9405,9 @@ const SideNav = () => {
                     docID={i?.docID}
                     site={i?.site}
                     title={i?.title}
-                    salary={i?.stipend}
+                    stipend={i?.stipend}
                     location={i?.location}
-                    company={i?.companyName}
+                    companyName={i?.companyName}
                     link={i?.link}
                     description={i?.description}
                     getSavedInternships={filterInternships}
