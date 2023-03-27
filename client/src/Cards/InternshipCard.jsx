@@ -106,9 +106,9 @@ const InternshipCard = (props) => {
                     setBookmark(1);
                     saveInternship({
                       title: props?.title,
-                      company: props?.company,
+                      companyName: props?.companyName,
                       location: props?.location,
-                      salary: props?.salary,
+                      stipend: props?.stipend,
                       description: props?.description,
                       link: props?.link,
                       site: props?.site,
