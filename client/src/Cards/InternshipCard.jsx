@@ -72,7 +72,7 @@ const InternshipCard = (props) => {
 
             <div className="flex flex-col sm:flex-row justify-between gap-1 ">
               <div className=" shadow-black-100  rounded-md p-1 flex items-center justify-start font-semiStrong">
-                {props.company}
+                {props.companyName}
               </div>
               <div className="flex items-center justify-start   shadow-black-100 font-semiStrong">
                 {props.location}
