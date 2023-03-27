@@ -31,78 +31,99 @@ const SideNav = () => {
     getInternships();
   }, []);
   const getInternships = async () => {
-    await axios
-      .get("http://localhost:4000/browseAll")
-      .then(function (response) {
-        // handle success
-        setInternships(response?.data?.data);
-        setSaveInternships(response?.data?.data);
-        console.log(response?.data?.data);
-      })
-      .catch(function (error) {
-        // handle error
-        console.log(error);
-      });
+    // await axios
+    //   .get("http://localhost:4000/browseAll")
+    //   .then(function (response) {
+    // handle success
+    const data = await require("../browseAll.json");
+    setInternships(data);
+    setSaveInternships(data);
+    console.log(data);
+    // })
+    // .catch(function (error) {
+    //   // handle error
+    //   console.log(error);
+    // });
   };
   const getInternshipsInternshala = async () => {
-    await axios
-      .get("http://localhost:4000/internshala/software%20engineer")
-      .then(function (response) {
-        // handle success
-
-        setInternships(response?.data?.data);
-        setSaveInternships(response?.data?.data);
-        console.log(response?.data?.data);
+    // await axios
+    //   .get("http://localhost:4000/internshala/software%20engineer")
+    //   .then(function (response) {
+    // handle success
+    setInternships(
+      saveInternships.filter((i) => {
+        return i.site == "Internshala";
       })
-      .catch(function (error) {
-        // handle error
-        console.log(error);
-      });
+    );
+
+    // setInternships(response?.data?.data);
+    // setSaveInternships(response?.data?.data);
+    // console.log(response?.data?.data);
+    // })
+    // .catch(function (error) {
+    //   // handle error
+    //   console.log(error);
+    // });
   };
   const getInternshipsLinkedin = async () => {
-    await axios
-      .get("http://localhost:4000/linkedin/software%20engineer")
-      .then(function (response) {
-        // handle success
+    // await axios
+    //   .get("http://localhost:4000/linkedin/software%20engineer")
+    //   .then(function (response) {
+    //     // handle success
 
-        setInternships(response?.data?.data);
-        setSaveInternships(response?.data?.data);
-        console.log(response?.data?.data);
+    //     setInternships(response?.data?.data);
+    //     setSaveInternships(response?.data?.data);
+    //     console.log(response?.data?.data);
+    //   })
+    //   .catch(function (error) {
+    //     // handle error
+    //     console.log(error);
+    //   });
+    setInternships(
+      saveInternships.filter((i) => {
+        return i.site == "LinkedIN";
       })
-      .catch(function (error) {
-        // handle error
-        console.log(error);
-      });
+    );
   };
   const getInternshipsNaukri = async () => {
-    await axios
-      .get("http://localhost:4000/naukri/software%20engineer")
-      .then(function (response) {
-        // handle success
+    // await axios
+    //   .get("http://localhost:4000/naukri/software%20engineer")
+    //   .then(function (response) {
+    //     // handle success
 
-        setInternships(response?.data?.data);
-        setSaveInternships(response?.data?.data);
-        console.log(response?.data?.data);
+    //     setInternships(response?.data?.data);
+    //     setSaveInternships(response?.data?.data);
+    //     console.log(response?.data?.data);
+    //   })
+    //   .catch(function (error) {
+    //     // handle error
+    //     console.log(error);
+    //   });
+    setInternships(
+      saveInternships.filter((i) => {
+        return i.site == "Naukri";
       })
-      .catch(function (error) {
-        // handle error
-        console.log(error);
-      });
+    );
   };
   const getInternshipsIndeed = async () => {
-    await axios
-      .get("http://localhost:4000/indeed/software%20engineer")
-      .then(function (response) {
-        // handle success
+    // await axios
+    //   .get("http://localhost:4000/indeed/software%20engineer")
+    //   .then(function (response) {
+    //     // handle success
 
-        setInternships(response?.data?.data);
-        setSaveInternships(response?.data?.data);
-        console.log(response?.data?.data);
+    //     setInternships(response?.data?.data);
+    //     setSaveInternships(response?.data?.data);
+    //     console.log(response?.data?.data);
+    //   })
+    //   .catch(function (error) {
+    //     // handle error
+    //     console.log(error);
+    //   });
+    setInternships(
+      saveInternships.filter((i) => {
+        return i.site == "Indeed";
       })
-      .catch(function (error) {
-        // handle error
-        console.log(error);
-      });
+    );
   };
 
   const handleOnchange = (val) => setMultipleSelectValuesOption(val);
@@ -150,6 +171,14 @@ const SideNav = () => {
       label: "Hydrebad",
       value: "Hydrebad",
     },
+    {
+      label: "Delhi",
+      value: "Delhi",
+    },
+    {
+      label: "Pune",
+      value: "Pune",
+    },
   ];
 
   const getSavedInternships = async () => {
@@ -180,7 +209,7 @@ const SideNav = () => {
   const filterInternships = async () => {
     let _locations = multipleSelectValuesOptionLocation.split(",");
     console.log(_locations);
-    if(_locations.length === 1 && _locations[0] === ""){
+    if (_locations.length === 1 && _locations[0] === "") {
       setInternships(saveInternships);
       return;
     }
@@ -204,76 +233,75 @@ const SideNav = () => {
         </div>
       </div>
       <div className="flex flex-row gap-5 pt-6 pb-2 flex-wrap justify-between">
-      <div className="flex flex-row gap-5">
-
-        
-        <div
-          className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
-          onClick={() => {
-            setSidenav(1);
-            getInternships();
-          }}
-          style={{ backgroundColor: sidenav === 1 ? "#F6A92E" : "white" }}
-        >
-          Browse All
+        <div className="flex flex-row gap-5">
+          <div
+            className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
+            onClick={() => {
+              setSidenav(1);
+              getInternships();
+            }}
+            style={{ backgroundColor: sidenav === 1 ? "#F6A92E" : "white" }}
+          >
+            Browse All
+          </div>
+          <div
+            className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
+            onClick={() => {
+              setSidenav(2);
+              getInternshipsInternshala();
+            }}
+            style={{ backgroundColor: sidenav === 2 ? "#F6A92E" : "white" }}
+          >
+            Internshala
+          </div>
+          <div
+            className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
+            onClick={() => {
+              setSidenav(3);
+              getInternshipsLinkedin();
+            }}
+            style={{ backgroundColor: sidenav === 3 ? "#F6A92E" : "white" }}
+          >
+            Linked In
+          </div>
+          <div
+            className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
+            onClick={() => {
+              setSidenav(4);
+              getInternshipsIndeed();
+            }}
+            style={{ backgroundColor: sidenav === 4 ? "#F6A92E" : "white" }}
+          >
+            Indeed
+          </div>
+          <div
+            className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
+            onClick={() => {
+              setSidenav(5);
+              getInternshipsNaukri();
+            }}
+            style={{ backgroundColor: sidenav === 5 ? "#F6A92E" : "white" }}
+          >
+            Naukri
+          </div>
+          <div
+            className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
+            onClick={() => {
+              setSidenav(6);
+              getSavedInternships();
+            }}
+            style={{ backgroundColor: sidenav === 6 ? "#F6A92E" : "white" }}
+          >
+            Saved Internships
+          </div>
         </div>
-        <div
-          className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
-          onClick={() => {
-            setSidenav(2);
-            getInternshipsInternshala();
-          }}
-          style={{ backgroundColor: sidenav === 2 ? "#F6A92E" : "white" }}
-        >
-          Internshala
-        </div>
-        <div
-          className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
-          onClick={() => {
-            setSidenav(3);
-            getInternshipsLinkedin();
-          }}
-          style={{ backgroundColor: sidenav === 3 ? "#F6A92E" : "white" }}
-        >
-          Linked In
-        </div>
-        <div
-          className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
-          onClick={() => {
-            setSidenav(4);
-            getInternshipsIndeed();
-          }}
-          style={{ backgroundColor: sidenav === 4 ? "#F6A92E" : "white" }}
-        >
-          Indeed
-        </div>
-        <div
-          className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
-          onClick={() => {
-            setSidenav(5);
-            getInternshipsNaukri();
-          }}
-          style={{ backgroundColor: sidenav === 5 ? "#F6A92E" : "white" }}
-        >
-          Naukri
-        </div>
-        <div
-          className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
-          onClick={() => {
-            setSidenav(6);
-            getSavedInternships();
-          }}
-          style={{ backgroundColor: sidenav === 6 ? "#F6A92E" : "white" }}
-        >
-          Saved Internships
-        </div>
-      </div>
-      <div>
-          Total internships found : {internships.length}
-      </div>
+        <div>Total internships found : {internships.length}</div>
       </div>
       <hr></hr>
-      <div className="flex p-3 gap-2 flex-col sm:flex-row" style={{height:"78vh"}}>
+      <div
+        className="flex p-3 gap-2 flex-col sm:flex-row"
+        style={{ height: "78vh" }}
+      >
         <div
           className="basis-1/4 flex items-center  flex-col p-3 gap-2"
           style={{
