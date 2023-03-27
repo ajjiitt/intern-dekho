@@ -9172,7 +9172,10 @@ const SideNav = () => {
     );
   };
 
-  const handleOnchange = (val) => setMultipleSelectValuesOption(val);
+  const handleOnchange = (val) => {
+    alert("Server Down Can't fetch internships by category")
+    // setMultipleSelectValuesOption(val);
+  }
   const handleOnchangeLocation = (val) => {
     setMultipleSelectValuesOptionLocation(val);
     filterInternships();
