@@ -80,27 +80,27 @@ const Navbar = () => {
         </span>
         <div>
           <div className="flex flex-col gap-7 pr-8 justify-center items-center pt-11 ">
-            <div className="cursor-pointer text-lg hover:font-bold text-white">
+            <div onClick={() => navigate("/")} className="cursor-pointer text-lg hover:font-bold text-white">
               Home{" "}
             </div>
-            <div className="cursor-pointer text-lg hover:font-bold text-white">
-              About
+            <div>
+              {!localStorage.getItem("user") ? (
+                <button
+                  onClick={googleUserLogin}
+                  className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 "
+                >
+                  Login
+                </button>
+              ) : (
+                <button
+                  onClick={logOutUser}
+                  className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 "
+                >
+                  {user?.name}
+                </button>
+              )}
             </div>
-            {!localStorage.getItem("user") ? (
-              <button
-                onClick={googleUserLogin}
-                className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 "
-              >
-                Login
-              </button>
-            ) : (
-              <button
-                onClick={logOutUser}
-                className="cursor-pointer text-lg hover:bg-orange-400 bg-navOrange rounded-md px-4 py-1 "
-              >
-                {user?.name}
-              </button>
-            )}
+
           </div>
         </div>
       </div>
@@ -111,8 +111,7 @@ const Navbar = () => {
         </div>
       </div>
       <div className="hidden md:flex flex-row gap-7 pr-8 justify-center items-center ">
-        <div className="cursor-pointer text-lg hover:font-bold">Home </div>
-        <div className="cursor-pointer text-lg hover:font-bold">About</div>
+        <div onClick={() => navigate("/internships")} className="cursor-pointer text-lg hover:font-bold">Dashboard </div>
 
         {!localStorage.getItem("user") ? (
           <button

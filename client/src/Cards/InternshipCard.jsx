@@ -27,7 +27,7 @@ const InternshipCard = (props) => {
     let user = JSON.parse(localStorage.getItem("user"));
     if (user.email) {
       await deleteDoc(doc(db, user.email, docID));
-      props.getSavedInternships();
+      await props.getSavedInternships();
     }
   };
   const [bookmark, setBookmark] = useState(0);
@@ -47,7 +47,7 @@ const InternshipCard = (props) => {
       >
         <div className="flex flex-row justify-between gap-1">
           <div className="basis-1/12 flex justify-center">
-            <div style={{height:"80%"}}>
+            <div style={{ height: "80%" }}>
               <img
                 src={`${props.site.toLowerCase()}-small.png`}
                 alt=""
@@ -78,7 +78,7 @@ const InternshipCard = (props) => {
                 {props.location}
               </div>
               <div className="flex items-center justify-start   shadow-black-100 font-semiStrong">
-                {props.salary && `Salary : ${props.salary}`}
+                {props.salary ? `Salary : ${props.salary}` : "Salary : Not Disclosed"}
               </div>
             </div>
             <div
@@ -131,10 +131,10 @@ const InternshipCard = (props) => {
               <DeleteOutlineIcon
                 className="text-navOrange cursor-pointer"
                 style={{ fontSize: "30px" }}
-                onClick={() => {
+                onClick={async () => {
                   setBookmark(1);
 
-                  removeSavedInternship(props.docID);
+                  await removeSavedInternship(props.docID);
                 }}
               />
             </div>
