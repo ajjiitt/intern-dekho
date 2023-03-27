@@ -6,7 +6,7 @@ import { collection, addDoc, getFirestore, getDocs } from "firebase/firestore";
 import fb from "../utils/firebase";
 import MultiSelect from "react-multiple-select-dropdown-lite";
 import "react-multiple-select-dropdown-lite/dist/index.css";
-
+import data from "./browseAll.json";
 const SideNav = () => {
   const db = getFirestore(fb);
   const [multipleSelectValuesOption, setMultipleSelectValuesOption] =
@@ -25,25 +25,24 @@ const SideNav = () => {
   ] = useState("");
   // console.log(multipleSelectValuesOption)
   const [sidenav, setSidenav] = useState(1);
-  const [internships, setInternships] = useState([]);
+  const [internships, setInternships] = useState(data);
   const [saveInternships, setSaveInternships] = useState([]);
   useEffect(() => {
     getInternships();
   }, []);
   const getInternships = async () => {
-    // await axios
-    //   .get("http://localhost:4000/browseAll")
-    //   .then(function (response) {
-    // handle success
-    const data = await require("../browseAll.json");
-    setInternships(data);
-    setSaveInternships(data);
-    console.log(data);
-    // })
-    // .catch(function (error) {
-    //   // handle error
-    //   console.log(error);
-    // });
+    // await fetch("../../public/browseAll.json")
+    //   .then(function (data) {
+        // handle success
+        // const data = await require("browseAll.json");
+        setInternships(data);
+        setSaveInternships(data);
+        console.log(data);
+      // })
+      // .catch(function (error) {
+      //   // handle error
+      //   console.log(error);
+      // });
   };
   const getInternshipsInternshala = async () => {
     // await axios
