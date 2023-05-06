@@ -45,9 +45,9 @@ const InternshipCard = (props) => {
             " 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2)",
         }}
       >
-        <div className="flex flex-row justify-between gap-1">
-          <div className="basis-1/12 flex justify-center">
-            <div style={{ height: "80%" }}>
+        <div className=" flex justify-between gap-1">
+          <div className="w-14 shrink-0 inline-block justify-center">
+            <div style={{ height: "70%",width:"100%" }}>
               <img
                 src={`${props.site.toLowerCase()}-small.png`}
                 alt=""
@@ -70,7 +70,7 @@ const InternshipCard = (props) => {
               {props?.title}
             </div>
 
-            <div className="flex flex-col sm:flex-row justify-between gap-1 ">
+            <div className="flex flex-col sm:flex-row flex-wrap justify-between gap-1 ">
               <div className=" shadow-black-100  rounded-md p-1 flex items-center justify-start font-semiStrong">
                 {props?.companyName}
               </div>
@@ -97,7 +97,7 @@ const InternshipCard = (props) => {
             </div>
           </div>
           {props?.currValue != 6 ? (
-            <div className="basis-1/12 flex justify-end pt-2 ">
+            <div className=" flex justify-end pt-2 ">
               {bookmark === 0 && (
                 <BookmarkBorderIcon
                   className="text-navOrange cursor-pointer"
@@ -127,7 +127,7 @@ const InternshipCard = (props) => {
               )}
             </div>
           ) : (
-            <div className="basis-1/12 flex justify-end pt-2 ">
+            <div className=" flex justify-end pt-2 ">
               <DeleteOutlineIcon
                 className="text-navOrange cursor-pointer"
                 style={{ fontSize: "30px" }}

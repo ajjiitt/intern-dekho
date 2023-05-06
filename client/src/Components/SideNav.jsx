@@ -6211,2849 +6211,2849 @@ const SideNav = () => {
       "description": "  Software Development on Mac (Apple), Linux and Windows using C and C++.\n Sc (Computers, Electronics), MCA, MSc (Computers, Electronics, Mathematics).\n",
       "postedDate": "PostedPosted 30+ days ago"
     },
-    
-      {
-        "site": "Internshala",
-        "title": "Inside Sales Specialist",
-        "companyName": "Skill-Lync",
-        "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
-        "location": "Delhi,Bangalore,Hyderabad,Chennai",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Quality Assurance",
-        "companyName": "Times Internet",
-        "link": "https://internshala.com/internship/detail/quality-assurance-internship-in-noida-at-times-internet1679717298",
-        "location": "Noida",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": ".NET Development",
-        "companyName": "NatWest Group",
-        "link": "https://internshala.com/internship/detail/net-development-internship-in-delhi-gurgaon-at-natwest-group1679900231",
-        "location": "Delhi,Gurgaon",
-        "stipend": "45,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Product Development",
-        "companyName": "IDA Business Solutions Private Limited",
-        "link": "https://internshala.com/internship/detail/product-development-work-from-home-job-internship-at-ida-business-solutions-private-limited1679933153",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Artificial Intelligence (AI/ML)",
-        "companyName": "Hacklab Solutions Private Limited",
-        "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-ml-internship-in-bangalore-at-hacklab-solutions-private-limited1679923312",
-        "location": "Bangalore",
-        "stipend": "12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Hacklab Solutions Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-hacklab-solutions-private-limited1679923287",
-        "location": "Bangalore",
-        "stipend": "12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development (Backend Development, Webscraping, Neo4j Db)",
-        "companyName": "Amber Flux Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-backend-development-webscraping-neo4j-db-work-from-home-job-internship-at-amber-flux-private-limited1679927364",
-        "location": "Work From Home",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java Full Stack Development",
-        "companyName": "Integrin Enterprise Solutions",
-        "link": "https://internshala.com/internship/detail/java-full-stack-development-internship-in-multiple-locations-at-integrin-enterprise-solutions1679918776",
-        "location": "Coimbatore,Coimbatore North,Coimbatore South",
-        "stipend": "5,500-7,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Game Development",
-        "companyName": "Krayton Gaming",
-        "link": "https://internshala.com/internship/detail/game-development-work-from-home-job-internship-at-krayton-gaming1679915953",
-        "location": "Work From Home",
-        "stipend": "4,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": ".NET Developement",
-        "companyName": "Vayuz Technologies",
-        "link": "https://internshala.com/internship/detail/net-developement-internship-in-noida-at-vayuz-technologies1679918937",
-        "location": "Noida",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java Development",
-        "companyName": "SkillBit",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-pune-at-skillbit1679913190",
-        "location": "Pune",
-        "stipend": "4,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "ReactJS Development",
-        "companyName": "Lambda Vision",
-        "link": "https://internshala.com/internship/detail/reactjs-development-work-from-home-job-internship-at-lambda-vision1679920042",
-        "location": "Work From Home",
-        "stipend": "40 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Monkhub",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-monkhub1679910146",
-        "location": "Work From Home",
-        "stipend": "5,000-10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Unity Development",
-        "companyName": "NMS Games Private Limited",
-        "link": "https://internshala.com/internship/detail/unity-development-work-from-home-job-internship-at-nms-games-private-limited1679917104",
-        "location": "Work From Home",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Joomla Development",
-        "companyName": "Engineeers Passion",
-        "link": "https://internshala.com/internship/detail/joomla-development-work-from-home-job-internship-at-engineeers-passion1679916182",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Teaching (Game Development)",
-        "companyName": "Little Inventors Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/teaching-game-development-work-from-home-job-internship-at-little-inventors-technologies-private-limited1679908703",
-        "location": "Work From Home",
-        "stipend": "5,000-8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Artificial Intelligence (AI) (For 5G Communication)",
-        "companyName": "IoT& Sensor Lab IIIT Naya Raipur",
-        "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-for-5g-communication-internship-in-raipur-at-iot-sensor-lab-iiit-naya-raipur1679914071",
-        "location": "Raipur",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Google Dialogflow Chatbot",
-        "companyName": "Real Estate News",
-        "link": "https://internshala.com/internship/detail/google-dialogflow-chatbot-work-from-home-job-internship-at-real-estate-news1679827231",
-        "location": "Work From Home",
-        "stipend": "1,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "SAP",
-        "companyName": "Godrej Koerber Supply Chain Limited",
-        "link": "https://internshala.com/internship/detail/sap-internship-in-navi-mumbai-at-godrej-koerber-supply-chain-limited1679912120",
-        "location": "Navi Mumbai",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Madhuri Garments And Manufacturing",
-        "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-madhuri-garments-and-manufacturing1679853752",
-        "location": "Work From Home",
-        "stipend": "3,000-6,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Prompt Engineer",
-        "companyName": "PVSquare Private Limited",
-        "link": "https://internshala.com/internship/detail/prompt-engineer-work-from-home-job-internship-at-pvsquare-private-limited1679901881",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Golang Development",
-        "companyName": "Zocket Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/golang-development-internship-in-bangalore-at-zocket-technologies-private-limited1679852631",
-        "location": "Bangalore",
-        "stipend": "25,000-30,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "DevOps Engineering",
-        "companyName": "LSN SOFTWARE SERVICES Private Limited",
-        "link": "https://internshala.com/internship/detail/devops-engineering-internship-in-hyderabad-at-lsn-software-services-private-limited1679904811",
-        "location": "Hyderabad",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Full Stack Application Development (Java, ReactJS And MongoDB)",
-        "companyName": "LSN SOFTWARE SERVICES Private Limited",
-        "link": "https://internshala.com/internship/detail/full-stack-application-development-java-reactjs-and-mongodb-internship-in-hyderabad-at-lsn-software-services-private-limited1679904419",
-        "location": "Hyderabad",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "DevOps Engineering",
-        "companyName": "The Renal Project",
-        "link": "https://internshala.com/internship/detail/devops-engineering-work-from-home-job-internship-at-the-renal-project1679897129",
-        "location": "Work From Home",
-        "stipend": "8,000-12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "AI On Edge",
-        "companyName": "Shunya IoT AI Research Private Limited",
-        "link": "https://internshala.com/internship/detail/ai-on-edge-work-from-home-job-internship-at-shunya-iot-ai-research-private-limited1679893813",
-        "location": "Work From Home",
-        "stipend": "2,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Unity Game Development",
-        "companyName": "Apicon Solutions Private Limited",
-        "link": "https://internshala.com/internship/detail/unity-game-development-work-from-home-job-internship-at-apicon-solutions-private-limited1679814738",
-        "location": "Work From Home",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Zapitel Technovations Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-multiple-locations-at-zapitel-technovations-private-limited1679827829",
-        "location": "Delhi,Gurgaon,Noida",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Hackathon Training (Coding Students)",
-        "companyName": "GEMA Education Technology Private Limited",
-        "link": "https://internshala.com/internship/detail/hackathon-training-coding-students-work-from-home-job-internship-at-gema-education-technology-private-limited1679804063",
-        "location": "Work From Home",
-        "stipend": "1,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Game Development (Photogrammetry)",
-        "companyName": "Alecado Systems",
-        "link": "https://internshala.com/internship/detail/game-development-photogrammetry-work-from-home-job-internship-at-alecado-systems1679692635",
-        "location": "Work From Home",
-        "stipend": "3,000-6,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python Development",
-        "companyName": "Elysium Academy Private Limited",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-coimbatore-at-elysium-academy-private-limited1679726432",
-        "location": "Coimbatore",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "DevOps",
-        "companyName": "Medius Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/devops-internship-in-mumbai-at-medius-technologies-private-limited1679665193",
-        "location": "Mumbai",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Teaching (Programming: Java)",
-        "companyName": "FavTutor",
-        "link": "https://internshala.com/internship/detail/teaching-programming-java-work-from-home-job-internship-at-favtutor1679718401",
-        "location": "Work From Home",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "ForAll A-Tech",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-bhopal-at-forall-a-tech1679680837",
-        "location": "Bhopal",
-        "stipend": "5,000-8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python Development",
-        "companyName": "PractWorks Mentors Private Limited",
-        "link": "https://internshala.com/internship/detail/python-development-work-from-home-job-internship-at-practworks-mentors-private-limited1679657753",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Artificial Intelligence (Using Python)",
-        "companyName": "Nxtlogic Software Solutions",
-        "link": "https://internshala.com/internship/detail/artificial-intelligence-using-python-internship-in-multiple-locations-at-nxtlogic-software-solutions1679659496",
-        "location": "Chennai,Coimbatore,Madurai",
-        "stipend": "6,000-12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "POC Development",
-        "companyName": "Astute Lex Servicado Private Limited",
-        "link": "https://internshala.com/internship/detail/poc-development-work-from-home-job-internship-at-astute-lex-servicado-private-limited1678445917",
-        "location": "Work From Home",
-        "stipend": "1,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Unreal Development",
-        "companyName": "HEXR Factory",
-        "link": "https://internshala.com/internship/detail/unreal-development-internship-in-chennai-at-hexr-factory1679658153",
-        "location": "Chennai",
-        "stipend": "12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Logibricks Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-pune-at-logibricks-technologies-private-limited1679658040",
-        "location": "Pune",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "React Native Design",
-        "companyName": "Eupheus Learning",
-        "link": "https://internshala.com/internship/detail/react-native-design-internship-in-delhi-at-eupheus-learning1679656510",
-        "location": "Delhi",
-        "stipend": "7,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Inside Sales Specialist",
-        "companyName": "Skill-Lync",
-        "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
-        "location": "Delhi,Bangalore,Hyderabad,Chennai",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java Programming (AWS DevOps)",
-        "companyName": "Aaptatt",
-        "link": "https://internshala.com/internship/detail/java-programming-aws-devops-internship-in-gurgaon-at-aaptatt1679650862",
-        "location": "Gurgaon",
-        "stipend": "18,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "IESoft Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-iesoft-technologies-private-limited1679649668",
-        "location": "Mumbai",
-        "stipend": "20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Artificial Intelligence (AI)",
-        "companyName": "MunshiG",
-        "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-work-from-home-job-internship-at-munshig1679634771",
-        "location": "Work From Home",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Ruhm Innovation Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-tumakuru-at-ruhm-innovation-private-limited1679640522",
-        "location": "Tumakuru",
-        "stipend": "6,000-12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development Engineering (Web)",
-        "companyName": "Hyperlocal Entertainment",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-pune-at-hyperlocal-entertainment1677608007",
-        "location": "Pune",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python And AI Coding Instructing",
-        "companyName": "Rancho Labs",
-        "link": "https://internshala.com/internship/detail/python-and-ai-coding-instructing-work-from-home-job-internship-at-rancho-labs1679644130",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Content Creation (Advanced Java)",
-        "companyName": "Learning Curve Technology",
-        "link": "https://internshala.com/internship/detail/content-creation-advanced-java-work-from-home-job-internship-at-learning-curve-technology1679633701",
-        "location": "Work From Home",
-        "stipend": "1,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Logical Soft Tech",
-        "link": "https://internshala.com/internship/detail/software-development-part-time-job-internship-at-indore-in-logical-soft-tech1679489254",
-        "location": "Indore",
-        "stipend": "8,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Gaming Animator",
-        "companyName": "PlanetMeta.Live",
-        "link": "https://internshala.com/internship/detail/gaming-animator-work-from-home-job-internship-at-planetmetalive1679595006",
-        "location": "Work From Home",
-        "stipend": "12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Studio LCX Fashion Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-studio-lcx-fashion-private-limited1679584868",
-        "location": "Mumbai",
-        "stipend": "2,500 /week",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "SkillBoard",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-skillboard1679613658",
-        "location": "Work From Home",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java Development",
-        "companyName": "Techvolt Software Private Limited",
-        "link": "https://internshala.com/internship/detail/java-development-part-time-job-internship-at-multiple-locations-in-techvolt-software-private-limited1679573830",
-        "location": "Coimbatore,Erode,Karur,Pollachi,Namakkal,Tiruppur,Salem",
-        "stipend": "7,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Analytics",
-        "companyName": "Pinkmoon Technologies",
-        "link": "https://internshala.com/internship/detail/software-analytics-internship-in-vijayawada-at-pinkmoon-technologies1679578933",
-        "location": "Vijayawada",
-        "stipend": "5,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python Development",
-        "companyName": "Techvolt Software Private Limited",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-techvolt-software-private-limited1679574156",
-        "location": "Chennai,Coimbatore,Erode,Karur,Tirunelveli,Virudhunagar,Pollachi,Namakkal,Salem,Trichey,Viluppuram",
-        "stipend": "3,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Unity Development",
-        "companyName": "Sagaci Systems",
-        "link": "https://internshala.com/internship/detail/unity-development-work-from-home-job-internship-at-sagaci-systems1679573482",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Machine Learning",
-        "companyName": "The Crafty Talk",
-        "link": "https://internshala.com/internship/detail/machine-learning-work-from-home-job-internship-at-the-crafty-talk1679564504",
-        "location": "Work From Home",
-        "stipend": "12,700 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Artificial Intelligence (AI)",
-        "companyName": "The Crafty Talk",
-        "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-work-from-home-job-internship-at-the-crafty-talk1679564401",
-        "location": "Work From Home",
-        "stipend": "17,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Electronics Hardware Engineering",
-        "companyName": "Techolution",
-        "link": "https://internshala.com/internship/detail/electronics-hardware-engineering-internship-in-hyderabad-at-techolution1679562015",
-        "location": "Hyderabad",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java & Microservices Development",
-        "companyName": "NatWest Group",
-        "link": "https://internshala.com/internship/detail/java-microservices-development-internship-in-gurgaon-at-natwest-group1679561461",
-        "location": "Gurgaon",
-        "stipend": "45,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java Microservice Development",
-        "companyName": "Indian Institute Of Technology Bombay",
-        "link": "https://internshala.com/internship/detail/java-microservice-development-internship-in-mumbai-at-indian-institute-of-technology-bombay1679555116",
-        "location": "Mumbai",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Data Validation",
-        "companyName": "Accrete LLC",
-        "link": "https://internshala.com/internship/detail/data-validation-internship-in-mumbai-at-accrete-llc1679559835",
-        "location": "Mumbai",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Game Development",
-        "companyName": "BoredLeaders Games Private Limited",
-        "link": "https://internshala.com/internship/detail/game-development-work-from-home-job-internship-at-boredleaders-games-private-limited1679543845",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Quantum IT Innovation",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-quantum-it-innovation1679394761",
-        "location": "Work From Home",
-        "stipend": "8,000-15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java Full Stack Development",
-        "companyName": "Aaptatt",
-        "link": "https://internshala.com/internship/detail/java-full-stack-development-internship-in-gurgaon-at-aaptatt1679548948",
-        "location": "Gurgaon",
-        "stipend": "18,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Celetel",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-noida-at-celetel1679478831",
-        "location": "Noida",
-        "stipend": "15,000-22,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Artificial Intelligence (AI)",
-        "companyName": "Vehicle Care",
-        "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-gurgaon-at-vehicle-care1679469371",
-        "location": "Gurgaon",
-        "stipend": "3,000-5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "React Native",
-        "companyName": "M/S R B Uttam Sahil India Private Limited",
-        "link": "https://internshala.com/internship/detail/react-native-work-from-home-job-internship-at-m-s-r-b-uttam-sahil-india-private-limited1679471892",
-        "location": "Work From Home",
-        "stipend": "8,000-10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Game Development",
-        "companyName": "Red Apple Learning",
-        "link": "https://internshala.com/internship/detail/game-development-internship-in-kolkata-at-red-apple-learning1679464193",
-        "location": "Kolkata",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": ".NET Development",
-        "companyName": "ANK Digital Media",
-        "link": "https://internshala.com/internship/detail/net-development-internship-in-delhi-at-ank-digital-media1679395610",
-        "location": "Delhi",
-        "stipend": "3,000-8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Android App Development",
-        "companyName": "Shri Shyam Sawariya Parivar",
-        "link": "https://internshala.com/internship/detail/android-app-development-work-from-home-job-internship-at-shri-shyam-sawariya-parivar1678856251",
-        "location": "Work From Home",
-        "stipend": "Unpaid",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Power BI Development",
-        "companyName": "BlueTide Solutions Pvt Ltd",
-        "link": "https://internshala.com/internship/detail/power-bi-development-part-time-job-internship-at-gurgaon-in-bluetide-solutions-pvt-ltd1679460422",
-        "location": "Gurgaon",
-        "stipend": "15,000-20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "AWS DevOps Engineering",
-        "companyName": "Aaptatt",
-        "link": "https://internshala.com/internship/detail/aws-devops-engineering-internship-in-gurgaon-at-aaptatt1679459643",
-        "location": "Gurgaon",
-        "stipend": "18,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "DevOps Engineering",
-        "companyName": "Aaptatt",
-        "link": "https://internshala.com/internship/detail/devops-engineering-internship-in-gurgaon-at-aaptatt1679459083",
-        "location": "Gurgaon",
-        "stipend": "20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "WhatsApp Chatbot Development",
-        "companyName": "CattleGuru Private Limited",
-        "link": "https://internshala.com/internship/detail/whatsapp-chatbot-development-work-from-home-job-internship-at-cattleguru-private-limited1679404801",
-        "location": "Work From Home",
-        "stipend": "3,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development Engineering",
-        "companyName": "Internshala",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-internship-in-gurgaon-at-internshala1679458542",
-        "location": "Gurgaon",
-        "stipend": "20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Game Development",
-        "companyName": "Ideekay Studios",
-        "link": "https://internshala.com/internship/detail/game-development-work-from-home-job-internship-at-ideekay-studios1679395315",
-        "location": "Work From Home",
-        "stipend": "4,000-6,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Aarvy Technologies",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-gurgaon-at-aarvy-technologies1679385663",
-        "location": "Gurgaon",
-        "stipend": "2,000-3,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "React + .NET Development",
-        "companyName": "Eonian Software Solutions Private Limited",
-        "link": "https://internshala.com/internship/detail/react-net-development-internship-in-ahmedabad-at-eonian-software-solutions-private-limited1679404081",
-        "location": "Ahmedabad",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Development (Conversational AI Product)",
-        "companyName": "Phamax Analytic Resources",
-        "link": "https://internshala.com/internship/detail/development-conversational-ai-product-work-from-home-job-internship-at-phamax-analytic-resources1679300563",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Inside Sales Specialist",
-        "companyName": "Skill-Lync",
-        "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
-        "location": "Delhi,Bangalore,Hyderabad,Chennai",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Technical Support - AI Products",
-        "companyName": "Quantian Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/technical-support-ai-products-internship-in-pune-at-quantian-technologies-private-limited1679400016",
-        "location": "Pune",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "The Swastik Pharmaceuticals",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-vijayawada-at-the-swastik-pharmaceuticals1679325774",
-        "location": "Vijayawada",
-        "stipend": "2,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "UAV Pilot And Test Engineering",
-        "companyName": "Indian Robo Store",
-        "link": "https://internshala.com/internship/detail/uav-pilot-and-test-engineering-internship-in-noida-at-indian-robo-store1679397238",
-        "location": "Noida",
-        "stipend": "8,000-10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "IDZ Digital Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-part-time-job-internship-at-mumbai-in-idz-digital-private-limited1679393933",
-        "location": "Mumbai",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Game Design",
-        "companyName": "IDZ Digital Private Limited",
-        "link": "https://internshala.com/internship/detail/game-design-internship-in-mumbai-at-idz-digital-private-limited1679393679",
-        "location": "Mumbai",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Solidity Development",
-        "companyName": "Lambda Vision",
-        "link": "https://internshala.com/internship/detail/solidity-development-work-from-home-job-internship-at-lambda-vision1679394027",
-        "location": "Work From Home",
-        "stipend": "80 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "React Development",
-        "companyName": "Gaura Web Tech",
-        "link": "https://internshala.com/internship/detail/react-development-internship-in-ahmedabad-bangalore-at-gaura-web-tech1679391049",
-        "location": "Ahmedabad,Bangalore",
-        "stipend": "25,000-35,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java Development",
-        "companyName": "IDZ Digital Private Limited",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-mumbai-at-idz-digital-private-limited1679389105",
-        "location": "Mumbai",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Blender And Unity Development",
-        "companyName": "Futuralis",
-        "link": "https://internshala.com/internship/detail/blender-and-unity-development-work-from-home-job-internship-at-futuralis1679386594",
-        "location": "Work From Home",
-        "stipend": "20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Piyshef Technologies",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-udaipur-at-piyshef-technologies1679375430",
-        "location": "Udaipur",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "ARAN",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-coimbatore-at-aran1679374983",
-        "location": "Coimbatore",
-        "stipend": "3,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Robotics Development",
-        "companyName": "Peepul Agri Ventures LLP",
-        "link": "https://internshala.com/internship/detail/robotics-development-internship-in-hyderabad-at-peepul-agri-ventures-llp1679376784",
-        "location": "Hyderabad",
-        "stipend": "15,000-25,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Unity Development",
-        "companyName": "GoKapture",
-        "link": "https://internshala.com/internship/detail/unity-development-work-from-home-job-internship-at-gokapture1679376598",
-        "location": "Work From Home",
-        "stipend": "10,000-20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "React Native Development",
-        "companyName": "Pressbuddy Software Solutions",
-        "link": "https://internshala.com/internship/detail/react-native-development-work-from-home-job-internship-at-pressbuddy-software-solutions1679376358",
-        "location": "Work From Home",
-        "stipend": "6,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "TruLOCAL India Private Limited",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-trulocal-india-private-limited1679368112",
-        "location": "Work From Home",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Vistaar Digital Communications Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-vistaar-digital-communications-private-limited1679289070",
-        "location": "Mumbai",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Blackcoffer",
-        "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-blackcoffer1679318140",
-        "location": "Work From Home",
-        "stipend": "6,000-12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "ASP.NET Development",
-        "companyName": "Blackcoffer",
-        "link": "https://internshala.com/internship/detail/aspnet-development-work-from-home-job-internship-at-blackcoffer1679318125",
-        "location": "Work From Home",
-        "stipend": "6,000-12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Front End Development (ReactJS)",
-        "companyName": "Omikron Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/front-end-development-reactjs-work-from-home-job-internship-at-omikron-technologies-private-limited1679368107",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Embedded Software Development",
-        "companyName": "Improvians",
-        "link": "https://internshala.com/internship/detail/embedded-software-development-internship-in-mumbai-at-improvians1679323895",
-        "location": "Mumbai",
-        "stipend": "12,000-14,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python Development",
-        "companyName": "Angels Virtual World",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-delhi-at-angels-virtual-world1679316823",
-        "location": "Delhi",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Embedded Software And Hardware Engineering",
-        "companyName": "Neuranics Lab Private Limited",
-        "link": "https://internshala.com/internship/detail/embedded-software-and-hardware-engineering-internship-in-delhi-at-neuranics-lab-private-limited1679302519",
-        "location": "Delhi",
-        "stipend": "25,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Applied AI (Open AI)",
-        "companyName": "Persist Ventures",
-        "link": "https://internshala.com/internship/detail/applied-ai-open-ai-work-from-home-job-internship-at-persist-ventures1679308211",
-        "location": "Work From Home",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Game Development",
-        "companyName": "MentorBoxx",
-        "link": "https://internshala.com/internship/detail/game-development-work-from-home-job-internship-at-mentorboxx1679306939",
-        "location": "Work From Home",
-        "stipend": "18,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Research And Development",
-        "companyName": "Isourse",
-        "link": "https://internshala.com/internship/detail/research-and-development-internship-in-delhi-at-isourse1679305608",
-        "location": "Delhi",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Functional QA - Capital Market",
-        "companyName": "NatWest Group",
-        "link": "https://internshala.com/internship/detail/functional-qa-capital-market-internship-in-bangalore-at-natwest-group1678959216",
-        "location": "Bangalore",
-        "stipend": "45,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": ".NET Development",
-        "companyName": "DCNPL Private Limited",
-        "link": "https://internshala.com/internship/detail/net-development-internship-in-indore-at-dcnpl-private-limited1679293273",
-        "location": "Indore",
-        "stipend": "2,000-5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Artificial Intelligence (AI) & Deep Learning",
-        "companyName": "Stackfusion Private Limited",
-        "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-deep-learning-internship-in-pune-at-stackfusion-private-limited1679292792",
-        "location": "Pune",
-        "stipend": "10,000-20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Unity Development",
-        "companyName": "HololabXR",
-        "link": "https://internshala.com/internship/detail/unity-development-part-time-job-internship-at-jabalpur-in-hololabxr1679299432",
-        "location": "Jabalpur",
-        "stipend": "2,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": ".NET Development",
-        "companyName": "Suvya Web",
-        "link": "https://internshala.com/internship/detail/net-development-internship-in-surat-at-suvya-web1679287715",
-        "location": "Surat",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java Development",
-        "companyName": "Go Digital Technology Consulting",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-mumbai-at-go-digital-technology-consulting1679288373",
-        "location": "Mumbai",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "ASP.NET/C# Development",
-        "companyName": "Go Digital Technology Consulting",
-        "link": "https://internshala.com/internship/detail/aspnet-c-development-internship-in-mumbai-at-go-digital-technology-consulting1679288318",
-        "location": "Mumbai",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Data Engineering",
-        "companyName": "Go Digital Technology Consulting",
-        "link": "https://internshala.com/internship/detail/data-engineering-internship-in-pune-mumbai-at-go-digital-technology-consulting1679288295",
-        "location": "Pune,Mumbai",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "ASP.NET Development",
-        "companyName": "Attitude MatterZ",
-        "link": "https://internshala.com/internship/detail/aspnet-development-work-from-home-job-internship-at-attitude-matterz1679248165",
-        "location": "Work From Home",
-        "stipend": "2,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Robotic Instructing",
-        "companyName": "Rancho Labs",
-        "link": "https://internshala.com/internship/detail/robotic-instructing-internship-in-delhi-at-rancho-labs1679286408",
-        "location": "Delhi",
-        "stipend": "8,000-10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Parrami Finance Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-parrami-finance-private-limited1679133330",
-        "location": "Mumbai",
-        "stipend": "5,000-12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "React Native Development",
-        "companyName": "Zezo Softwares Private Limited",
-        "link": "https://internshala.com/internship/detail/react-native-development-work-from-home-job-internship-at-zezo-softwares-private-limited1679129798",
-        "location": "Work From Home",
-        "stipend": "7,000-10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": ".NET Development",
-        "companyName": "Attitude MatterZ",
-        "link": "https://internshala.com/internship/detail/net-development-work-from-home-job-internship-at-attitude-matterz1679224689",
-        "location": "Work From Home",
-        "stipend": "4,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Machine Learning",
-        "companyName": "Attitude MatterZ",
-        "link": "https://internshala.com/internship/detail/machine-learning-work-from-home-job-internship-at-attitude-matterz1679220673",
-        "location": "Work From Home",
-        "stipend": "2,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Inside Sales Specialist",
-        "companyName": "Skill-Lync",
-        "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
-        "location": "Delhi,Bangalore,Hyderabad,Chennai",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development Engineering (Web)",
-        "companyName": "Attitude MatterZ",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-work-from-home-job-internship-at-attitude-matterz1679219097",
-        "location": "Work From Home",
-        "stipend": "2,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Machine Learning",
-        "companyName": "Buddha Education Association Incorporation",
-        "link": "https://internshala.com/internship/detail/machine-learning-work-from-home-job-internship-at-buddha-education-association-incorporation1679126953",
-        "location": "Work From Home",
-        "stipend": "21,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python Development",
-        "companyName": "Megaminds IT Services",
-        "link": "https://internshala.com/internship/detail/python-development-work-from-home-job-internship-at-megaminds-it-services1679141852",
-        "location": "Work From Home",
-        "stipend": "6,000-10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": ".NET Development",
-        "companyName": "Hvantage Technologies Incorporated",
-        "link": "https://internshala.com/internship/detail/net-development-work-from-home-job-internship-at-hvantage-technologies-incorporated1679115678",
-        "location": "Work From Home",
-        "stipend": "2,000-5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "GPT Development",
-        "companyName": "Medius Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/gpt-development-internship-in-mumbai-at-medius-technologies-private-limited1679142519",
-        "location": "Mumbai",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python Development",
-        "companyName": "Analystt.ai",
-        "link": "https://internshala.com/internship/detail/python-development-work-from-home-job-internship-at-analysttai1679119789",
-        "location": "Work From Home",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Samisan Tech Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-samisan-tech-private-limited1679122988",
-        "location": "Mumbai",
-        "stipend": "18,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "SHN Advertising",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-kanpur-at-shn-advertising1679118633",
-        "location": "Kanpur",
-        "stipend": "4,000-6,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Blackcoffer",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-blackcoffer1679117997",
-        "location": "Work From Home",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "DevOps",
-        "companyName": "Zoraware Technologies",
-        "link": "https://internshala.com/internship/detail/devops-internship-in-ghaziabad-at-zoraware-technologies1679057604",
-        "location": "Ghaziabad",
-        "stipend": "3,000-5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python Development",
-        "companyName": "Ouriken - IT Services & IT Consulting",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-thane-at-ouriken-it-services-it-consulting1679057222",
-        "location": "Thane",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "PowerBI Development",
-        "companyName": "IntelliSQR",
-        "link": "https://internshala.com/internship/detail/powerbi-development-internship-in-delhi-at-intellisqr1679056219",
-        "location": "Delhi",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "DevOps",
-        "companyName": "DeHaat",
-        "link": "https://internshala.com/internship/detail/devops-internship-in-gurgaon-at-dehaat1679050238",
-        "location": "Gurgaon",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Data Tagging",
-        "companyName": "Salesken",
-        "link": "https://internshala.com/internship/detail/data-tagging-internship-in-bangalore-at-salesken1679046415",
-        "location": "Bangalore",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "3D Modelling & Texturing For Game Asset (Blender/Maya/Substance Painter)",
-        "companyName": "MB Softech Consultants",
-        "link": "https://internshala.com/internship/detail/3d-modelling-texturing-for-game-asset-blender-maya-substance-painter-work-from-home-job-internship-at-mb-softech-consultants1678706724",
-        "location": "Work From Home",
-        "stipend": "5,000-20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Vue.js and Java/Python Development",
-        "companyName": "Growlytics Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/vuejs-and-java-python-development-internship-in-bangalore-at-growlytics-technologies-private-limited1679039590",
-        "location": "Bangalore",
-        "stipend": "15,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Unity Game Development",
-        "companyName": "IDZ Digital Private Limited",
-        "link": "https://internshala.com/internship/detail/unity-game-development-work-from-home-job-internship-at-idz-digital-private-limited1679036863",
-        "location": "Work From Home",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "QT Development",
-        "companyName": "CSE, IIT Bombay",
-        "link": "https://internshala.com/internship/detail/qt-development-work-from-home-job-internship-at-cse-iit-bombay1679025603",
-        "location": "Work From Home",
-        "stipend": "3,000-5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Roblox Game Development",
-        "companyName": "Stareout Games",
-        "link": "https://internshala.com/internship/detail/roblox-game-development-work-from-home-job-internship-at-stareout-games1678904585",
-        "location": "Work From Home",
-        "stipend": "15,000-25,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python Development",
-        "companyName": "Innovation Hacks AI",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-mumbai-at-innovation-hacks-ai1678974270",
-        "location": "Mumbai",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Game Development",
-        "companyName": "Gape Labs",
-        "link": "https://internshala.com/internship/detail/game-development-work-from-home-job-internship-at-gape-labs1678879526",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Robotics",
-        "companyName": "Attitude MatterZ",
-        "link": "https://internshala.com/internship/detail/robotics-work-from-home-job-internship-at-attitude-matterz1678960696",
-        "location": "Work From Home",
-        "stipend": "2,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Bakerstreet Fintech Private Limited",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-pune-at-bakerstreet-fintech-private-limited1678951679",
-        "location": "Pune",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Tutoring For Java",
-        "companyName": "LevelApp",
-        "link": "https://internshala.com/internship/detail/tutoring-for-java-work-from-home-job-internship-at-levelapp1678959088",
-        "location": "Work From Home",
-        "stipend": "3,500-6,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Unity Game Development",
-        "companyName": "Stareout Games",
-        "link": "https://internshala.com/internship/detail/unity-game-development-work-from-home-job-internship-at-stareout-games1678903792",
-        "location": "Work From Home",
-        "stipend": "10,000-15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Site Galleria",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-site-galleria1678949258",
-        "location": "Work From Home",
-        "stipend": "3,000-5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "System Administration",
-        "companyName": "Plus91 Technologies",
-        "link": "https://internshala.com/internship/detail/system-administration-internship-in-patna-pune-at-plus91-technologies1678941616",
-        "location": "Patna,Pune",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Electronics Embedded Hardware & Software Engineering",
-        "companyName": "Invictus Defence Systems Private Limited",
-        "link": "https://internshala.com/internship/detail/electronics-embedded-hardware-software-engineering-internship-in-bangalore-at-invictus-defence-systems-private-limited1678951007",
-        "location": "Bangalore",
-        "stipend": "15,000-20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Unity3D Game Development",
-        "companyName": "The Learning Buddy",
-        "link": "https://internshala.com/internship/detail/unity3d-game-development-work-from-home-job-internship-at-the-learning-buddy1678950929",
-        "location": "Work From Home",
-        "stipend": "5,000-10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "React Native Development",
-        "companyName": "Unico Global",
-        "link": "https://internshala.com/internship/detail/react-native-development-work-from-home-job-internship-at-unico-global1678870794",
-        "location": "Work From Home",
-        "stipend": "4,000-7,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Hardware Design Engineering",
-        "companyName": "Strom Customized Solutions",
-        "link": "https://internshala.com/internship/detail/hardware-design-engineering-internship-in-vadodara-at-strom-customized-solutions1678950116",
-        "location": "Vadodara",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "RevoltronX",
-        "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-revoltronx1678937521",
-        "location": "Work From Home",
-        "stipend": "1,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "DevOps Engineering",
-        "companyName": "UniAcco",
-        "link": "https://internshala.com/internship/detail/devops-engineering-internship-in-mumbai-at-uniacco1678941722",
-        "location": "Mumbai",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Paarsh Infotech",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-nashik-at-paarsh-infotech1678903050",
-        "location": "Nashik",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Gauge.ro (Lalita Ventures)",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-gaugero-lalita-ventures1678891078",
-        "location": "Work From Home",
-        "stipend": "7,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "DevOps Engineering",
-        "companyName": "Aaptatt",
-        "link": "https://internshala.com/internship/detail/devops-engineering-internship-in-gurgaon-at-aaptatt1678883551",
-        "location": "Gurgaon",
-        "stipend": "18,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Infra Administration",
-        "companyName": "Code Inbound LLP",
-        "link": "https://internshala.com/internship/detail/infra-administration-work-from-home-job-internship-at-code-inbound-llp1678879826",
-        "location": "Work From Home",
-        "stipend": "1,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java Development",
-        "companyName": "Jarvics Technologies",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-multiple-locations-at-jarvics-technologies1678873743",
-        "location": "Chandigarh,Patiala,Kharar,Mohali,Kurali",
-        "stipend": "8,000-15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Eldrok Technology India",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-gurgaon-at-eldrok-technology-india1678878919",
-        "location": "Gurgaon",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Inside Sales Specialist",
-        "companyName": "Skill-Lync",
-        "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
-        "location": "Delhi,Bangalore,Hyderabad,Chennai",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Plushvie",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-ahmedabad-at-plushvie1678866565",
-        "location": "Ahmedabad",
-        "stipend": "7,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "CodeIgniter & Laravel Development",
-        "companyName": "Bridcodes Global Private Limited",
-        "link": "https://internshala.com/internship/detail/codeigniter-laravel-development-work-from-home-job-internship-at-bridcodes-global-private-limited1678873304",
-        "location": "Work From Home",
-        "stipend": "6,000-10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "CodeIgniter, Laravel & Vue.js Development",
-        "companyName": "QBH Solution Private Limited",
-        "link": "https://internshala.com/internship/detail/codeigniter-laravel-vuejs-development-work-from-home-job-internship-at-qbh-solution-private-limited1678870997",
-        "location": "Work From Home",
-        "stipend": "10,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "ROS (Robotics Operating System)",
-        "companyName": "Enord Private Limited",
-        "link": "https://internshala.com/internship/detail/ros-robotics-operating-system-internship-in-delhi-at-enord-private-limited1678798659",
-        "location": "Delhi",
-        "stipend": "2,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development Engineering (Web)",
-        "companyName": "Yougetplaced Technology Services",
-        "link": "https://internshala.com/internship/detail/software-development-engineering-web-work-from-home-job-internship-at-yougetplaced-technology-services1678863648",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Instructor (C,C++&Java)",
-        "companyName": "Roboiotics Services LLP",
-        "link": "https://internshala.com/internship/detail/instructor-c-c-java-internship-in-chandigarh-bhopal-at-roboiotics-services-llp1678864888",
-        "location": "Chandigarh,Bhopal",
-        "stipend": "35,000-60,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python Development",
-        "companyName": "Peppermint Communications Private Limited",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-peppermint-communications-private-limited1678771300",
-        "location": "Ulhasnagar,Thane,Dombivli,Kalyan,Bhiwandi,Ambernath",
-        "stipend": "12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "DevOps Development",
-        "companyName": "Jarvics Technologies",
-        "link": "https://internshala.com/internship/detail/devops-development-internship-in-chandigarh-mohali-at-jarvics-technologies1678794095",
-        "location": "Chandigarh,Mohali",
-        "stipend": "10,000-15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Python Development",
-        "companyName": "Techvins Software Private Limited",
-        "link": "https://internshala.com/internship/detail/python-development-internship-in-gurgaon-at-techvins-software-private-limited1678764859",
-        "location": "Gurgaon",
-        "stipend": "8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "FlutterFlow Development",
-        "companyName": "OAK Appian Training",
-        "link": "https://internshala.com/internship/detail/flutterflow-development-work-from-home-job-internship-at-oak-appian-training1678787349",
-        "location": "Work From Home",
-        "stipend": "12,000-20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Softgenics India Private Limited",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-softgenics-india-private-limited1678716588",
-        "location": "Work From Home",
-        "stipend": "6,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "API Development",
-        "companyName": "Isourse",
-        "link": "https://internshala.com/internship/detail/api-development-internship-in-delhi-at-isourse1678783760",
-        "location": "Delhi",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "ASP.NET Development",
-        "companyName": "Isourse",
-        "link": "https://internshala.com/internship/detail/aspnet-development-internship-in-delhi-at-isourse1678783646",
-        "location": "Delhi",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Product Engineering",
-        "companyName": "Dashtoon",
-        "link": "https://internshala.com/internship/detail/product-engineering-internship-in-bangalore-at-dashtoon1678781767",
-        "location": "Bangalore",
-        "stipend": "25,000-40,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "CvDragon India",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-kolkata-howrah-at-cvdragon-india1678773774",
-        "location": "Kolkata,Howrah",
-        "stipend": "7,500 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Isourse",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-delhi-at-isourse1678778240",
-        "location": "Delhi",
-        "stipend": "15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Spring Boot",
-        "companyName": "Webknot Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/spring-boot-work-from-home-job-internship-at-webknot-technologies-private-limited1678775223",
-        "location": "Work From Home",
-        "stipend": "10,000-15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Webknot Technologies Private Limited",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-webknot-technologies-private-limited1678774688",
-        "location": "Work From Home",
-        "stipend": "10,000-15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "React Native Development",
-        "companyName": "TechGropse Private Limited",
-        "link": "https://internshala.com/internship/detail/react-native-development-internship-in-noida-at-techgropse-private-limited1678773987",
-        "location": "Noida",
-        "stipend": "7,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "React Native Development",
-        "companyName": "Dwebbox",
-        "link": "https://internshala.com/internship/detail/react-native-development-internship-in-mumbai-at-dwebbox1678700443",
-        "location": "Mumbai",
-        "stipend": "10,000-15,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Engineering (React JS)",
-        "companyName": "InGen Dynamics Inc. (Part Of AH Dynamics And Robotics Private Limited)",
-        "link": "https://internshala.com/internship/detail/software-engineering-react-js-internship-in-kozhikode-bangalore-at-ingen-dynamics-inc-part-of-ah-dynamics-and-robotics-private-limited1678691584",
-        "location": "Kozhikode,Bangalore",
-        "stipend": "3,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Engineering (Python)",
-        "companyName": "InGen Dynamics Inc. (Part Of AH Dynamics And Robotics Private Limited)",
-        "link": "https://internshala.com/internship/detail/software-engineering-python-internship-in-kozhikode-bangalore-at-ingen-dynamics-inc-part-of-ah-dynamics-and-robotics-private-limited1678691529",
-        "location": "Kozhikode,Bangalore",
-        "stipend": "3,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Softonauts Infotech Private Limited",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-multiple-locations-at-softonauts-infotech-private-limited1678444821",
-        "location": "Thane,Navi Mumbai,Badlapur,Vashi",
-        "stipend": "5,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Game Development",
-        "companyName": "Shortgun LLP",
-        "link": "https://internshala.com/internship/detail/game-development-internship-in-mumbai-at-shortgun-llp1678431897",
-        "location": "Mumbai",
-        "stipend": "10,000-25,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Virtual Reality Unity 3D Development",
-        "companyName": "Gesture Research",
-        "link": "https://internshala.com/internship/detail/virtual-reality-unity-3d-development-internship-in-multiple-locations-at-gesture-research1678443435",
-        "location": "Chandigarh,Delhi,Gurgaon",
-        "stipend": "7,500 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Kreedy",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-kreedy1678385725",
-        "location": "Work From Home",
-        "stipend": "2,000 lump sum +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Build With Innovation Private Limited",
-        "link": "https://internshala.com/internship/detail/flutter-development-internship-in-delhi-at-build-with-innovation-private-limited1678384141",
-        "location": "Delhi",
-        "stipend": "10,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Embedded Software Developement",
-        "companyName": "Greenmed Technologies",
-        "link": "https://internshala.com/internship/detail/embedded-software-developement-part-time-job-internship-at-chennai-in-greenmed-technologies1678338757",
-        "location": "Chennai",
-        "stipend": "3,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Yougetplaced Technology Services",
-        "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-yougetplaced-technology-services1678288130",
-        "location": "Work From Home",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": ".NET Support",
-        "companyName": "P.I. Softek Limited",
-        "link": "https://internshala.com/internship/detail/net-support-internship-in-noida-at-pi-softek-limited1678337350",
-        "location": "Noida",
-        "stipend": "20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Flutter Development",
-        "companyName": "Settyl",
-        "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-settyl1678299992",
-        "location": "Work From Home",
-        "stipend": "6,000-8,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "NLP Engineering",
-        "companyName": "UniAcco",
-        "link": "https://internshala.com/internship/detail/nlp-engineering-internship-in-delhi-at-uniacco1678268191",
-        "location": "Delhi",
-        "stipend": "15,000-20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "MWW (CryptoKnights)",
-        "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-mww-cryptoknights1678082507",
-        "location": "Work From Home",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Immersive Design",
-        "companyName": "Queppelin Technology Solutions Private Limited",
-        "link": "https://internshala.com/internship/detail/immersive-design-internship-in-multiple-locations-at-queppelin-technology-solutions-private-limited1678099063",
-        "location": "Faridabad,Delhi,Gurgaon,Noida",
-        "stipend": "10,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Java Development",
-        "companyName": "Aaptatt",
-        "link": "https://internshala.com/internship/detail/java-development-internship-in-gurgaon-at-aaptatt1678096071",
-        "location": "Gurgaon",
-        "stipend": "18,000 /month +  Incentives",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Robotics & Coding (HOD)",
-        "companyName": "EduMarvel",
-        "link": "https://internshala.com/internship/detail/robotics-coding-hod-internship-in-mumbai-at-edumarvel1678086961",
-        "location": "Mumbai",
-        "stipend": "6,000-12,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": ".NET Development",
-        "companyName": "Modgenics Technology Solutions Private Limited",
-        "link": "https://internshala.com/internship/detail/net-development-work-from-home-job-internship-at-modgenics-technology-solutions-private-limited1678003861",
-        "location": "Work From Home",
-        "stipend": "12,000-20,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Grafieks Analytics Limited",
-        "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-grafieks-analytics-limited1674305621",
-        "location": "Work From Home",
-        "stipend": "5,000 /month",
-        "description": ""
-      },
-      {
-        "site": "Internshala",
-        "title": "Software Development",
-        "companyName": "Aester India Private Limited",
-        "link": "https://internshala.com/internship/detail/software-development-internship-in-ernakulam-cochin-at-aester-india-private-limited1677839446",
-        "location": "Ernakulam,Cochin",
-        "stipend": "2,000 /month",
-        "description": ""
-      }
+
+    {
+      "site": "Internshala",
+      "title": "Inside Sales Specialist",
+      "companyName": "Skill-Lync",
+      "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
+      "location": "Delhi,Bangalore,Hyderabad,Chennai",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Quality Assurance",
+      "companyName": "Times Internet",
+      "link": "https://internshala.com/internship/detail/quality-assurance-internship-in-noida-at-times-internet1679717298",
+      "location": "Noida",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": ".NET Development",
+      "companyName": "NatWest Group",
+      "link": "https://internshala.com/internship/detail/net-development-internship-in-delhi-gurgaon-at-natwest-group1679900231",
+      "location": "Delhi,Gurgaon",
+      "stipend": "45,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Product Development",
+      "companyName": "IDA Business Solutions Private Limited",
+      "link": "https://internshala.com/internship/detail/product-development-work-from-home-job-internship-at-ida-business-solutions-private-limited1679933153",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Artificial Intelligence (AI/ML)",
+      "companyName": "Hacklab Solutions Private Limited",
+      "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-ml-internship-in-bangalore-at-hacklab-solutions-private-limited1679923312",
+      "location": "Bangalore",
+      "stipend": "12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Hacklab Solutions Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-hacklab-solutions-private-limited1679923287",
+      "location": "Bangalore",
+      "stipend": "12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development (Backend Development, Webscraping, Neo4j Db)",
+      "companyName": "Amber Flux Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-backend-development-webscraping-neo4j-db-work-from-home-job-internship-at-amber-flux-private-limited1679927364",
+      "location": "Work From Home",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java Full Stack Development",
+      "companyName": "Integrin Enterprise Solutions",
+      "link": "https://internshala.com/internship/detail/java-full-stack-development-internship-in-multiple-locations-at-integrin-enterprise-solutions1679918776",
+      "location": "Coimbatore,Coimbatore North,Coimbatore South",
+      "stipend": "5,500-7,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Game Development",
+      "companyName": "Krayton Gaming",
+      "link": "https://internshala.com/internship/detail/game-development-work-from-home-job-internship-at-krayton-gaming1679915953",
+      "location": "Work From Home",
+      "stipend": "4,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": ".NET Developement",
+      "companyName": "Vayuz Technologies",
+      "link": "https://internshala.com/internship/detail/net-developement-internship-in-noida-at-vayuz-technologies1679918937",
+      "location": "Noida",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java Development",
+      "companyName": "SkillBit",
+      "link": "https://internshala.com/internship/detail/java-development-internship-in-pune-at-skillbit1679913190",
+      "location": "Pune",
+      "stipend": "4,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "ReactJS Development",
+      "companyName": "Lambda Vision",
+      "link": "https://internshala.com/internship/detail/reactjs-development-work-from-home-job-internship-at-lambda-vision1679920042",
+      "location": "Work From Home",
+      "stipend": "40 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Monkhub",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-monkhub1679910146",
+      "location": "Work From Home",
+      "stipend": "5,000-10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Unity Development",
+      "companyName": "NMS Games Private Limited",
+      "link": "https://internshala.com/internship/detail/unity-development-work-from-home-job-internship-at-nms-games-private-limited1679917104",
+      "location": "Work From Home",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Joomla Development",
+      "companyName": "Engineeers Passion",
+      "link": "https://internshala.com/internship/detail/joomla-development-work-from-home-job-internship-at-engineeers-passion1679916182",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Teaching (Game Development)",
+      "companyName": "Little Inventors Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/teaching-game-development-work-from-home-job-internship-at-little-inventors-technologies-private-limited1679908703",
+      "location": "Work From Home",
+      "stipend": "5,000-8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Artificial Intelligence (AI) (For 5G Communication)",
+      "companyName": "IoT& Sensor Lab IIIT Naya Raipur",
+      "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-for-5g-communication-internship-in-raipur-at-iot-sensor-lab-iiit-naya-raipur1679914071",
+      "location": "Raipur",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Google Dialogflow Chatbot",
+      "companyName": "Real Estate News",
+      "link": "https://internshala.com/internship/detail/google-dialogflow-chatbot-work-from-home-job-internship-at-real-estate-news1679827231",
+      "location": "Work From Home",
+      "stipend": "1,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "SAP",
+      "companyName": "Godrej Koerber Supply Chain Limited",
+      "link": "https://internshala.com/internship/detail/sap-internship-in-navi-mumbai-at-godrej-koerber-supply-chain-limited1679912120",
+      "location": "Navi Mumbai",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Madhuri Garments And Manufacturing",
+      "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-madhuri-garments-and-manufacturing1679853752",
+      "location": "Work From Home",
+      "stipend": "3,000-6,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Prompt Engineer",
+      "companyName": "PVSquare Private Limited",
+      "link": "https://internshala.com/internship/detail/prompt-engineer-work-from-home-job-internship-at-pvsquare-private-limited1679901881",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Golang Development",
+      "companyName": "Zocket Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/golang-development-internship-in-bangalore-at-zocket-technologies-private-limited1679852631",
+      "location": "Bangalore",
+      "stipend": "25,000-30,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "DevOps Engineering",
+      "companyName": "LSN SOFTWARE SERVICES Private Limited",
+      "link": "https://internshala.com/internship/detail/devops-engineering-internship-in-hyderabad-at-lsn-software-services-private-limited1679904811",
+      "location": "Hyderabad",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Full Stack Application Development (Java, ReactJS And MongoDB)",
+      "companyName": "LSN SOFTWARE SERVICES Private Limited",
+      "link": "https://internshala.com/internship/detail/full-stack-application-development-java-reactjs-and-mongodb-internship-in-hyderabad-at-lsn-software-services-private-limited1679904419",
+      "location": "Hyderabad",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "DevOps Engineering",
+      "companyName": "The Renal Project",
+      "link": "https://internshala.com/internship/detail/devops-engineering-work-from-home-job-internship-at-the-renal-project1679897129",
+      "location": "Work From Home",
+      "stipend": "8,000-12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "AI On Edge",
+      "companyName": "Shunya IoT AI Research Private Limited",
+      "link": "https://internshala.com/internship/detail/ai-on-edge-work-from-home-job-internship-at-shunya-iot-ai-research-private-limited1679893813",
+      "location": "Work From Home",
+      "stipend": "2,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Unity Game Development",
+      "companyName": "Apicon Solutions Private Limited",
+      "link": "https://internshala.com/internship/detail/unity-game-development-work-from-home-job-internship-at-apicon-solutions-private-limited1679814738",
+      "location": "Work From Home",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Zapitel Technovations Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-multiple-locations-at-zapitel-technovations-private-limited1679827829",
+      "location": "Delhi,Gurgaon,Noida",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Hackathon Training (Coding Students)",
+      "companyName": "GEMA Education Technology Private Limited",
+      "link": "https://internshala.com/internship/detail/hackathon-training-coding-students-work-from-home-job-internship-at-gema-education-technology-private-limited1679804063",
+      "location": "Work From Home",
+      "stipend": "1,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Game Development (Photogrammetry)",
+      "companyName": "Alecado Systems",
+      "link": "https://internshala.com/internship/detail/game-development-photogrammetry-work-from-home-job-internship-at-alecado-systems1679692635",
+      "location": "Work From Home",
+      "stipend": "3,000-6,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python Development",
+      "companyName": "Elysium Academy Private Limited",
+      "link": "https://internshala.com/internship/detail/python-development-internship-in-coimbatore-at-elysium-academy-private-limited1679726432",
+      "location": "Coimbatore",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "DevOps",
+      "companyName": "Medius Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/devops-internship-in-mumbai-at-medius-technologies-private-limited1679665193",
+      "location": "Mumbai",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Teaching (Programming: Java)",
+      "companyName": "FavTutor",
+      "link": "https://internshala.com/internship/detail/teaching-programming-java-work-from-home-job-internship-at-favtutor1679718401",
+      "location": "Work From Home",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "ForAll A-Tech",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-bhopal-at-forall-a-tech1679680837",
+      "location": "Bhopal",
+      "stipend": "5,000-8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python Development",
+      "companyName": "PractWorks Mentors Private Limited",
+      "link": "https://internshala.com/internship/detail/python-development-work-from-home-job-internship-at-practworks-mentors-private-limited1679657753",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Artificial Intelligence (Using Python)",
+      "companyName": "Nxtlogic Software Solutions",
+      "link": "https://internshala.com/internship/detail/artificial-intelligence-using-python-internship-in-multiple-locations-at-nxtlogic-software-solutions1679659496",
+      "location": "Chennai,Coimbatore,Madurai",
+      "stipend": "6,000-12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "POC Development",
+      "companyName": "Astute Lex Servicado Private Limited",
+      "link": "https://internshala.com/internship/detail/poc-development-work-from-home-job-internship-at-astute-lex-servicado-private-limited1678445917",
+      "location": "Work From Home",
+      "stipend": "1,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Unreal Development",
+      "companyName": "HEXR Factory",
+      "link": "https://internshala.com/internship/detail/unreal-development-internship-in-chennai-at-hexr-factory1679658153",
+      "location": "Chennai",
+      "stipend": "12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Logibricks Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-pune-at-logibricks-technologies-private-limited1679658040",
+      "location": "Pune",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "React Native Design",
+      "companyName": "Eupheus Learning",
+      "link": "https://internshala.com/internship/detail/react-native-design-internship-in-delhi-at-eupheus-learning1679656510",
+      "location": "Delhi",
+      "stipend": "7,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Inside Sales Specialist",
+      "companyName": "Skill-Lync",
+      "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
+      "location": "Delhi,Bangalore,Hyderabad,Chennai",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java Programming (AWS DevOps)",
+      "companyName": "Aaptatt",
+      "link": "https://internshala.com/internship/detail/java-programming-aws-devops-internship-in-gurgaon-at-aaptatt1679650862",
+      "location": "Gurgaon",
+      "stipend": "18,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "IESoft Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-iesoft-technologies-private-limited1679649668",
+      "location": "Mumbai",
+      "stipend": "20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Artificial Intelligence (AI)",
+      "companyName": "MunshiG",
+      "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-work-from-home-job-internship-at-munshig1679634771",
+      "location": "Work From Home",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Ruhm Innovation Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-tumakuru-at-ruhm-innovation-private-limited1679640522",
+      "location": "Tumakuru",
+      "stipend": "6,000-12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development Engineering (Web)",
+      "companyName": "Hyperlocal Entertainment",
+      "link": "https://internshala.com/internship/detail/software-development-engineering-web-internship-in-pune-at-hyperlocal-entertainment1677608007",
+      "location": "Pune",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python And AI Coding Instructing",
+      "companyName": "Rancho Labs",
+      "link": "https://internshala.com/internship/detail/python-and-ai-coding-instructing-work-from-home-job-internship-at-rancho-labs1679644130",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Content Creation (Advanced Java)",
+      "companyName": "Learning Curve Technology",
+      "link": "https://internshala.com/internship/detail/content-creation-advanced-java-work-from-home-job-internship-at-learning-curve-technology1679633701",
+      "location": "Work From Home",
+      "stipend": "1,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Logical Soft Tech",
+      "link": "https://internshala.com/internship/detail/software-development-part-time-job-internship-at-indore-in-logical-soft-tech1679489254",
+      "location": "Indore",
+      "stipend": "8,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Gaming Animator",
+      "companyName": "PlanetMeta.Live",
+      "link": "https://internshala.com/internship/detail/gaming-animator-work-from-home-job-internship-at-planetmetalive1679595006",
+      "location": "Work From Home",
+      "stipend": "12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Studio LCX Fashion Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-studio-lcx-fashion-private-limited1679584868",
+      "location": "Mumbai",
+      "stipend": "2,500 /week",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "SkillBoard",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-skillboard1679613658",
+      "location": "Work From Home",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java Development",
+      "companyName": "Techvolt Software Private Limited",
+      "link": "https://internshala.com/internship/detail/java-development-part-time-job-internship-at-multiple-locations-in-techvolt-software-private-limited1679573830",
+      "location": "Coimbatore,Erode,Karur,Pollachi,Namakkal,Tiruppur,Salem",
+      "stipend": "7,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Analytics",
+      "companyName": "Pinkmoon Technologies",
+      "link": "https://internshala.com/internship/detail/software-analytics-internship-in-vijayawada-at-pinkmoon-technologies1679578933",
+      "location": "Vijayawada",
+      "stipend": "5,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python Development",
+      "companyName": "Techvolt Software Private Limited",
+      "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-techvolt-software-private-limited1679574156",
+      "location": "Chennai,Coimbatore,Erode,Karur,Tirunelveli,Virudhunagar,Pollachi,Namakkal,Salem,Trichey,Viluppuram",
+      "stipend": "3,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Unity Development",
+      "companyName": "Sagaci Systems",
+      "link": "https://internshala.com/internship/detail/unity-development-work-from-home-job-internship-at-sagaci-systems1679573482",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Machine Learning",
+      "companyName": "The Crafty Talk",
+      "link": "https://internshala.com/internship/detail/machine-learning-work-from-home-job-internship-at-the-crafty-talk1679564504",
+      "location": "Work From Home",
+      "stipend": "12,700 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Artificial Intelligence (AI)",
+      "companyName": "The Crafty Talk",
+      "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-work-from-home-job-internship-at-the-crafty-talk1679564401",
+      "location": "Work From Home",
+      "stipend": "17,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Electronics Hardware Engineering",
+      "companyName": "Techolution",
+      "link": "https://internshala.com/internship/detail/electronics-hardware-engineering-internship-in-hyderabad-at-techolution1679562015",
+      "location": "Hyderabad",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java & Microservices Development",
+      "companyName": "NatWest Group",
+      "link": "https://internshala.com/internship/detail/java-microservices-development-internship-in-gurgaon-at-natwest-group1679561461",
+      "location": "Gurgaon",
+      "stipend": "45,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java Microservice Development",
+      "companyName": "Indian Institute Of Technology Bombay",
+      "link": "https://internshala.com/internship/detail/java-microservice-development-internship-in-mumbai-at-indian-institute-of-technology-bombay1679555116",
+      "location": "Mumbai",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Data Validation",
+      "companyName": "Accrete LLC",
+      "link": "https://internshala.com/internship/detail/data-validation-internship-in-mumbai-at-accrete-llc1679559835",
+      "location": "Mumbai",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Game Development",
+      "companyName": "BoredLeaders Games Private Limited",
+      "link": "https://internshala.com/internship/detail/game-development-work-from-home-job-internship-at-boredleaders-games-private-limited1679543845",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Quantum IT Innovation",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-quantum-it-innovation1679394761",
+      "location": "Work From Home",
+      "stipend": "8,000-15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java Full Stack Development",
+      "companyName": "Aaptatt",
+      "link": "https://internshala.com/internship/detail/java-full-stack-development-internship-in-gurgaon-at-aaptatt1679548948",
+      "location": "Gurgaon",
+      "stipend": "18,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Celetel",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-noida-at-celetel1679478831",
+      "location": "Noida",
+      "stipend": "15,000-22,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Artificial Intelligence (AI)",
+      "companyName": "Vehicle Care",
+      "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-gurgaon-at-vehicle-care1679469371",
+      "location": "Gurgaon",
+      "stipend": "3,000-5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "React Native",
+      "companyName": "M/S R B Uttam Sahil India Private Limited",
+      "link": "https://internshala.com/internship/detail/react-native-work-from-home-job-internship-at-m-s-r-b-uttam-sahil-india-private-limited1679471892",
+      "location": "Work From Home",
+      "stipend": "8,000-10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Game Development",
+      "companyName": "Red Apple Learning",
+      "link": "https://internshala.com/internship/detail/game-development-internship-in-kolkata-at-red-apple-learning1679464193",
+      "location": "Kolkata",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": ".NET Development",
+      "companyName": "ANK Digital Media",
+      "link": "https://internshala.com/internship/detail/net-development-internship-in-delhi-at-ank-digital-media1679395610",
+      "location": "Delhi",
+      "stipend": "3,000-8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Android App Development",
+      "companyName": "Shri Shyam Sawariya Parivar",
+      "link": "https://internshala.com/internship/detail/android-app-development-work-from-home-job-internship-at-shri-shyam-sawariya-parivar1678856251",
+      "location": "Work From Home",
+      "stipend": "Unpaid",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Power BI Development",
+      "companyName": "BlueTide Solutions Pvt Ltd",
+      "link": "https://internshala.com/internship/detail/power-bi-development-part-time-job-internship-at-gurgaon-in-bluetide-solutions-pvt-ltd1679460422",
+      "location": "Gurgaon",
+      "stipend": "15,000-20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "AWS DevOps Engineering",
+      "companyName": "Aaptatt",
+      "link": "https://internshala.com/internship/detail/aws-devops-engineering-internship-in-gurgaon-at-aaptatt1679459643",
+      "location": "Gurgaon",
+      "stipend": "18,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "DevOps Engineering",
+      "companyName": "Aaptatt",
+      "link": "https://internshala.com/internship/detail/devops-engineering-internship-in-gurgaon-at-aaptatt1679459083",
+      "location": "Gurgaon",
+      "stipend": "20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "WhatsApp Chatbot Development",
+      "companyName": "CattleGuru Private Limited",
+      "link": "https://internshala.com/internship/detail/whatsapp-chatbot-development-work-from-home-job-internship-at-cattleguru-private-limited1679404801",
+      "location": "Work From Home",
+      "stipend": "3,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development Engineering",
+      "companyName": "Internshala",
+      "link": "https://internshala.com/internship/detail/software-development-engineering-internship-in-gurgaon-at-internshala1679458542",
+      "location": "Gurgaon",
+      "stipend": "20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Game Development",
+      "companyName": "Ideekay Studios",
+      "link": "https://internshala.com/internship/detail/game-development-work-from-home-job-internship-at-ideekay-studios1679395315",
+      "location": "Work From Home",
+      "stipend": "4,000-6,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Aarvy Technologies",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-gurgaon-at-aarvy-technologies1679385663",
+      "location": "Gurgaon",
+      "stipend": "2,000-3,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "React + .NET Development",
+      "companyName": "Eonian Software Solutions Private Limited",
+      "link": "https://internshala.com/internship/detail/react-net-development-internship-in-ahmedabad-at-eonian-software-solutions-private-limited1679404081",
+      "location": "Ahmedabad",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Development (Conversational AI Product)",
+      "companyName": "Phamax Analytic Resources",
+      "link": "https://internshala.com/internship/detail/development-conversational-ai-product-work-from-home-job-internship-at-phamax-analytic-resources1679300563",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Inside Sales Specialist",
+      "companyName": "Skill-Lync",
+      "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
+      "location": "Delhi,Bangalore,Hyderabad,Chennai",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Technical Support - AI Products",
+      "companyName": "Quantian Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/technical-support-ai-products-internship-in-pune-at-quantian-technologies-private-limited1679400016",
+      "location": "Pune",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "The Swastik Pharmaceuticals",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-vijayawada-at-the-swastik-pharmaceuticals1679325774",
+      "location": "Vijayawada",
+      "stipend": "2,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "UAV Pilot And Test Engineering",
+      "companyName": "Indian Robo Store",
+      "link": "https://internshala.com/internship/detail/uav-pilot-and-test-engineering-internship-in-noida-at-indian-robo-store1679397238",
+      "location": "Noida",
+      "stipend": "8,000-10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "IDZ Digital Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-part-time-job-internship-at-mumbai-in-idz-digital-private-limited1679393933",
+      "location": "Mumbai",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Game Design",
+      "companyName": "IDZ Digital Private Limited",
+      "link": "https://internshala.com/internship/detail/game-design-internship-in-mumbai-at-idz-digital-private-limited1679393679",
+      "location": "Mumbai",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Solidity Development",
+      "companyName": "Lambda Vision",
+      "link": "https://internshala.com/internship/detail/solidity-development-work-from-home-job-internship-at-lambda-vision1679394027",
+      "location": "Work From Home",
+      "stipend": "80 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "React Development",
+      "companyName": "Gaura Web Tech",
+      "link": "https://internshala.com/internship/detail/react-development-internship-in-ahmedabad-bangalore-at-gaura-web-tech1679391049",
+      "location": "Ahmedabad,Bangalore",
+      "stipend": "25,000-35,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java Development",
+      "companyName": "IDZ Digital Private Limited",
+      "link": "https://internshala.com/internship/detail/java-development-internship-in-mumbai-at-idz-digital-private-limited1679389105",
+      "location": "Mumbai",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Blender And Unity Development",
+      "companyName": "Futuralis",
+      "link": "https://internshala.com/internship/detail/blender-and-unity-development-work-from-home-job-internship-at-futuralis1679386594",
+      "location": "Work From Home",
+      "stipend": "20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Piyshef Technologies",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-udaipur-at-piyshef-technologies1679375430",
+      "location": "Udaipur",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "ARAN",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-coimbatore-at-aran1679374983",
+      "location": "Coimbatore",
+      "stipend": "3,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Robotics Development",
+      "companyName": "Peepul Agri Ventures LLP",
+      "link": "https://internshala.com/internship/detail/robotics-development-internship-in-hyderabad-at-peepul-agri-ventures-llp1679376784",
+      "location": "Hyderabad",
+      "stipend": "15,000-25,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Unity Development",
+      "companyName": "GoKapture",
+      "link": "https://internshala.com/internship/detail/unity-development-work-from-home-job-internship-at-gokapture1679376598",
+      "location": "Work From Home",
+      "stipend": "10,000-20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "React Native Development",
+      "companyName": "Pressbuddy Software Solutions",
+      "link": "https://internshala.com/internship/detail/react-native-development-work-from-home-job-internship-at-pressbuddy-software-solutions1679376358",
+      "location": "Work From Home",
+      "stipend": "6,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "TruLOCAL India Private Limited",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-trulocal-india-private-limited1679368112",
+      "location": "Work From Home",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Vistaar Digital Communications Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-vistaar-digital-communications-private-limited1679289070",
+      "location": "Mumbai",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Blackcoffer",
+      "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-blackcoffer1679318140",
+      "location": "Work From Home",
+      "stipend": "6,000-12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "ASP.NET Development",
+      "companyName": "Blackcoffer",
+      "link": "https://internshala.com/internship/detail/aspnet-development-work-from-home-job-internship-at-blackcoffer1679318125",
+      "location": "Work From Home",
+      "stipend": "6,000-12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Front End Development (ReactJS)",
+      "companyName": "Omikron Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/front-end-development-reactjs-work-from-home-job-internship-at-omikron-technologies-private-limited1679368107",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Embedded Software Development",
+      "companyName": "Improvians",
+      "link": "https://internshala.com/internship/detail/embedded-software-development-internship-in-mumbai-at-improvians1679323895",
+      "location": "Mumbai",
+      "stipend": "12,000-14,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python Development",
+      "companyName": "Angels Virtual World",
+      "link": "https://internshala.com/internship/detail/python-development-internship-in-delhi-at-angels-virtual-world1679316823",
+      "location": "Delhi",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Embedded Software And Hardware Engineering",
+      "companyName": "Neuranics Lab Private Limited",
+      "link": "https://internshala.com/internship/detail/embedded-software-and-hardware-engineering-internship-in-delhi-at-neuranics-lab-private-limited1679302519",
+      "location": "Delhi",
+      "stipend": "25,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Applied AI (Open AI)",
+      "companyName": "Persist Ventures",
+      "link": "https://internshala.com/internship/detail/applied-ai-open-ai-work-from-home-job-internship-at-persist-ventures1679308211",
+      "location": "Work From Home",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Game Development",
+      "companyName": "MentorBoxx",
+      "link": "https://internshala.com/internship/detail/game-development-work-from-home-job-internship-at-mentorboxx1679306939",
+      "location": "Work From Home",
+      "stipend": "18,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Research And Development",
+      "companyName": "Isourse",
+      "link": "https://internshala.com/internship/detail/research-and-development-internship-in-delhi-at-isourse1679305608",
+      "location": "Delhi",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Functional QA - Capital Market",
+      "companyName": "NatWest Group",
+      "link": "https://internshala.com/internship/detail/functional-qa-capital-market-internship-in-bangalore-at-natwest-group1678959216",
+      "location": "Bangalore",
+      "stipend": "45,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": ".NET Development",
+      "companyName": "DCNPL Private Limited",
+      "link": "https://internshala.com/internship/detail/net-development-internship-in-indore-at-dcnpl-private-limited1679293273",
+      "location": "Indore",
+      "stipend": "2,000-5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Artificial Intelligence (AI) & Deep Learning",
+      "companyName": "Stackfusion Private Limited",
+      "link": "https://internshala.com/internship/detail/artificial-intelligence-ai-deep-learning-internship-in-pune-at-stackfusion-private-limited1679292792",
+      "location": "Pune",
+      "stipend": "10,000-20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Unity Development",
+      "companyName": "HololabXR",
+      "link": "https://internshala.com/internship/detail/unity-development-part-time-job-internship-at-jabalpur-in-hololabxr1679299432",
+      "location": "Jabalpur",
+      "stipend": "2,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": ".NET Development",
+      "companyName": "Suvya Web",
+      "link": "https://internshala.com/internship/detail/net-development-internship-in-surat-at-suvya-web1679287715",
+      "location": "Surat",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java Development",
+      "companyName": "Go Digital Technology Consulting",
+      "link": "https://internshala.com/internship/detail/java-development-internship-in-mumbai-at-go-digital-technology-consulting1679288373",
+      "location": "Mumbai",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "ASP.NET/C# Development",
+      "companyName": "Go Digital Technology Consulting",
+      "link": "https://internshala.com/internship/detail/aspnet-c-development-internship-in-mumbai-at-go-digital-technology-consulting1679288318",
+      "location": "Mumbai",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Data Engineering",
+      "companyName": "Go Digital Technology Consulting",
+      "link": "https://internshala.com/internship/detail/data-engineering-internship-in-pune-mumbai-at-go-digital-technology-consulting1679288295",
+      "location": "Pune,Mumbai",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "ASP.NET Development",
+      "companyName": "Attitude MatterZ",
+      "link": "https://internshala.com/internship/detail/aspnet-development-work-from-home-job-internship-at-attitude-matterz1679248165",
+      "location": "Work From Home",
+      "stipend": "2,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Robotic Instructing",
+      "companyName": "Rancho Labs",
+      "link": "https://internshala.com/internship/detail/robotic-instructing-internship-in-delhi-at-rancho-labs1679286408",
+      "location": "Delhi",
+      "stipend": "8,000-10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Parrami Finance Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-parrami-finance-private-limited1679133330",
+      "location": "Mumbai",
+      "stipend": "5,000-12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "React Native Development",
+      "companyName": "Zezo Softwares Private Limited",
+      "link": "https://internshala.com/internship/detail/react-native-development-work-from-home-job-internship-at-zezo-softwares-private-limited1679129798",
+      "location": "Work From Home",
+      "stipend": "7,000-10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": ".NET Development",
+      "companyName": "Attitude MatterZ",
+      "link": "https://internshala.com/internship/detail/net-development-work-from-home-job-internship-at-attitude-matterz1679224689",
+      "location": "Work From Home",
+      "stipend": "4,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Machine Learning",
+      "companyName": "Attitude MatterZ",
+      "link": "https://internshala.com/internship/detail/machine-learning-work-from-home-job-internship-at-attitude-matterz1679220673",
+      "location": "Work From Home",
+      "stipend": "2,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Inside Sales Specialist",
+      "companyName": "Skill-Lync",
+      "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
+      "location": "Delhi,Bangalore,Hyderabad,Chennai",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development Engineering (Web)",
+      "companyName": "Attitude MatterZ",
+      "link": "https://internshala.com/internship/detail/software-development-engineering-web-work-from-home-job-internship-at-attitude-matterz1679219097",
+      "location": "Work From Home",
+      "stipend": "2,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Machine Learning",
+      "companyName": "Buddha Education Association Incorporation",
+      "link": "https://internshala.com/internship/detail/machine-learning-work-from-home-job-internship-at-buddha-education-association-incorporation1679126953",
+      "location": "Work From Home",
+      "stipend": "21,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python Development",
+      "companyName": "Megaminds IT Services",
+      "link": "https://internshala.com/internship/detail/python-development-work-from-home-job-internship-at-megaminds-it-services1679141852",
+      "location": "Work From Home",
+      "stipend": "6,000-10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": ".NET Development",
+      "companyName": "Hvantage Technologies Incorporated",
+      "link": "https://internshala.com/internship/detail/net-development-work-from-home-job-internship-at-hvantage-technologies-incorporated1679115678",
+      "location": "Work From Home",
+      "stipend": "2,000-5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "GPT Development",
+      "companyName": "Medius Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/gpt-development-internship-in-mumbai-at-medius-technologies-private-limited1679142519",
+      "location": "Mumbai",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python Development",
+      "companyName": "Analystt.ai",
+      "link": "https://internshala.com/internship/detail/python-development-work-from-home-job-internship-at-analysttai1679119789",
+      "location": "Work From Home",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Samisan Tech Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-samisan-tech-private-limited1679122988",
+      "location": "Mumbai",
+      "stipend": "18,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "SHN Advertising",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-kanpur-at-shn-advertising1679118633",
+      "location": "Kanpur",
+      "stipend": "4,000-6,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Blackcoffer",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-blackcoffer1679117997",
+      "location": "Work From Home",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "DevOps",
+      "companyName": "Zoraware Technologies",
+      "link": "https://internshala.com/internship/detail/devops-internship-in-ghaziabad-at-zoraware-technologies1679057604",
+      "location": "Ghaziabad",
+      "stipend": "3,000-5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python Development",
+      "companyName": "Ouriken - IT Services & IT Consulting",
+      "link": "https://internshala.com/internship/detail/python-development-internship-in-thane-at-ouriken-it-services-it-consulting1679057222",
+      "location": "Thane",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "PowerBI Development",
+      "companyName": "IntelliSQR",
+      "link": "https://internshala.com/internship/detail/powerbi-development-internship-in-delhi-at-intellisqr1679056219",
+      "location": "Delhi",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "DevOps",
+      "companyName": "DeHaat",
+      "link": "https://internshala.com/internship/detail/devops-internship-in-gurgaon-at-dehaat1679050238",
+      "location": "Gurgaon",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Data Tagging",
+      "companyName": "Salesken",
+      "link": "https://internshala.com/internship/detail/data-tagging-internship-in-bangalore-at-salesken1679046415",
+      "location": "Bangalore",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "3D Modelling & Texturing For Game Asset (Blender/Maya/Substance Painter)",
+      "companyName": "MB Softech Consultants",
+      "link": "https://internshala.com/internship/detail/3d-modelling-texturing-for-game-asset-blender-maya-substance-painter-work-from-home-job-internship-at-mb-softech-consultants1678706724",
+      "location": "Work From Home",
+      "stipend": "5,000-20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Vue.js and Java/Python Development",
+      "companyName": "Growlytics Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/vuejs-and-java-python-development-internship-in-bangalore-at-growlytics-technologies-private-limited1679039590",
+      "location": "Bangalore",
+      "stipend": "15,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Unity Game Development",
+      "companyName": "IDZ Digital Private Limited",
+      "link": "https://internshala.com/internship/detail/unity-game-development-work-from-home-job-internship-at-idz-digital-private-limited1679036863",
+      "location": "Work From Home",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "QT Development",
+      "companyName": "CSE, IIT Bombay",
+      "link": "https://internshala.com/internship/detail/qt-development-work-from-home-job-internship-at-cse-iit-bombay1679025603",
+      "location": "Work From Home",
+      "stipend": "3,000-5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Roblox Game Development",
+      "companyName": "Stareout Games",
+      "link": "https://internshala.com/internship/detail/roblox-game-development-work-from-home-job-internship-at-stareout-games1678904585",
+      "location": "Work From Home",
+      "stipend": "15,000-25,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python Development",
+      "companyName": "Innovation Hacks AI",
+      "link": "https://internshala.com/internship/detail/python-development-internship-in-mumbai-at-innovation-hacks-ai1678974270",
+      "location": "Mumbai",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Game Development",
+      "companyName": "Gape Labs",
+      "link": "https://internshala.com/internship/detail/game-development-work-from-home-job-internship-at-gape-labs1678879526",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Robotics",
+      "companyName": "Attitude MatterZ",
+      "link": "https://internshala.com/internship/detail/robotics-work-from-home-job-internship-at-attitude-matterz1678960696",
+      "location": "Work From Home",
+      "stipend": "2,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Bakerstreet Fintech Private Limited",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-pune-at-bakerstreet-fintech-private-limited1678951679",
+      "location": "Pune",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Tutoring For Java",
+      "companyName": "LevelApp",
+      "link": "https://internshala.com/internship/detail/tutoring-for-java-work-from-home-job-internship-at-levelapp1678959088",
+      "location": "Work From Home",
+      "stipend": "3,500-6,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Unity Game Development",
+      "companyName": "Stareout Games",
+      "link": "https://internshala.com/internship/detail/unity-game-development-work-from-home-job-internship-at-stareout-games1678903792",
+      "location": "Work From Home",
+      "stipend": "10,000-15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Site Galleria",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-site-galleria1678949258",
+      "location": "Work From Home",
+      "stipend": "3,000-5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "System Administration",
+      "companyName": "Plus91 Technologies",
+      "link": "https://internshala.com/internship/detail/system-administration-internship-in-patna-pune-at-plus91-technologies1678941616",
+      "location": "Patna,Pune",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Electronics Embedded Hardware & Software Engineering",
+      "companyName": "Invictus Defence Systems Private Limited",
+      "link": "https://internshala.com/internship/detail/electronics-embedded-hardware-software-engineering-internship-in-bangalore-at-invictus-defence-systems-private-limited1678951007",
+      "location": "Bangalore",
+      "stipend": "15,000-20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Unity3D Game Development",
+      "companyName": "The Learning Buddy",
+      "link": "https://internshala.com/internship/detail/unity3d-game-development-work-from-home-job-internship-at-the-learning-buddy1678950929",
+      "location": "Work From Home",
+      "stipend": "5,000-10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "React Native Development",
+      "companyName": "Unico Global",
+      "link": "https://internshala.com/internship/detail/react-native-development-work-from-home-job-internship-at-unico-global1678870794",
+      "location": "Work From Home",
+      "stipend": "4,000-7,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Hardware Design Engineering",
+      "companyName": "Strom Customized Solutions",
+      "link": "https://internshala.com/internship/detail/hardware-design-engineering-internship-in-vadodara-at-strom-customized-solutions1678950116",
+      "location": "Vadodara",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "RevoltronX",
+      "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-revoltronx1678937521",
+      "location": "Work From Home",
+      "stipend": "1,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "DevOps Engineering",
+      "companyName": "UniAcco",
+      "link": "https://internshala.com/internship/detail/devops-engineering-internship-in-mumbai-at-uniacco1678941722",
+      "location": "Mumbai",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Paarsh Infotech",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-nashik-at-paarsh-infotech1678903050",
+      "location": "Nashik",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Gauge.ro (Lalita Ventures)",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-gaugero-lalita-ventures1678891078",
+      "location": "Work From Home",
+      "stipend": "7,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "DevOps Engineering",
+      "companyName": "Aaptatt",
+      "link": "https://internshala.com/internship/detail/devops-engineering-internship-in-gurgaon-at-aaptatt1678883551",
+      "location": "Gurgaon",
+      "stipend": "18,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Infra Administration",
+      "companyName": "Code Inbound LLP",
+      "link": "https://internshala.com/internship/detail/infra-administration-work-from-home-job-internship-at-code-inbound-llp1678879826",
+      "location": "Work From Home",
+      "stipend": "1,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java Development",
+      "companyName": "Jarvics Technologies",
+      "link": "https://internshala.com/internship/detail/java-development-internship-in-multiple-locations-at-jarvics-technologies1678873743",
+      "location": "Chandigarh,Patiala,Kharar,Mohali,Kurali",
+      "stipend": "8,000-15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Eldrok Technology India",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-gurgaon-at-eldrok-technology-india1678878919",
+      "location": "Gurgaon",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Inside Sales Specialist",
+      "companyName": "Skill-Lync",
+      "link": "https://internshala.com/job/detail/inside-sales-specialist-fresher-jobs-in-multiple-locations-at-skill-lync1677762021",
+      "location": "Delhi,Bangalore,Hyderabad,Chennai",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Plushvie",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-ahmedabad-at-plushvie1678866565",
+      "location": "Ahmedabad",
+      "stipend": "7,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "CodeIgniter & Laravel Development",
+      "companyName": "Bridcodes Global Private Limited",
+      "link": "https://internshala.com/internship/detail/codeigniter-laravel-development-work-from-home-job-internship-at-bridcodes-global-private-limited1678873304",
+      "location": "Work From Home",
+      "stipend": "6,000-10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "CodeIgniter, Laravel & Vue.js Development",
+      "companyName": "QBH Solution Private Limited",
+      "link": "https://internshala.com/internship/detail/codeigniter-laravel-vuejs-development-work-from-home-job-internship-at-qbh-solution-private-limited1678870997",
+      "location": "Work From Home",
+      "stipend": "10,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "ROS (Robotics Operating System)",
+      "companyName": "Enord Private Limited",
+      "link": "https://internshala.com/internship/detail/ros-robotics-operating-system-internship-in-delhi-at-enord-private-limited1678798659",
+      "location": "Delhi",
+      "stipend": "2,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development Engineering (Web)",
+      "companyName": "Yougetplaced Technology Services",
+      "link": "https://internshala.com/internship/detail/software-development-engineering-web-work-from-home-job-internship-at-yougetplaced-technology-services1678863648",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Instructor (C,C++&Java)",
+      "companyName": "Roboiotics Services LLP",
+      "link": "https://internshala.com/internship/detail/instructor-c-c-java-internship-in-chandigarh-bhopal-at-roboiotics-services-llp1678864888",
+      "location": "Chandigarh,Bhopal",
+      "stipend": "35,000-60,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python Development",
+      "companyName": "Peppermint Communications Private Limited",
+      "link": "https://internshala.com/internship/detail/python-development-internship-in-multiple-locations-at-peppermint-communications-private-limited1678771300",
+      "location": "Ulhasnagar,Thane,Dombivli,Kalyan,Bhiwandi,Ambernath",
+      "stipend": "12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "DevOps Development",
+      "companyName": "Jarvics Technologies",
+      "link": "https://internshala.com/internship/detail/devops-development-internship-in-chandigarh-mohali-at-jarvics-technologies1678794095",
+      "location": "Chandigarh,Mohali",
+      "stipend": "10,000-15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Python Development",
+      "companyName": "Techvins Software Private Limited",
+      "link": "https://internshala.com/internship/detail/python-development-internship-in-gurgaon-at-techvins-software-private-limited1678764859",
+      "location": "Gurgaon",
+      "stipend": "8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "FlutterFlow Development",
+      "companyName": "OAK Appian Training",
+      "link": "https://internshala.com/internship/detail/flutterflow-development-work-from-home-job-internship-at-oak-appian-training1678787349",
+      "location": "Work From Home",
+      "stipend": "12,000-20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Softgenics India Private Limited",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-softgenics-india-private-limited1678716588",
+      "location": "Work From Home",
+      "stipend": "6,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "API Development",
+      "companyName": "Isourse",
+      "link": "https://internshala.com/internship/detail/api-development-internship-in-delhi-at-isourse1678783760",
+      "location": "Delhi",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "ASP.NET Development",
+      "companyName": "Isourse",
+      "link": "https://internshala.com/internship/detail/aspnet-development-internship-in-delhi-at-isourse1678783646",
+      "location": "Delhi",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Product Engineering",
+      "companyName": "Dashtoon",
+      "link": "https://internshala.com/internship/detail/product-engineering-internship-in-bangalore-at-dashtoon1678781767",
+      "location": "Bangalore",
+      "stipend": "25,000-40,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "CvDragon India",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-kolkata-howrah-at-cvdragon-india1678773774",
+      "location": "Kolkata,Howrah",
+      "stipend": "7,500 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Isourse",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-delhi-at-isourse1678778240",
+      "location": "Delhi",
+      "stipend": "15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Spring Boot",
+      "companyName": "Webknot Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/spring-boot-work-from-home-job-internship-at-webknot-technologies-private-limited1678775223",
+      "location": "Work From Home",
+      "stipend": "10,000-15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Webknot Technologies Private Limited",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-webknot-technologies-private-limited1678774688",
+      "location": "Work From Home",
+      "stipend": "10,000-15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "React Native Development",
+      "companyName": "TechGropse Private Limited",
+      "link": "https://internshala.com/internship/detail/react-native-development-internship-in-noida-at-techgropse-private-limited1678773987",
+      "location": "Noida",
+      "stipend": "7,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "React Native Development",
+      "companyName": "Dwebbox",
+      "link": "https://internshala.com/internship/detail/react-native-development-internship-in-mumbai-at-dwebbox1678700443",
+      "location": "Mumbai",
+      "stipend": "10,000-15,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Engineering (React JS)",
+      "companyName": "InGen Dynamics Inc. (Part Of AH Dynamics And Robotics Private Limited)",
+      "link": "https://internshala.com/internship/detail/software-engineering-react-js-internship-in-kozhikode-bangalore-at-ingen-dynamics-inc-part-of-ah-dynamics-and-robotics-private-limited1678691584",
+      "location": "Kozhikode,Bangalore",
+      "stipend": "3,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Engineering (Python)",
+      "companyName": "InGen Dynamics Inc. (Part Of AH Dynamics And Robotics Private Limited)",
+      "link": "https://internshala.com/internship/detail/software-engineering-python-internship-in-kozhikode-bangalore-at-ingen-dynamics-inc-part-of-ah-dynamics-and-robotics-private-limited1678691529",
+      "location": "Kozhikode,Bangalore",
+      "stipend": "3,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Softonauts Infotech Private Limited",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-multiple-locations-at-softonauts-infotech-private-limited1678444821",
+      "location": "Thane,Navi Mumbai,Badlapur,Vashi",
+      "stipend": "5,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Game Development",
+      "companyName": "Shortgun LLP",
+      "link": "https://internshala.com/internship/detail/game-development-internship-in-mumbai-at-shortgun-llp1678431897",
+      "location": "Mumbai",
+      "stipend": "10,000-25,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Virtual Reality Unity 3D Development",
+      "companyName": "Gesture Research",
+      "link": "https://internshala.com/internship/detail/virtual-reality-unity-3d-development-internship-in-multiple-locations-at-gesture-research1678443435",
+      "location": "Chandigarh,Delhi,Gurgaon",
+      "stipend": "7,500 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Kreedy",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-kreedy1678385725",
+      "location": "Work From Home",
+      "stipend": "2,000 lump sum +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Build With Innovation Private Limited",
+      "link": "https://internshala.com/internship/detail/flutter-development-internship-in-delhi-at-build-with-innovation-private-limited1678384141",
+      "location": "Delhi",
+      "stipend": "10,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Embedded Software Developement",
+      "companyName": "Greenmed Technologies",
+      "link": "https://internshala.com/internship/detail/embedded-software-developement-part-time-job-internship-at-chennai-in-greenmed-technologies1678338757",
+      "location": "Chennai",
+      "stipend": "3,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Yougetplaced Technology Services",
+      "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-yougetplaced-technology-services1678288130",
+      "location": "Work From Home",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": ".NET Support",
+      "companyName": "P.I. Softek Limited",
+      "link": "https://internshala.com/internship/detail/net-support-internship-in-noida-at-pi-softek-limited1678337350",
+      "location": "Noida",
+      "stipend": "20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Flutter Development",
+      "companyName": "Settyl",
+      "link": "https://internshala.com/internship/detail/flutter-development-work-from-home-job-internship-at-settyl1678299992",
+      "location": "Work From Home",
+      "stipend": "6,000-8,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "NLP Engineering",
+      "companyName": "UniAcco",
+      "link": "https://internshala.com/internship/detail/nlp-engineering-internship-in-delhi-at-uniacco1678268191",
+      "location": "Delhi",
+      "stipend": "15,000-20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "MWW (CryptoKnights)",
+      "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-mww-cryptoknights1678082507",
+      "location": "Work From Home",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Immersive Design",
+      "companyName": "Queppelin Technology Solutions Private Limited",
+      "link": "https://internshala.com/internship/detail/immersive-design-internship-in-multiple-locations-at-queppelin-technology-solutions-private-limited1678099063",
+      "location": "Faridabad,Delhi,Gurgaon,Noida",
+      "stipend": "10,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Java Development",
+      "companyName": "Aaptatt",
+      "link": "https://internshala.com/internship/detail/java-development-internship-in-gurgaon-at-aaptatt1678096071",
+      "location": "Gurgaon",
+      "stipend": "18,000 /month +  Incentives",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Robotics & Coding (HOD)",
+      "companyName": "EduMarvel",
+      "link": "https://internshala.com/internship/detail/robotics-coding-hod-internship-in-mumbai-at-edumarvel1678086961",
+      "location": "Mumbai",
+      "stipend": "6,000-12,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": ".NET Development",
+      "companyName": "Modgenics Technology Solutions Private Limited",
+      "link": "https://internshala.com/internship/detail/net-development-work-from-home-job-internship-at-modgenics-technology-solutions-private-limited1678003861",
+      "location": "Work From Home",
+      "stipend": "12,000-20,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Grafieks Analytics Limited",
+      "link": "https://internshala.com/internship/detail/software-development-work-from-home-job-internship-at-grafieks-analytics-limited1674305621",
+      "location": "Work From Home",
+      "stipend": "5,000 /month",
+      "description": ""
+    },
+    {
+      "site": "Internshala",
+      "title": "Software Development",
+      "companyName": "Aester India Private Limited",
+      "link": "https://internshala.com/internship/detail/software-development-internship-in-ernakulam-cochin-at-aester-india-private-limited1677839446",
+      "location": "Ernakulam,Cochin",
+      "stipend": "2,000 /month",
+      "description": ""
+    }
     ,
-      {
-        "site": "LinkedIN",
-        "title": "Software Development Engineer In Test",
-        "companyName": "Mastercard",
-        "location": "Pune, Maharashtra, India, Hybrid",
-        "description": "About the job\n        \n\n\n        \n                  Our Purpose\n\nWe work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.\n\nJob Title\n\nSoftware Development Engineer In Test\n\nSoftware Development Engineer In Test\n\nWho is Mastercard?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOur decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.\n\nOverview\n\nTo drive our future growth, we are scaling our platform and building new products. Ethoca’s growth is explosive, and only great problem-solvers, collaborators and thinkers can help us take it to the next level. If that sounds like you then keep reading!\n\nWe believe in decoupled, message-driven, and distributed systems. We strive to keep codebases small and manageable. We’re interested in reactive design patterns that will make our systems more resilient and responsive, yet remain elastic to change. As we proceed through our technology roadmap, we are evaluating and implementing new community endorsed technologies for every tier of our platform. Our backend tiers are presently JVM-based. We are using or considering technologies like Kafka, Springboot, ElasticSearch, Angular 10, Bootstrap, Chef, Ansible, Openstack, Docker and so on.\n\nWe want to hire a Software Development Engineer In Test who has a proven record of leading and solutioning full automation testing strategies and lifecycles for microservice-oriented systems using the appropriate industry leading products, patterns, and practices!\n\nRole\n Work as a member of an agile team to design, build, test, and deploy new products and features Create test plans to achieve the best test approach in collaboration with team members Create comprehensive and well-structured test cases for all test types in scope Design automated tests for features Independently design and implement modularized, data driven and reusable tests that can be executed on different environments Develop, maintain and identify improvements to the automation commons libraries and framework that will be used by the scrum teams Troubleshoot defects to resolution and closure Ensure test assets are kept up to date and continually evaluated against test objectives (maintain all testing assets) Execute automated test suites against the released version of the application with a goal of maintaining 100% test stability Support the release process by executing and maintaining test suites for smoke, sanity, regression and operational validation. Conduct reviews of test case coverage for any test types in scope to ensure appropriate risk-based testing approach is achieved. Conduct peer code reviews, providing feedback around logical implementation, and best practice improvement opportunities around patterns, algorithms, library usage, etc. Provide technical guidance, support and mentoring to more junior team members Make technology recommendations that balance business needs and technical requirements Proactively understand stakeholder needs, goals, expectations and viewpoints to deliver results Effectively host technology education forums (i.e. Technology Brown Bag Session) around relevant topics for the wider organization Independently apply problem solving skills to identify symptoms and root causes of issues Make effective and efficient decisions even when data is ambiguous Thrive in a highly collaborative company environment where agility is paramount\n\nAll About You\n Bachelor’s in Computer Science/ Technical Degree or related equivalent experience. Ability to understand new concepts quickly, and apply them accurately through an evolving, dynamic, agile environment. Knowledgeable with Continuous Integration & Delivery principles with an eye for automation Advanced working knowledge of Java. Experience with Selenium WebDriver. Experience using testing frameworks like Junit, TestNG, JMeter. Experience with JavaScript testing frameworks like protractor/jasmine. Experience with testing SOAP/REST web APIs. Working knowledge of DB2 and/or other relational databases. Expertise in microservice-based applications testing using Springboot Excellent knowledge of QA principles within SDLC. Excellent verbal and written communication skills. Experience working in a PCI DSS certified environment Experience working with Linux Virtual Machines in a Cloud Environment Not afraid to speak your mind about software design and on the flip side handle any criticism of your ideas with grace\n\nCorporate Security Responsibility\n\n All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must\nAbide by Mastercard’s security policies and practices;Ensure the confidentiality and integrity of the information being accessed;Report any suspected information security violation or breach, andComplete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Software Engineer (Entry Level)",
-        "companyName": "MRI Software",
-        "location": "Bangalore Rural, Karnataka, India, ",
-        "description": "About the job\n        \n\n\n        \n                  We are currently seeking a Junior Software Engineer to work within our global Product Development department working to apply defined software development life cycle processes to deliver production ready code of the highest quality, this individual will be diligent in testing their code and working with the team to produce\nMRI Software’s high standard product. This individual will work under the Agile development methodology in a cross-functional environment with other groups, both inside and outside the department including Product Management and Documentation, as well as create and test code in our dynamic team setting\nResponsibilities\nApplies defined practices and procedures to design, implement, and support software projectsBuilds effective working relationships with team membersActively seeks assistance as needed but demonstrates learning and growing independenceActively seeks guidance for prioritization and review of deliverables.Performs and designs testing protocols to ensure that the product is fully tested.\nRequirements\nCurrently pursuing a BE, Btech, MCA, MSC, or BCA Computer Science or related technical field (2022 Passout may also apply)Experience developing software or algorithms based on predetermined specificationsKnowledge of object-oriented programming, Microsoft .Net or Java preferredProficient with Source Control tools Familiarity with database objects (tables, stored procedures, queries, etc.) a plusAttention to detail is a mustGood written and verbal communication skills\nBenefits\nAbility to learn leading technical / industry standards and technologiesFlexible working arrangements (2 days in the office)Annual performance-related bonusHealth insurance6x Flexi Fridays: knock 2.5 hours off your day on a FridayEngaging, fun & inclusive culture: check out the MRI Software APAC Insta feed and stories!\nAbout The Business\nMRI Software is a global Proptech leader delivering innovative applications and hosted solutions that free real estate companies to elevate their business. \nOur flexible technology platform, along with an open and connected ecosystem, allows us to meet the unique needs of real estate businesses, from property-level management and accounting, to investment modeling and analytics for the global commercial and residential markets. With nearly five decades of expertise and insight, we have grown to include offices in across the United States, the United Kingdom, Hong Kong, Singapore, Australia, South Africa, New Zealand, Canada, and India, with over 3000 team members to support our clients and their unique needs!\nMRI is proud to be an Equal Employment Opportunity employer.",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Senior Dotnet Developer",
-        "companyName": "Infosys",
-        "location": "Chandigarh, India, Hybrid",
-        "description": "About the job\n        \n\n\n        \n                  ResponsibilitiesA day in the life of an Infoscion• As part of the Infosys delivery team, your primary role would be to interface with the client for quality assurance, issue resolution and ensuring high customer satisfaction.• You will understand requirements, create and review designs, validate the architecture and ensure high levels of service offerings to clients in the technology domain.• You will participate in project estimation, provide inputs for solution delivery, conduct technical risk planning, perform code reviews and unit test plan reviews.• You will lead and guide your teams towards developing optimized high quality code deliverables, continual knowledge management and adherence to the organizational guidelines and processes.• You would be a key contributor to building efficient programs/ systems and if you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!\nEducational RequirementsBachelor of Engineering\nService LineApplication Development and Maintenance\nAdditional Responsibilities:• Knowledge of more than one technology• Basics of Architecture and Design fundamentals• Knowledge of Testing tools• Knowledge of agile methodologies• Understanding of Project life cycle activities on development and maintenance projects• Understanding of one or more Estimation methodologies, Knowledge of Quality processes• Basics of business domain to understand the business requirements• Analytical abilities, Strong Technical Skills, Good communication skills• Good understanding of the technology and domain• Ability to demonstrate a sound understanding of software quality assurance principles, SOLID design principles and modelling methods• Awareness of latest technologies and trends• Excellent problem solving, analytical and debugging skills\nTechnical and Professional Requirements:• Primary skills: .net• Desirables: asp>.net",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Senior Application Security Engineer (Bangkok based, relocation provided)",
-        "companyName": "Agoda",
-        "location": "Lucknow, Uttar Pradesh, India, Hybrid",
-        "description": "About the job\n        \n\n\n        \n                  About Agoda\nAgoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.\nGet to Know our Team: \nThe Security Department oversees security, compliance, GRC, and security operations for all Agoda. We are vigilant in ensuring there is no breach or vulnerability threatening our company or endangering our employees in order to keep Agoda safe and protected. This would be a great challenge for those who want to work with the best technology in a dynamic and advanced environment.\nThe Opportunity:\nYou will be working in a fast paced DevSecOps environment where code change happens at a rapid speed and where it is paramount to control security testing into a continuous deployment/integration flow.\nIn this Role, you’ll get to:\nPlay a lead role in developing and designing application-level security controls and standards. Perform application security design reviews against new products and services. Track and prioritize all security issues. Build internal security tools that help fix security problems at scale. Perform code review and drive remediation of discovered issues. Enable automated security testing at scale to measure vulnerability, and report on risk across all microservice, web and mobile platforms. Execute security tests on thousands of servers which are spread across on-premise and public cloud data centers. \nWhat you’ll Need to Succeed:\nStrong foundations in software engineering. Minimum of 7 years of technical experience with any combination of the following: threat modeling experience, secure coding, identity management and authentication, software development, cryptography, system administration and network security. Minimum 2 years experience with Software Development Life Cycle in one or more languages (Rust, Python, Go, Nodejs, etc.)Minimum 1 year experience with public/private cloud environments (Openshift, Rancher, K8s, AWS, GCP, Azure, etc.)Experience in running assessments using OWASP MASVS and ASVSWorking knowledge on exploiting and fixing application vulnerabilitiesStrong background in threat modelingIn-depth knowledge of common web application vulnerabilities (i.e. OWASP Top 10)Familiarity with automated dynamic scanners, fuzzers, and proxy toolsAn analytical mind for problem solving, abstract thought, and offensive security tacticsHighly effective communication skills, in both verbal and written forms, to effectively convey technical and non-technical concepts to a wide variety of audiences Relocation package is provided in case you prefer to relocate to Bangkok, Thailand. Our benefits are…Hybrid Working ModelWFH Set Up Allowance30 Days of Remote Working from anywhere globally every yearEmployee discount for accommodation globallyGlobal team of 90+ nationalities40+ offices and 25+ countriesAnnual CSR / Volunteer Time offBenevity Subscription for employee donationsVolunteering opportunities globallyFree Headspace subscriptionFree Odilo & Udemy subscriptionsAccess to Employee Assistance Program (third party for personal and workplace support)Enhanced Parental LeaveLife, TPD & Accident Insurance\n#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #jakarta #bali #dublin #telaviv #jerusalem #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #bucharest #doha #alrayyan #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #singapore #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #amsterdam #bucharest #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #Hyderabad #bangalore #Mumbai #Bengaluru #Chennai #Kolkata #Lucknow #bandung #yokohama #nagoya #okinawa #fukuoka #IT #4\nEqual Opportunity Employer \nAt Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.\nWe will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .\nTo all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Cerner Application Developer",
-        "companyName": "Accenture in India",
-        "location": "Bengaluru, Karnataka, India, ",
-        "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Bengaluru\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : 1 Participate in various phases of the project Design, Build, Test and Deploy Ability to understand and develop complex integrations with on-premises, and cloud-based applications 2 Quickly resolve defects and provide root cause analysis, implementation support Work with vendor support team to resolve issues Work with different stakeholders like customer, Project manager, Architects, Testers\n\nTechnical Experience : 1 Experience in projects implementation experience in EMR and EHR systems and various modules like Ambulatory, Ancillary, Inpatient, Reporting, revcycle millennium of Cerner 2 Understanding of payer, provider and hospital management models in healthcare 3 Involved in design and implementation of EHR/EMR Systems\n\nProfessional Attributes : 1 Excellent communication and customer interaction skills Strong analytical capabilities to solve complicated issues arising during design and testing phases 2 Experience in HL7 and FHIR standards will be a plus\n\nEducational Qualification : Minimum 15 years of full-time education with Degree\n\nAdditional Information : Knowledge and experience in PL/SQL,Java,EMR, functional testing Cerner Millennium Certification\n 15 years of full time education",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Senior Software Engineer (.NET Fullstack)",
-        "companyName": "Accurate Background",
-        "location": "Hyderabad, Telangana, India, Hybrid",
-        "description": "About the job\n        \n\n\n        \n                  When you join Accurate Background, you’re an integral part of making every hire the start of a success story. Your contributions will help us fulfill our mission of advancing the background screening experience through visibility and insights, empowering our clients to make smarter, unbiased decisions.\nThe Senior Software Engineer plays a key role in each software development lifecycle phase. This individual will lead the development efforts and closely work with the product manager to understand the requirements, be a hands-on developer up to 50%, and own the deployments and post-go-live support. Will also is responsible to help other developers, taking care of the designs for new features, and working collaboratively in case of any challenging problems and also works closely with the QA and other development teams to provide customer-centric solutions and build a world-class Candidate Experience platform to meet the exploding growth of the company and business demands.\nResponsibilities\nWork closely with the product manager to understand the requirements and come up with the necessary designsDevelop and maintain Angular service-oriented architecture platforms from start to finish.Validating requirementsDevelopment of complex SQL queriesSupport build and deploymentsIntegration/enterprise testingApplications support/troubleshooting within a production environmentProvide mentorship to junior developers.\nQualifications\n6+ years of system development experience At least 2 years of experience using the following technologies: Angular (Preferably latest versions), .Net Core, MySQL and/or SQL Server and/or MongoDB, and JSONDeep familiarity with Angular, rest APIs, DB, and SQLDeep familiarity with modern web application technologies & frameworksExperience in solutioning and developing enterprise integration systems.Develop, build, and deploy Tools such as Jenkins.Must be a self-starter who is highly organized, hands-on, and a team player.Ability to thrive in a fast-paced, startup environment.\n The Accurate Way: \nWe offer a fun, fast-paced environment, with lots of room for growth. We have an unwavering commitment to diversity, ensuring everyone has a complete sense of belonging here. To do this, we follow four guiding principles – Take Ownership, Be Open, Stay Curious, Work as One – core values that dictate what we stand for, and how we behave.\nTake ownership.\nBe accountable for your actions, your team, and the company. Accept responsibility willingly, especially when it’s what’s best for our customers. Give others every reason to trust you, believe in you, and count on you. Rise to every occasion with your personal best.\nBe open.\nBe open to new ideas. Be inclusive of people and ways of doing things. Make yourself accessible and approachable, and communicate with genuineness, transparency, honesty, and respect. Embrace differences.\nStay curious.\nStay curious even as you move forward. Tirelessly ask questions and challenge the status quo in your pursuit of new ideas, ways to solve problems, and to continually grow and improve.\n Work as one.\nWork together to create the best customer and workplace experience. Put our customers and employees first—before individual or departmental agendas. Make sure they get the help they need to succeed.\n About Accurate Background: \nAccurate Background’s vision is to make every hire the start of a success story. As a trusted provider of employment background screening and workforce monitoring services, Accurate Background gives companies of all sizes the confidence to make smarter, unbiased hiring decisions at the speed of demand. Experience a new standard of support with a dedicated team, comprehensive technology and insight, and the most extensive coverage and search options to advance your business while keeping your brand and people safe.",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Asset Performance Management Application Developer",
-        "companyName": "Accenture in India",
-        "location": "Gurgaon, Haryana, India, ",
-        "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Gurugram\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Candidate should have strong industry/consulting experience in Asset Data Management, Asset Reliability Management Inventory Management functions Hands on experience on APM tools such as Meridium APM, AVEVA Rockwell Automation, DNV GL etcand EAM tools such as SAP PM/MM, INFOR, MAXIMO etc Knowledge on leading industry practice on Data Management ISO 14224, ISO 31000, ISO 55000, Reliability centered maintenance RCM, Asset Life Cycle, Asset Criticality analysis, Risk Management framework\n\nTechnical Experience : Candidate should have ability to conduct Asset Data, Reliability, work management Inventory Management diagnostics to identify value opportunities and develop improvement plan Candidate should have a well-rounded understanding in topics such as Reliability centered maintenance RCM, Asset Life Cycle, Asset Reliability Management, Asset Criticality analysis, Failure Mode effect analysis FMEA, Inventory optimization, Critical sparing review, Asset Material Data, Vendor Service Data Management\n\nProfessional Attributes : Good communication\n 15 years of full time education",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Software Engineer I",
-        "companyName": "Eventbrite",
-        "location": "India, Remote",
-        "description": "About the job\n        \n\n\n        \n                  THE CHALLENGE\nEventbrite's business continues to grow and scale rapidly, powering millions of events. Event creators and event goers need new tools and technologies that empower them to have the most meaningful live experiences. As a Software Engineer at Eventbrite, you will build beautiful, responsive, delightful and intuitive user interfaces that people are excited to use\nTHE TEAM\nWe're a people-focused Engineering organization: the women and men on our team value working together in small teams to solve big problems, supporting an active culture of mentorship and inclusion, and pushing themselves to learn new things daily. Pair programming, weekly demos, tech talks, and quarterly hackathons are at the core of how we’ve built our team and product. We believe in engaging with the community, regularly hosting free events with some of the top technical speakers, and actively contributing to open source software (check out Britecharts as an example!). Our technology spans across web, mobile, API, big data, machine learning, search, physical point of sale, and scanning systems. To learn more about some of the frontend teamwork, check out our frontend blog\nTHE SKILL SET\nAdvanced English Level1-2 years of experience working in a Software Development role Experience with or the excitement to work with Python and Django web frameworkUnderstanding that great code is also maintainable codeYou care about making sure your code is well testedA result driven self starter with great communication and collaboration skillsUnit-testing know-how required, experience with TDD or BDD is an added bonusKnowledge of front-end technologies (HTML, CSS, Ajax, Javascript)Database experience (ideally MySQL, NoSQLis a plus)OOP/OOD knowledge\nBONUS POINTS\nExperience with AWS and developing APIsExperience using non-relational databasesFamiliarity with Eventbrite and a passion for live events\nWhat We Offer\nAt Eventbrite, we strive to support our Britelings and their loved ones through different stages of life with robust and attractive benefits, financial and physical wellness options, and great perks. In addition to offering a competitive salary and company stock, we have other great benefits available. In the Briteland, you’ll find great medical plans, fertility and adoption benefits, wellness reimbursement, generous parental leave, and much more.\nWe Care About Your Mental Health And Wellbeing.\nOur employees enjoy free coaching sessions with Modern Health. We also offer free therapy sessions with a psychologist. You’ll also have access to private medical insurance for you and your family, that includes dental care. And our wellness program to pay for your gym expenses.\nWe work hard to cultivate a diverse, equitable and inclusive culture where Britelings feel like they belong.\nEmployees can participate in resource groups and we offer programming throughout the year to support a diverse and inclusive workplace.\nWe offer ongoing training and career development that meets people where they are in their careers.\nWe offer unlimited access to courses in Udemy, leadership coaching for all managers, Briteling led talks, and weekly company-wide town halls with our CEO. We take culture seriously and design programs with employee feedback in mind to make Eventbrite a great place to work no matter where you work from in the world.\nWork-life balance & flexibility is extremely important to us.\nOur employees can choose what works best for them: work in one of our offices, be fully remote or the best of both worlds! We believe in a flexible working environment to allow Britelings to perform at their best ensuring a healthy work-life balance. We have recently implemented Britebreak Fridays: all Britelings turn off their computers and take the first Friday of every month off to focus on their wellbeing.\nAbout Eventbrite\nEventbrite is a global self-service ticketing and experience technology platform that serves a community of hundreds of thousands of event creators in nearly 180 countries. Since inception, Eventbrite has been at the center of the experience economy, transforming the way people organize and attend events. The company was founded by Julia Hartz, Kevin Hartz and Renaud Visage, with a vision to build a self-service platform that would make it possible for anyone to create and sell tickets to live experiences. The Eventbrite platform provides an intuitive, secure, and reliable service that enables creators to plan and execute their live and online events, whether it’s an annual culinary festival attracting thousands of foodies, a professional webinar, a weekly yoga workshop or a youth dance class. With over 290 million tickets distributed for over 5 million total events in 2021, Eventbrite is where people all over the world discover new things to do or new ways to do more of what they love. Learn more at www.eventbrite.com .\nIS THIS ROLE NOT AN EXACT FIT?\nSign up to keep in touch and we’ll let you know when we have new positions on our team .\nEventbrite is committed to equality of opportunity for all staff, and applications from all suitably qualified individuals are encouraged, regardless of age, disability, sex, gender reassignment, sexual orientation, pregnancy and maternity, race, religion or belief and marriage and civil partnerships.\nApplicant Privacy Notice",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Dassault Systemes CATIA (V3-V5) Application Developer",
-        "companyName": "Accenture in India",
-        "location": "Bengaluru, Karnataka, India, ",
-        "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Bengaluru\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Responsible for customer interaction Responsible for managing quality document KPIs, RCA etc and report to the Management in the absence of the Lead Should be able to train the team on various topics with respect to 3D Harness design\n\nTechnical Experience : Good experience in Airbus A350 or A320 Program on Electrical system installation ESI Proficiency in A350/A320 electrical harness 3D Design, Full 3D Design, 2D Design and checks Experience on Airbus Tools Methods is must Good understanding of Engineering Drawing is must Airbus VPM and PASS certificate is added advantage\n\nProfessional Attributes : Good communication, verbal and written Should be an excellent and dynamic team player\n 15 years of full time education",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "SAP ABAP Development Application Developer",
-        "companyName": "Accenture in India",
-        "location": "Mumbai, Maharashtra, India, ",
-        "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Mumbai\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Resource should be from Mumbai - no offers to be released for other location Participate in process and system design, configuration, integration testing, user training, and post go-live support in a global SAP instance 2 Analyze complex business processes and provide consultation to users regarding processes and procedures to ensure business in achieving maximum efficiencies out of SAP 3 Facilitate business process discussions and translation of business requirements into configuration and tech\n\nTechnical Experience : Good knowledge of information technology, especially in the areas of SAP related product and technology implementation 2 Good knowledge and hands-on experience in design, configuration and support for the following SAP FICO module 3 Good knowledge of key integration points between SAP Enterprise Resource Planning ERP modules, as well as good understanding of the data design in SAP S4/HANA 4 Good planning and coordination skills 5 Strong writing, verbal communication and presentation skills\n\nProfessional Attributes : Ability to communicate with end clients, Good analytical skills, flexibility, ability to lead/help the team in day to day work and management potential\n\nEducational Qualification : Graduate from any stream\n\nAdditional Information : Candidate has to work daily in client location mumbai\n 15 years of full time education",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Edge Computing Application Developer",
-        "companyName": "Accenture in India",
-        "location": "Bengaluru, Karnataka, India, ",
-        "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Bengaluru\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Docker, Container Orchestration for Edge, IoT Hub Edge Model Management and Monitoring Integration of Open Source Software OSS Experience in using Jupyter, Sagemaker, Google colab\n\nTechnical Experience : Embedded Linux, Embedded C/C, Python Azure IoT Edge / AWS IoT Greengrass Core Artificial Intelligence Machine Learning for Edge ML Framework: scikit-learn, xgboost DNN Framework: tensorflow, pytorch Edge computing HW hands on with NVIDIA Jetson/Intel NUC/Intel VPU/OpenMV/ESP32/Drone\n\nProfessional Attributes : Good Communication Skills\n\nEducational Qualification : BE /BTech in MLAI Or BE /BTech in any stream Post Graduation in MLAI\n 15 years of full time education",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Edge Computing Application Developer",
-        "companyName": "Accenture in India",
-        "location": "Bengaluru, Karnataka, India, ",
-        "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Bengaluru\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Docker, Container Orchestration for Edge, IoT Hub Edge Model Management and Monitoring Integration of Open Source Software OSS Experience in using Jupyter, Sagemaker, Google colab\n\nTechnical Experience : Embedded Linux, Embedded C/C, Python Azure IoT Edge / AWS IoT Greengrass Core Artificial Intelligence Machine Learning for Edge ML Framework: scikit-learn, xgboost DNN Framework: tensorflow, pytorch Edge computing HW hands on with NVIDIA Jetson/Intel NUC/Intel VPU/OpenMV/ESP32/Drone\n\nProfessional Attributes : Good Communication Skills\n\nEducational Qualification : BE /BTech in MLAI Or BE /BTech in any stream Post Graduation in MLAI\n 15 years of full time education",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Siemens Teamcenter Application Developer",
-        "companyName": "Accenture in India",
-        "location": "Bengaluru, Karnataka, India, ",
-        "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Bengaluru\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Minimum 4-6 years experience as a Teamcenter Developer In-depth knowledge of Teamcenter customization troubleshooting Excellent Knowledge of FMS, Pool Manager, Dispatcher Excellent knowledge in Active workspace customization Develop the solution for the documented design Perform testing of the implementation QA validation Perform proof of concepts\n\nTechnical Experience : Operating Systems - Linux - Windows Server Teamcenter -BMIDE, TC data model, -SOA, ITK customization, Extensions -Active workspace customization Programming -Java,JDBC, C, JavaScripting, SQL, NodeJS, Scripting Languages - Batch - PowerShell - Unix Shell Scripting\n\nProfessional Attributes : 1 Good analytical skills 2 Experience in handling modules independently 3 Good communication skills and Team player\n\nEducational Qualification : BE/BTech/MTech\n 15 years of full time education",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Software Engineer",
-        "companyName": "PayPal",
-        "location": "Mumbai Metropolitan Region, Remote",
-        "description": "About the job\n        \n\n\n        \n                  At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives.\nJob Description Summary:\nWhat you need to know about the role- As a full stack software engineer, Participate in the full development lifecycle, including design, coding, automated testing, and production releases of backend services. Be a problem solver and drive to get results. Able to find and fix performance, scalability and other live issues in a time critical environment. Prototype ideas quickly using cutting edge technologies. Meet our team PayPal Quality Tooling team is at forefront of designing, developing, and maintain key productivity applications and frameworks for PayPal engineers. We provide a holistic solution to reduce release cycle for product development and quality teams. We build various powerful, highly usable tools and services which enable engineers to produce high quality software\nJob Description:\nYour way to impact:\nWe believe in ‘One Team Behaviours’ and Innovation, Collaboration, Inclusion and Wellness are major pillars for our success.\nYou are extremely passionate about making your team the best place to be and it’s obvious to everyone around you that you have fun with your work and your co-workers alike.\nYou’ve experimented and successfully survived many different types of technologies and methodologies, which has left you with a healthy appreciation for what works best where.\nYou are a technologist at heart and miraculously mastered the art of neither being dogmatic nor Myopic in your focus.\nYou are humble enough to be flexible to the will of the frameworks, constraints and people you work with especially when doing so makes our products and customer experience better.\nWhen you take on a task whether it’s huge and innovative or small and mundane, you’re going to see it through to the best of your ability.\nYour day to day:\nBe able to independently design, code, and test complex features, as well as lead and mentor other engineers, help build engineering teamsDrive both technology and product innovation through rapid prototyping and iterative developmentBe a technical subject matter expert and represent the full internal and external capabilities of the platform.Able to drive complex architectural discussions that involve multiple systemsIdentify any product/functionality gaps and collaborate internal product and technology teams to define the necessary development to support solution delivery.Drive integration efforts and lead critical work streams of strategic initiatives sponsored by senior executivesDrive engineering excellency through CI/CDPro-active response in identifying and troubleshooting integration or technical issues.\n\n\nWhat do you need to bring:\nBachelor’s/Master’s in Computer Science, Software Engineering or equivalent experience.3+ years’ hands on experience in JavaScript/Node/React application development.Experience with Python, GoLang and scripting languages.Experience in building automation frameworks and tools.Experience with GitHub, CI/CD, unit testing, and functional testingExperience in both relational and non-relational DB, like Oracle and CouchDBExcellent problem-solving and communication skills.\n\n\nSelf-motivated and fully committed dynamic individual with ability to adapt and adjust to fast-paced environment.\nOur Benefits:\nAt PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset—you. That’s why we offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you.\nWe have great benefits including a flexible work environment, employee shares options, health and life insurance and more. To learn more about our benefits please visit https://www.paypalbenefits.com\nWho We Are:\nTo learn more about our culture and community visit https://about.pypl.com/who-we-are/default.aspx\nPayPal has remained at the forefront of the digital payment revolution for more than 20 years. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, the PayPal platform is empowering more than 400 million consumers and merchants in more than 200 markets to join and thrive in the global economy. For more information, visit paypal.com.\nPayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.\nAs part of PayPal’s commitment to employees’ health and safety, we have established in-office Covid-19 protocols and requirements, based on expert guidance. Depending on location, this might include a Covid-19 vaccination requirement for any employee whose role requires them to work onsite. Employees may request reasonable accommodation based on a medical condition or religious belief that prevents them from being vaccinated.\nREQ ID R0100175",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Software Engineer",
-        "companyName": "PayPal",
-        "location": "Mumbai Metropolitan Region, Remote",
-        "description": "About the job\n        \n\n\n        \n                  At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives.\nJob Description Summary:\nWhat you need to know about the role- As a full stack software engineer, Participate in the full development lifecycle, including design, coding, automated testing, and production releases of backend services. Be a problem solver and drive to get results. Able to find and fix performance, scalability and other live issues in a time critical environment. Prototype ideas quickly using cutting edge technologies. Meet our team PayPal Quality Tooling team is at forefront of designing, developing, and maintain key productivity applications and frameworks for PayPal engineers. We provide a holistic solution to reduce release cycle for product development and quality teams. We build various powerful, highly usable tools and services which enable engineers to produce high quality software\nJob Description:\nYour way to impact:\nWe believe in ‘One Team Behaviours’ and Innovation, Collaboration, Inclusion and Wellness are major pillars for our success.\nYou are extremely passionate about making your team the best place to be and it’s obvious to everyone around you that you have fun with your work and your co-workers alike.\nYou’ve experimented and successfully survived many different types of technologies and methodologies, which has left you with a healthy appreciation for what works best where.\nYou are a technologist at heart and miraculously mastered the art of neither being dogmatic nor Myopic in your focus.\nYou are humble enough to be flexible to the will of the frameworks, constraints and people you work with especially when doing so makes our products and customer experience better.\nWhen you take on a task whether it’s huge and innovative or small and mundane, you’re going to see it through to the best of your ability.\nYour day to day:\nBe able to independently design, code, and test complex features, as well as lead and mentor other engineers, help build engineering teamsDrive both technology and product innovation through rapid prototyping and iterative developmentBe a technical subject matter expert and represent the full internal and external capabilities of the platform.Able to drive complex architectural discussions that involve multiple systemsIdentify any product/functionality gaps and collaborate internal product and technology teams to define the necessary development to support solution delivery.Drive integration efforts and lead critical work streams of strategic initiatives sponsored by senior executivesDrive engineering excellency through CI/CDPro-active response in identifying and troubleshooting integration or technical issues.\n\n\nWhat do you need to bring:\nBachelor’s/Master’s in Computer Science, Software Engineering or equivalent experience.3+ years’ hands on experience in JavaScript/Node/React application development.Experience with Python, GoLang and scripting languages.Experience in building automation frameworks and tools.Experience with GitHub, CI/CD, unit testing, and functional testingExperience in both relational and non-relational DB, like Oracle and CouchDBExcellent problem-solving and communication skills.\n\n\nSelf-motivated and fully committed dynamic individual with ability to adapt and adjust to fast-paced environment.\nOur Benefits:\nAt PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset—you. That’s why we offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you.\nWe have great benefits including a flexible work environment, employee shares options, health and life insurance and more. To learn more about our benefits please visit https://www.paypalbenefits.com\nWho We Are:\nTo learn more about our culture and community visit https://about.pypl.com/who-we-are/default.aspx\nPayPal has remained at the forefront of the digital payment revolution for more than 20 years. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, the PayPal platform is empowering more than 400 million consumers and merchants in more than 200 markets to join and thrive in the global economy. For more information, visit paypal.com.\nPayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.\nAs part of PayPal’s commitment to employees’ health and safety, we have established in-office Covid-19 protocols and requirements, based on expert guidance. Depending on location, this might include a Covid-19 vaccination requirement for any employee whose role requires them to work onsite. Employees may request reasonable accommodation based on a medical condition or religious belief that prevents them from being vaccinated.\nREQ ID R0100175",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      },
-      {
-        "site": "LinkedIN",
-        "title": "Lead II - Software Engineering",
-        "companyName": "UST",
-        "location": "Thiruvananthapuram, Kerala, India, On-site",
-        "description": "About the job\n        \n\n\n        \n                  Job Description\n\nRole Proficiency:\n\nAct creatively to develop applications by selecting appropriate technical options optimizing application development maintenance and performance by employing design patterns and reusing proven solutions. Account for others' developmental activities; assisting Project Manager in day to day project execution.\n\nOutcomes\n Interpret the application feature and component designs to develop the same in accordance with specifications.  Code debug test document and communicate product component and feature development stages.  Validate results with user representatives integrating and commissions the overall solution. Select and create appropriate technical options for development such as reusing improving or reconfiguration of existing components while creating own solutions for new contexts Optimises efficiency cost and quality.  Influence and improve customer satisfaction Influence and improve employee engagement within the project teams Set FAST goals for self/team; provide feedback to FAST goals of team members\nMeasures Of Outcomes\n Adherence to engineering process and standards (coding standards) Adherence to project schedule / timelines Number of technical issues uncovered during the execution of the project Number of defects in the code Number of defects post delivery Number of non compliance issues Percent of voluntary attrition On time completion of mandatory compliance trainings\nCode\n\nOutputs Expected:\nCode as per the designDefine coding standards templates and checklistsReview code – for team and peers\nDocumentation\nCreate/review templates\nchecklists\n\nguidelines\n\nstandards for design/process/developmentCreate/review deliverable documents. Design documentation\nRequirements\n\ntest cases and results\n\nConfigure\nDefine and govern configuration management planEnsure compliance from the team\nTest\nReview/Create unit test cases\nscenarios and executionReview test plan created by testing teamProvide clarifications to the testing team\nDomain Relevance\nAdvise software developers on design and development of features and components with deeper understanding of the business problem being addressed for the clientLearn more about the customer domain and identify opportunities to provide value addition to customersComplete relevant domain certifications\nManage Project\nSupport Project Manager with inputs for the projectsManage delivery of modulesManage complex user stories\nManage Defects\nPerform defect RCA and mitigationIdentify defect trends and take proactive measures to improve quality\nEstimate\nCreate and provide input for effort and size estimation and plan resources for projects\nManage Knowledge\nConsume and contribute to project related documents\nshare point\n\nlibraries and client universitiesReview the reusable documents created by the team\nRelease\nExecute and monitor release process\nDesign\nContribute to creation of design (HLD\nLLD\n\nSAD)/architecture for applications\n\nfeatures business components and data models \n\nInterface With Customer\nClarify requirements and provide guidance to Development TeamPresent design options to customersConduct product demosWork closely with customer architects for finalizing design\nManage Team\nSet FAST goals and provide feedbackUnderstand aspirations of the team members and provide guidance opportunities etcEnsure team members are upskilledEnsure team is engaged in projectProactively identify attrition risks and work with BSE on retention measures\nCertifications\nObtain relevant domain and technology certifications\nSkill Examples\n Explain and communicate the design / development to the customer Perform and evaluate test results against product specifications Break down complex problems into logical components Develop user interfaces business software components  Use data models Estimate time and effort resources required for developing / debugging features / components Perform and evaluate test in the customer or target environments  Make quick decisions on technical/project related challenges Manage a team mentor and handle people related issues in team Have the ability to maintain high motivation levels and positive dynamics within the team. Interface with other teams designers and other parallel practices Set goals for self and team. Provide feedback for team members Create and articulate impactful technical presentations Follow high level of business etiquette in emails and other business communication Drive conference calls with customers and answer customer questions Proactively ask for and offer help Ability to work under pressure determine dependencies risks facilitate planning handling multiple tasks. Build confidence with customers by meeting the deliverables timely with a quality product. Estimate time and effort of resources required for developing / debugging features / components\nKnowledge Examples\n Appropriate software programs / modules  Functional & technical designing Programming languages – proficient in multiple skill clusters DBMS Operating Systems and software platforms Software Development Life Cycle Agile – Scrum or Kanban Methods Integrated development environment (IDE)  Rapid application development (RAD) Modelling technology and languages Interface definition languages (IDL)  Broad knowledge of customer domain and deep knowledge of sub domain where problem is solved\nAdditional Comments\n\nPTEC is looking for a Java Senior Developer to work with one of the leading financial services organization in the US and Canada. The ideal candidate must possess strong background on micro-services development in Spring Boot. The candidate must possess excellent written and verbal communication skills with the ability to collaborate effectively with domain experts and technical experts in the team. Responsibilities: As a Senior Developer, you will\n Maintain active relationships with Product Owner to understand business requirements, lead requirement gathering meetings and review designs with the product owner Own his backlog items and coordinate with other team members to develop the features planned for each sprint Perform technical design reviews and code reviews Be Responsible for prototyping, developing, and troubleshooting software in the user interface or service layers Perform peer reviews on source code to ensure reuse, scalability and the use of best practices Participate in collaborative technical discussions that focus on software user experience, design, architecture, and development Perform demonstrations for client stakeholders on project features and sub features, which utilizes the latest Front end and Backend development technologies Requirements: 6+ years of experience in Java development Skills in developing applications using multi-tier architecture Knowledge of google/AWS cloud Angular 5 or above, Java/JEE, Spring, Spring boot, REST/SOAP web services, Hibernate, SQL, Tomcat, Application servers (WebSphere), SONAR, Agile, AJAX, Jenkins..etc Skills in UML, application designing/architecture, Design Patterns..etc skills in Unit testing application using Junit or similar technologies, Angular unit testing tools such as Karma, Jasmine, Protractor ��� Experience with BDD-Cucumber for automation Good communication skills Leadership skills Provide overlap coverage with onsite/customer teams till 9 PM IST Capability to support QA teams with test plans, root cause analysis and defect fixing Strong experience in Responsive design, cross browser web applications Strong knowledge of web service models Strong knowledge in creating and working with APIs Experience with Cloud services, specifically on Google cloud Strong exposure in Agile, Scaled Agile based development models Familiar with Interfaces such as REST web services, swagger profiles, JSON payloads. Familiar with tools/utilities such as Bitbucket / Jira / Confluence",
-        "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
-        "stipend": "Not disclosed"
-      }
+    {
+      "site": "LinkedIN",
+      "title": "Software Development Engineer In Test",
+      "companyName": "Mastercard",
+      "location": "Pune, Maharashtra, India, Hybrid",
+      "description": "About the job\n        \n\n\n        \n                  Our Purpose\n\nWe work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.\n\nJob Title\n\nSoftware Development Engineer In Test\n\nSoftware Development Engineer In Test\n\nWho is Mastercard?\n\nMastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.\n\nOur decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.\n\nOverview\n\nTo drive our future growth, we are scaling our platform and building new products. Ethoca’s growth is explosive, and only great problem-solvers, collaborators and thinkers can help us take it to the next level. If that sounds like you then keep reading!\n\nWe believe in decoupled, message-driven, and distributed systems. We strive to keep codebases small and manageable. We’re interested in reactive design patterns that will make our systems more resilient and responsive, yet remain elastic to change. As we proceed through our technology roadmap, we are evaluating and implementing new community endorsed technologies for every tier of our platform. Our backend tiers are presently JVM-based. We are using or considering technologies like Kafka, Springboot, ElasticSearch, Angular 10, Bootstrap, Chef, Ansible, Openstack, Docker and so on.\n\nWe want to hire a Software Development Engineer In Test who has a proven record of leading and solutioning full automation testing strategies and lifecycles for microservice-oriented systems using the appropriate industry leading products, patterns, and practices!\n\nRole\n Work as a member of an agile team to design, build, test, and deploy new products and features Create test plans to achieve the best test approach in collaboration with team members Create comprehensive and well-structured test cases for all test types in scope Design automated tests for features Independently design and implement modularized, data driven and reusable tests that can be executed on different environments Develop, maintain and identify improvements to the automation commons libraries and framework that will be used by the scrum teams Troubleshoot defects to resolution and closure Ensure test assets are kept up to date and continually evaluated against test objectives (maintain all testing assets) Execute automated test suites against the released version of the application with a goal of maintaining 100% test stability Support the release process by executing and maintaining test suites for smoke, sanity, regression and operational validation. Conduct reviews of test case coverage for any test types in scope to ensure appropriate risk-based testing approach is achieved. Conduct peer code reviews, providing feedback around logical implementation, and best practice improvement opportunities around patterns, algorithms, library usage, etc. Provide technical guidance, support and mentoring to more junior team members Make technology recommendations that balance business needs and technical requirements Proactively understand stakeholder needs, goals, expectations and viewpoints to deliver results Effectively host technology education forums (i.e. Technology Brown Bag Session) around relevant topics for the wider organization Independently apply problem solving skills to identify symptoms and root causes of issues Make effective and efficient decisions even when data is ambiguous Thrive in a highly collaborative company environment where agility is paramount\n\nAll About You\n Bachelor’s in Computer Science/ Technical Degree or related equivalent experience. Ability to understand new concepts quickly, and apply them accurately through an evolving, dynamic, agile environment. Knowledgeable with Continuous Integration & Delivery principles with an eye for automation Advanced working knowledge of Java. Experience with Selenium WebDriver. Experience using testing frameworks like Junit, TestNG, JMeter. Experience with JavaScript testing frameworks like protractor/jasmine. Experience with testing SOAP/REST web APIs. Working knowledge of DB2 and/or other relational databases. Expertise in microservice-based applications testing using Springboot Excellent knowledge of QA principles within SDLC. Excellent verbal and written communication skills. Experience working in a PCI DSS certified environment Experience working with Linux Virtual Machines in a Cloud Environment Not afraid to speak your mind about software design and on the flip side handle any criticism of your ideas with grace\n\nCorporate Security Responsibility\n\n All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must\nAbide by Mastercard’s security policies and practices;Ensure the confidentiality and integrity of the information being accessed;Report any suspected information security violation or breach, andComplete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Software Engineer (Entry Level)",
+      "companyName": "MRI Software",
+      "location": "Bangalore Rural, Karnataka, India, ",
+      "description": "About the job\n        \n\n\n        \n                  We are currently seeking a Junior Software Engineer to work within our global Product Development department working to apply defined software development life cycle processes to deliver production ready code of the highest quality, this individual will be diligent in testing their code and working with the team to produce\nMRI Software’s high standard product. This individual will work under the Agile development methodology in a cross-functional environment with other groups, both inside and outside the department including Product Management and Documentation, as well as create and test code in our dynamic team setting\nResponsibilities\nApplies defined practices and procedures to design, implement, and support software projectsBuilds effective working relationships with team membersActively seeks assistance as needed but demonstrates learning and growing independenceActively seeks guidance for prioritization and review of deliverables.Performs and designs testing protocols to ensure that the product is fully tested.\nRequirements\nCurrently pursuing a BE, Btech, MCA, MSC, or BCA Computer Science or related technical field (2022 Passout may also apply)Experience developing software or algorithms based on predetermined specificationsKnowledge of object-oriented programming, Microsoft .Net or Java preferredProficient with Source Control tools Familiarity with database objects (tables, stored procedures, queries, etc.) a plusAttention to detail is a mustGood written and verbal communication skills\nBenefits\nAbility to learn leading technical / industry standards and technologiesFlexible working arrangements (2 days in the office)Annual performance-related bonusHealth insurance6x Flexi Fridays: knock 2.5 hours off your day on a FridayEngaging, fun & inclusive culture: check out the MRI Software APAC Insta feed and stories!\nAbout The Business\nMRI Software is a global Proptech leader delivering innovative applications and hosted solutions that free real estate companies to elevate their business. \nOur flexible technology platform, along with an open and connected ecosystem, allows us to meet the unique needs of real estate businesses, from property-level management and accounting, to investment modeling and analytics for the global commercial and residential markets. With nearly five decades of expertise and insight, we have grown to include offices in across the United States, the United Kingdom, Hong Kong, Singapore, Australia, South Africa, New Zealand, Canada, and India, with over 3000 team members to support our clients and their unique needs!\nMRI is proud to be an Equal Employment Opportunity employer.",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Senior Dotnet Developer",
+      "companyName": "Infosys",
+      "location": "Chandigarh, India, Hybrid",
+      "description": "About the job\n        \n\n\n        \n                  ResponsibilitiesA day in the life of an Infoscion• As part of the Infosys delivery team, your primary role would be to interface with the client for quality assurance, issue resolution and ensuring high customer satisfaction.• You will understand requirements, create and review designs, validate the architecture and ensure high levels of service offerings to clients in the technology domain.• You will participate in project estimation, provide inputs for solution delivery, conduct technical risk planning, perform code reviews and unit test plan reviews.• You will lead and guide your teams towards developing optimized high quality code deliverables, continual knowledge management and adherence to the organizational guidelines and processes.• You would be a key contributor to building efficient programs/ systems and if you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!\nEducational RequirementsBachelor of Engineering\nService LineApplication Development and Maintenance\nAdditional Responsibilities:• Knowledge of more than one technology• Basics of Architecture and Design fundamentals• Knowledge of Testing tools• Knowledge of agile methodologies• Understanding of Project life cycle activities on development and maintenance projects• Understanding of one or more Estimation methodologies, Knowledge of Quality processes• Basics of business domain to understand the business requirements• Analytical abilities, Strong Technical Skills, Good communication skills• Good understanding of the technology and domain• Ability to demonstrate a sound understanding of software quality assurance principles, SOLID design principles and modelling methods• Awareness of latest technologies and trends• Excellent problem solving, analytical and debugging skills\nTechnical and Professional Requirements:• Primary skills: .net• Desirables: asp>.net",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Senior Application Security Engineer (Bangkok based, relocation provided)",
+      "companyName": "Agoda",
+      "location": "Lucknow, Uttar Pradesh, India, Hybrid",
+      "description": "About the job\n        \n\n\n        \n                  About Agoda\nAgoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.\nGet to Know our Team: \nThe Security Department oversees security, compliance, GRC, and security operations for all Agoda. We are vigilant in ensuring there is no breach or vulnerability threatening our company or endangering our employees in order to keep Agoda safe and protected. This would be a great challenge for those who want to work with the best technology in a dynamic and advanced environment.\nThe Opportunity:\nYou will be working in a fast paced DevSecOps environment where code change happens at a rapid speed and where it is paramount to control security testing into a continuous deployment/integration flow.\nIn this Role, you’ll get to:\nPlay a lead role in developing and designing application-level security controls and standards. Perform application security design reviews against new products and services. Track and prioritize all security issues. Build internal security tools that help fix security problems at scale. Perform code review and drive remediation of discovered issues. Enable automated security testing at scale to measure vulnerability, and report on risk across all microservice, web and mobile platforms. Execute security tests on thousands of servers which are spread across on-premise and public cloud data centers. \nWhat you’ll Need to Succeed:\nStrong foundations in software engineering. Minimum of 7 years of technical experience with any combination of the following: threat modeling experience, secure coding, identity management and authentication, software development, cryptography, system administration and network security. Minimum 2 years experience with Software Development Life Cycle in one or more languages (Rust, Python, Go, Nodejs, etc.)Minimum 1 year experience with public/private cloud environments (Openshift, Rancher, K8s, AWS, GCP, Azure, etc.)Experience in running assessments using OWASP MASVS and ASVSWorking knowledge on exploiting and fixing application vulnerabilitiesStrong background in threat modelingIn-depth knowledge of common web application vulnerabilities (i.e. OWASP Top 10)Familiarity with automated dynamic scanners, fuzzers, and proxy toolsAn analytical mind for problem solving, abstract thought, and offensive security tacticsHighly effective communication skills, in both verbal and written forms, to effectively convey technical and non-technical concepts to a wide variety of audiences Relocation package is provided in case you prefer to relocate to Bangkok, Thailand. Our benefits are…Hybrid Working ModelWFH Set Up Allowance30 Days of Remote Working from anywhere globally every yearEmployee discount for accommodation globallyGlobal team of 90+ nationalities40+ offices and 25+ countriesAnnual CSR / Volunteer Time offBenevity Subscription for employee donationsVolunteering opportunities globallyFree Headspace subscriptionFree Odilo & Udemy subscriptionsAccess to Employee Assistance Program (third party for personal and workplace support)Enhanced Parental LeaveLife, TPD & Accident Insurance\n#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #jakarta #bali #dublin #telaviv #jerusalem #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #bucharest #doha #alrayyan #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #singapore #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #amsterdam #bucharest #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #Hyderabad #bangalore #Mumbai #Bengaluru #Chennai #Kolkata #Lucknow #bandung #yokohama #nagoya #okinawa #fukuoka #IT #4\nEqual Opportunity Employer \nAt Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.\nWe will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .\nTo all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Cerner Application Developer",
+      "companyName": "Accenture in India",
+      "location": "Bengaluru, Karnataka, India, ",
+      "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Bengaluru\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : 1 Participate in various phases of the project Design, Build, Test and Deploy Ability to understand and develop complex integrations with on-premises, and cloud-based applications 2 Quickly resolve defects and provide root cause analysis, implementation support Work with vendor support team to resolve issues Work with different stakeholders like customer, Project manager, Architects, Testers\n\nTechnical Experience : 1 Experience in projects implementation experience in EMR and EHR systems and various modules like Ambulatory, Ancillary, Inpatient, Reporting, revcycle millennium of Cerner 2 Understanding of payer, provider and hospital management models in healthcare 3 Involved in design and implementation of EHR/EMR Systems\n\nProfessional Attributes : 1 Excellent communication and customer interaction skills Strong analytical capabilities to solve complicated issues arising during design and testing phases 2 Experience in HL7 and FHIR standards will be a plus\n\nEducational Qualification : Minimum 15 years of full-time education with Degree\n\nAdditional Information : Knowledge and experience in PL/SQL,Java,EMR, functional testing Cerner Millennium Certification\n 15 years of full time education",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Senior Software Engineer (.NET Fullstack)",
+      "companyName": "Accurate Background",
+      "location": "Hyderabad, Telangana, India, Hybrid",
+      "description": "About the job\n        \n\n\n        \n                  When you join Accurate Background, you’re an integral part of making every hire the start of a success story. Your contributions will help us fulfill our mission of advancing the background screening experience through visibility and insights, empowering our clients to make smarter, unbiased decisions.\nThe Senior Software Engineer plays a key role in each software development lifecycle phase. This individual will lead the development efforts and closely work with the product manager to understand the requirements, be a hands-on developer up to 50%, and own the deployments and post-go-live support. Will also is responsible to help other developers, taking care of the designs for new features, and working collaboratively in case of any challenging problems and also works closely with the QA and other development teams to provide customer-centric solutions and build a world-class Candidate Experience platform to meet the exploding growth of the company and business demands.\nResponsibilities\nWork closely with the product manager to understand the requirements and come up with the necessary designsDevelop and maintain Angular service-oriented architecture platforms from start to finish.Validating requirementsDevelopment of complex SQL queriesSupport build and deploymentsIntegration/enterprise testingApplications support/troubleshooting within a production environmentProvide mentorship to junior developers.\nQualifications\n6+ years of system development experience At least 2 years of experience using the following technologies: Angular (Preferably latest versions), .Net Core, MySQL and/or SQL Server and/or MongoDB, and JSONDeep familiarity with Angular, rest APIs, DB, and SQLDeep familiarity with modern web application technologies & frameworksExperience in solutioning and developing enterprise integration systems.Develop, build, and deploy Tools such as Jenkins.Must be a self-starter who is highly organized, hands-on, and a team player.Ability to thrive in a fast-paced, startup environment.\n The Accurate Way: \nWe offer a fun, fast-paced environment, with lots of room for growth. We have an unwavering commitment to diversity, ensuring everyone has a complete sense of belonging here. To do this, we follow four guiding principles – Take Ownership, Be Open, Stay Curious, Work as One – core values that dictate what we stand for, and how we behave.\nTake ownership.\nBe accountable for your actions, your team, and the company. Accept responsibility willingly, especially when it’s what’s best for our customers. Give others every reason to trust you, believe in you, and count on you. Rise to every occasion with your personal best.\nBe open.\nBe open to new ideas. Be inclusive of people and ways of doing things. Make yourself accessible and approachable, and communicate with genuineness, transparency, honesty, and respect. Embrace differences.\nStay curious.\nStay curious even as you move forward. Tirelessly ask questions and challenge the status quo in your pursuit of new ideas, ways to solve problems, and to continually grow and improve.\n Work as one.\nWork together to create the best customer and workplace experience. Put our customers and employees first—before individual or departmental agendas. Make sure they get the help they need to succeed.\n About Accurate Background: \nAccurate Background’s vision is to make every hire the start of a success story. As a trusted provider of employment background screening and workforce monitoring services, Accurate Background gives companies of all sizes the confidence to make smarter, unbiased hiring decisions at the speed of demand. Experience a new standard of support with a dedicated team, comprehensive technology and insight, and the most extensive coverage and search options to advance your business while keeping your brand and people safe.",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Asset Performance Management Application Developer",
+      "companyName": "Accenture in India",
+      "location": "Gurgaon, Haryana, India, ",
+      "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Gurugram\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Candidate should have strong industry/consulting experience in Asset Data Management, Asset Reliability Management Inventory Management functions Hands on experience on APM tools such as Meridium APM, AVEVA Rockwell Automation, DNV GL etcand EAM tools such as SAP PM/MM, INFOR, MAXIMO etc Knowledge on leading industry practice on Data Management ISO 14224, ISO 31000, ISO 55000, Reliability centered maintenance RCM, Asset Life Cycle, Asset Criticality analysis, Risk Management framework\n\nTechnical Experience : Candidate should have ability to conduct Asset Data, Reliability, work management Inventory Management diagnostics to identify value opportunities and develop improvement plan Candidate should have a well-rounded understanding in topics such as Reliability centered maintenance RCM, Asset Life Cycle, Asset Reliability Management, Asset Criticality analysis, Failure Mode effect analysis FMEA, Inventory optimization, Critical sparing review, Asset Material Data, Vendor Service Data Management\n\nProfessional Attributes : Good communication\n 15 years of full time education",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Software Engineer I",
+      "companyName": "Eventbrite",
+      "location": "India, Remote",
+      "description": "About the job\n        \n\n\n        \n                  THE CHALLENGE\nEventbrite's business continues to grow and scale rapidly, powering millions of events. Event creators and event goers need new tools and technologies that empower them to have the most meaningful live experiences. As a Software Engineer at Eventbrite, you will build beautiful, responsive, delightful and intuitive user interfaces that people are excited to use\nTHE TEAM\nWe're a people-focused Engineering organization: the women and men on our team value working together in small teams to solve big problems, supporting an active culture of mentorship and inclusion, and pushing themselves to learn new things daily. Pair programming, weekly demos, tech talks, and quarterly hackathons are at the core of how we’ve built our team and product. We believe in engaging with the community, regularly hosting free events with some of the top technical speakers, and actively contributing to open source software (check out Britecharts as an example!). Our technology spans across web, mobile, API, big data, machine learning, search, physical point of sale, and scanning systems. To learn more about some of the frontend teamwork, check out our frontend blog\nTHE SKILL SET\nAdvanced English Level1-2 years of experience working in a Software Development role Experience with or the excitement to work with Python and Django web frameworkUnderstanding that great code is also maintainable codeYou care about making sure your code is well testedA result driven self starter with great communication and collaboration skillsUnit-testing know-how required, experience with TDD or BDD is an added bonusKnowledge of front-end technologies (HTML, CSS, Ajax, Javascript)Database experience (ideally MySQL, NoSQLis a plus)OOP/OOD knowledge\nBONUS POINTS\nExperience with AWS and developing APIsExperience using non-relational databasesFamiliarity with Eventbrite and a passion for live events\nWhat We Offer\nAt Eventbrite, we strive to support our Britelings and their loved ones through different stages of life with robust and attractive benefits, financial and physical wellness options, and great perks. In addition to offering a competitive salary and company stock, we have other great benefits available. In the Briteland, you’ll find great medical plans, fertility and adoption benefits, wellness reimbursement, generous parental leave, and much more.\nWe Care About Your Mental Health And Wellbeing.\nOur employees enjoy free coaching sessions with Modern Health. We also offer free therapy sessions with a psychologist. You’ll also have access to private medical insurance for you and your family, that includes dental care. And our wellness program to pay for your gym expenses.\nWe work hard to cultivate a diverse, equitable and inclusive culture where Britelings feel like they belong.\nEmployees can participate in resource groups and we offer programming throughout the year to support a diverse and inclusive workplace.\nWe offer ongoing training and career development that meets people where they are in their careers.\nWe offer unlimited access to courses in Udemy, leadership coaching for all managers, Briteling led talks, and weekly company-wide town halls with our CEO. We take culture seriously and design programs with employee feedback in mind to make Eventbrite a great place to work no matter where you work from in the world.\nWork-life balance & flexibility is extremely important to us.\nOur employees can choose what works best for them: work in one of our offices, be fully remote or the best of both worlds! We believe in a flexible working environment to allow Britelings to perform at their best ensuring a healthy work-life balance. We have recently implemented Britebreak Fridays: all Britelings turn off their computers and take the first Friday of every month off to focus on their wellbeing.\nAbout Eventbrite\nEventbrite is a global self-service ticketing and experience technology platform that serves a community of hundreds of thousands of event creators in nearly 180 countries. Since inception, Eventbrite has been at the center of the experience economy, transforming the way people organize and attend events. The company was founded by Julia Hartz, Kevin Hartz and Renaud Visage, with a vision to build a self-service platform that would make it possible for anyone to create and sell tickets to live experiences. The Eventbrite platform provides an intuitive, secure, and reliable service that enables creators to plan and execute their live and online events, whether it’s an annual culinary festival attracting thousands of foodies, a professional webinar, a weekly yoga workshop or a youth dance class. With over 290 million tickets distributed for over 5 million total events in 2021, Eventbrite is where people all over the world discover new things to do or new ways to do more of what they love. Learn more at www.eventbrite.com .\nIS THIS ROLE NOT AN EXACT FIT?\nSign up to keep in touch and we’ll let you know when we have new positions on our team .\nEventbrite is committed to equality of opportunity for all staff, and applications from all suitably qualified individuals are encouraged, regardless of age, disability, sex, gender reassignment, sexual orientation, pregnancy and maternity, race, religion or belief and marriage and civil partnerships.\nApplicant Privacy Notice",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Dassault Systemes CATIA (V3-V5) Application Developer",
+      "companyName": "Accenture in India",
+      "location": "Bengaluru, Karnataka, India, ",
+      "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Bengaluru\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Responsible for customer interaction Responsible for managing quality document KPIs, RCA etc and report to the Management in the absence of the Lead Should be able to train the team on various topics with respect to 3D Harness design\n\nTechnical Experience : Good experience in Airbus A350 or A320 Program on Electrical system installation ESI Proficiency in A350/A320 electrical harness 3D Design, Full 3D Design, 2D Design and checks Experience on Airbus Tools Methods is must Good understanding of Engineering Drawing is must Airbus VPM and PASS certificate is added advantage\n\nProfessional Attributes : Good communication, verbal and written Should be an excellent and dynamic team player\n 15 years of full time education",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "SAP ABAP Development Application Developer",
+      "companyName": "Accenture in India",
+      "location": "Mumbai, Maharashtra, India, ",
+      "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Mumbai\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Resource should be from Mumbai - no offers to be released for other location Participate in process and system design, configuration, integration testing, user training, and post go-live support in a global SAP instance 2 Analyze complex business processes and provide consultation to users regarding processes and procedures to ensure business in achieving maximum efficiencies out of SAP 3 Facilitate business process discussions and translation of business requirements into configuration and tech\n\nTechnical Experience : Good knowledge of information technology, especially in the areas of SAP related product and technology implementation 2 Good knowledge and hands-on experience in design, configuration and support for the following SAP FICO module 3 Good knowledge of key integration points between SAP Enterprise Resource Planning ERP modules, as well as good understanding of the data design in SAP S4/HANA 4 Good planning and coordination skills 5 Strong writing, verbal communication and presentation skills\n\nProfessional Attributes : Ability to communicate with end clients, Good analytical skills, flexibility, ability to lead/help the team in day to day work and management potential\n\nEducational Qualification : Graduate from any stream\n\nAdditional Information : Candidate has to work daily in client location mumbai\n 15 years of full time education",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Edge Computing Application Developer",
+      "companyName": "Accenture in India",
+      "location": "Bengaluru, Karnataka, India, ",
+      "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Bengaluru\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Docker, Container Orchestration for Edge, IoT Hub Edge Model Management and Monitoring Integration of Open Source Software OSS Experience in using Jupyter, Sagemaker, Google colab\n\nTechnical Experience : Embedded Linux, Embedded C/C, Python Azure IoT Edge / AWS IoT Greengrass Core Artificial Intelligence Machine Learning for Edge ML Framework: scikit-learn, xgboost DNN Framework: tensorflow, pytorch Edge computing HW hands on with NVIDIA Jetson/Intel NUC/Intel VPU/OpenMV/ESP32/Drone\n\nProfessional Attributes : Good Communication Skills\n\nEducational Qualification : BE /BTech in MLAI Or BE /BTech in any stream Post Graduation in MLAI\n 15 years of full time education",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Edge Computing Application Developer",
+      "companyName": "Accenture in India",
+      "location": "Bengaluru, Karnataka, India, ",
+      "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Bengaluru\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Docker, Container Orchestration for Edge, IoT Hub Edge Model Management and Monitoring Integration of Open Source Software OSS Experience in using Jupyter, Sagemaker, Google colab\n\nTechnical Experience : Embedded Linux, Embedded C/C, Python Azure IoT Edge / AWS IoT Greengrass Core Artificial Intelligence Machine Learning for Edge ML Framework: scikit-learn, xgboost DNN Framework: tensorflow, pytorch Edge computing HW hands on with NVIDIA Jetson/Intel NUC/Intel VPU/OpenMV/ESP32/Drone\n\nProfessional Attributes : Good Communication Skills\n\nEducational Qualification : BE /BTech in MLAI Or BE /BTech in any stream Post Graduation in MLAI\n 15 years of full time education",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Siemens Teamcenter Application Developer",
+      "companyName": "Accenture in India",
+      "location": "Bengaluru, Karnataka, India, ",
+      "description": "About the job\n        \n\n\n        \n                  About Accenture: Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services and Accenture Song-all powered by the world's largest network of Advanced Technology and Intelligent Operations centers. Our 699,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at accenture.com\n\nProject Role :Application Developer\n\nProject Role Description :Design, build and configure applications to meet business process and application requirements.\n\nManagement Level :10\n\nWork Experience :4-6 years\n\nWork location :Bengaluru\n\nMust Have Skills :\n\nGood To Have Skills :\n\nJob Requirements : \n\nKey Responsibilities : Minimum 4-6 years experience as a Teamcenter Developer In-depth knowledge of Teamcenter customization troubleshooting Excellent Knowledge of FMS, Pool Manager, Dispatcher Excellent knowledge in Active workspace customization Develop the solution for the documented design Perform testing of the implementation QA validation Perform proof of concepts\n\nTechnical Experience : Operating Systems - Linux - Windows Server Teamcenter -BMIDE, TC data model, -SOA, ITK customization, Extensions -Active workspace customization Programming -Java,JDBC, C, JavaScripting, SQL, NodeJS, Scripting Languages - Batch - PowerShell - Unix Shell Scripting\n\nProfessional Attributes : 1 Good analytical skills 2 Experience in handling modules independently 3 Good communication skills and Team player\n\nEducational Qualification : BE/BTech/MTech\n 15 years of full time education",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Software Engineer",
+      "companyName": "PayPal",
+      "location": "Mumbai Metropolitan Region, Remote",
+      "description": "About the job\n        \n\n\n        \n                  At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives.\nJob Description Summary:\nWhat you need to know about the role- As a full stack software engineer, Participate in the full development lifecycle, including design, coding, automated testing, and production releases of backend services. Be a problem solver and drive to get results. Able to find and fix performance, scalability and other live issues in a time critical environment. Prototype ideas quickly using cutting edge technologies. Meet our team PayPal Quality Tooling team is at forefront of designing, developing, and maintain key productivity applications and frameworks for PayPal engineers. We provide a holistic solution to reduce release cycle for product development and quality teams. We build various powerful, highly usable tools and services which enable engineers to produce high quality software\nJob Description:\nYour way to impact:\nWe believe in ‘One Team Behaviours’ and Innovation, Collaboration, Inclusion and Wellness are major pillars for our success.\nYou are extremely passionate about making your team the best place to be and it’s obvious to everyone around you that you have fun with your work and your co-workers alike.\nYou’ve experimented and successfully survived many different types of technologies and methodologies, which has left you with a healthy appreciation for what works best where.\nYou are a technologist at heart and miraculously mastered the art of neither being dogmatic nor Myopic in your focus.\nYou are humble enough to be flexible to the will of the frameworks, constraints and people you work with especially when doing so makes our products and customer experience better.\nWhen you take on a task whether it’s huge and innovative or small and mundane, you’re going to see it through to the best of your ability.\nYour day to day:\nBe able to independently design, code, and test complex features, as well as lead and mentor other engineers, help build engineering teamsDrive both technology and product innovation through rapid prototyping and iterative developmentBe a technical subject matter expert and represent the full internal and external capabilities of the platform.Able to drive complex architectural discussions that involve multiple systemsIdentify any product/functionality gaps and collaborate internal product and technology teams to define the necessary development to support solution delivery.Drive integration efforts and lead critical work streams of strategic initiatives sponsored by senior executivesDrive engineering excellency through CI/CDPro-active response in identifying and troubleshooting integration or technical issues.\n\n\nWhat do you need to bring:\nBachelor’s/Master’s in Computer Science, Software Engineering or equivalent experience.3+ years’ hands on experience in JavaScript/Node/React application development.Experience with Python, GoLang and scripting languages.Experience in building automation frameworks and tools.Experience with GitHub, CI/CD, unit testing, and functional testingExperience in both relational and non-relational DB, like Oracle and CouchDBExcellent problem-solving and communication skills.\n\n\nSelf-motivated and fully committed dynamic individual with ability to adapt and adjust to fast-paced environment.\nOur Benefits:\nAt PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset—you. That’s why we offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you.\nWe have great benefits including a flexible work environment, employee shares options, health and life insurance and more. To learn more about our benefits please visit https://www.paypalbenefits.com\nWho We Are:\nTo learn more about our culture and community visit https://about.pypl.com/who-we-are/default.aspx\nPayPal has remained at the forefront of the digital payment revolution for more than 20 years. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, the PayPal platform is empowering more than 400 million consumers and merchants in more than 200 markets to join and thrive in the global economy. For more information, visit paypal.com.\nPayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.\nAs part of PayPal’s commitment to employees’ health and safety, we have established in-office Covid-19 protocols and requirements, based on expert guidance. Depending on location, this might include a Covid-19 vaccination requirement for any employee whose role requires them to work onsite. Employees may request reasonable accommodation based on a medical condition or religious belief that prevents them from being vaccinated.\nREQ ID R0100175",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Software Engineer",
+      "companyName": "PayPal",
+      "location": "Mumbai Metropolitan Region, Remote",
+      "description": "About the job\n        \n\n\n        \n                  At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives.\nJob Description Summary:\nWhat you need to know about the role- As a full stack software engineer, Participate in the full development lifecycle, including design, coding, automated testing, and production releases of backend services. Be a problem solver and drive to get results. Able to find and fix performance, scalability and other live issues in a time critical environment. Prototype ideas quickly using cutting edge technologies. Meet our team PayPal Quality Tooling team is at forefront of designing, developing, and maintain key productivity applications and frameworks for PayPal engineers. We provide a holistic solution to reduce release cycle for product development and quality teams. We build various powerful, highly usable tools and services which enable engineers to produce high quality software\nJob Description:\nYour way to impact:\nWe believe in ‘One Team Behaviours’ and Innovation, Collaboration, Inclusion and Wellness are major pillars for our success.\nYou are extremely passionate about making your team the best place to be and it’s obvious to everyone around you that you have fun with your work and your co-workers alike.\nYou’ve experimented and successfully survived many different types of technologies and methodologies, which has left you with a healthy appreciation for what works best where.\nYou are a technologist at heart and miraculously mastered the art of neither being dogmatic nor Myopic in your focus.\nYou are humble enough to be flexible to the will of the frameworks, constraints and people you work with especially when doing so makes our products and customer experience better.\nWhen you take on a task whether it’s huge and innovative or small and mundane, you’re going to see it through to the best of your ability.\nYour day to day:\nBe able to independently design, code, and test complex features, as well as lead and mentor other engineers, help build engineering teamsDrive both technology and product innovation through rapid prototyping and iterative developmentBe a technical subject matter expert and represent the full internal and external capabilities of the platform.Able to drive complex architectural discussions that involve multiple systemsIdentify any product/functionality gaps and collaborate internal product and technology teams to define the necessary development to support solution delivery.Drive integration efforts and lead critical work streams of strategic initiatives sponsored by senior executivesDrive engineering excellency through CI/CDPro-active response in identifying and troubleshooting integration or technical issues.\n\n\nWhat do you need to bring:\nBachelor’s/Master’s in Computer Science, Software Engineering or equivalent experience.3+ years’ hands on experience in JavaScript/Node/React application development.Experience with Python, GoLang and scripting languages.Experience in building automation frameworks and tools.Experience with GitHub, CI/CD, unit testing, and functional testingExperience in both relational and non-relational DB, like Oracle and CouchDBExcellent problem-solving and communication skills.\n\n\nSelf-motivated and fully committed dynamic individual with ability to adapt and adjust to fast-paced environment.\nOur Benefits:\nAt PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset—you. That’s why we offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you.\nWe have great benefits including a flexible work environment, employee shares options, health and life insurance and more. To learn more about our benefits please visit https://www.paypalbenefits.com\nWho We Are:\nTo learn more about our culture and community visit https://about.pypl.com/who-we-are/default.aspx\nPayPal has remained at the forefront of the digital payment revolution for more than 20 years. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, the PayPal platform is empowering more than 400 million consumers and merchants in more than 200 markets to join and thrive in the global economy. For more information, visit paypal.com.\nPayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.\nAs part of PayPal’s commitment to employees’ health and safety, we have established in-office Covid-19 protocols and requirements, based on expert guidance. Depending on location, this might include a Covid-19 vaccination requirement for any employee whose role requires them to work onsite. Employees may request reasonable accommodation based on a medical condition or religious belief that prevents them from being vaccinated.\nREQ ID R0100175",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    },
+    {
+      "site": "LinkedIN",
+      "title": "Lead II - Software Engineering",
+      "companyName": "UST",
+      "location": "Thiruvananthapuram, Kerala, India, On-site",
+      "description": "About the job\n        \n\n\n        \n                  Job Description\n\nRole Proficiency:\n\nAct creatively to develop applications by selecting appropriate technical options optimizing application development maintenance and performance by employing design patterns and reusing proven solutions. Account for others' developmental activities; assisting Project Manager in day to day project execution.\n\nOutcomes\n Interpret the application feature and component designs to develop the same in accordance with specifications.  Code debug test document and communicate product component and feature development stages.  Validate results with user representatives integrating and commissions the overall solution. Select and create appropriate technical options for development such as reusing improving or reconfiguration of existing components while creating own solutions for new contexts Optimises efficiency cost and quality.  Influence and improve customer satisfaction Influence and improve employee engagement within the project teams Set FAST goals for self/team; provide feedback to FAST goals of team members\nMeasures Of Outcomes\n Adherence to engineering process and standards (coding standards) Adherence to project schedule / timelines Number of technical issues uncovered during the execution of the project Number of defects in the code Number of defects post delivery Number of non compliance issues Percent of voluntary attrition On time completion of mandatory compliance trainings\nCode\n\nOutputs Expected:\nCode as per the designDefine coding standards templates and checklistsReview code – for team and peers\nDocumentation\nCreate/review templates\nchecklists\n\nguidelines\n\nstandards for design/process/developmentCreate/review deliverable documents. Design documentation\nRequirements\n\ntest cases and results\n\nConfigure\nDefine and govern configuration management planEnsure compliance from the team\nTest\nReview/Create unit test cases\nscenarios and executionReview test plan created by testing teamProvide clarifications to the testing team\nDomain Relevance\nAdvise software developers on design and development of features and components with deeper understanding of the business problem being addressed for the clientLearn more about the customer domain and identify opportunities to provide value addition to customersComplete relevant domain certifications\nManage Project\nSupport Project Manager with inputs for the projectsManage delivery of modulesManage complex user stories\nManage Defects\nPerform defect RCA and mitigationIdentify defect trends and take proactive measures to improve quality\nEstimate\nCreate and provide input for effort and size estimation and plan resources for projects\nManage Knowledge\nConsume and contribute to project related documents\nshare point\n\nlibraries and client universitiesReview the reusable documents created by the team\nRelease\nExecute and monitor release process\nDesign\nContribute to creation of design (HLD\nLLD\n\nSAD)/architecture for applications\n\nfeatures business components and data models \n\nInterface With Customer\nClarify requirements and provide guidance to Development TeamPresent design options to customersConduct product demosWork closely with customer architects for finalizing design\nManage Team\nSet FAST goals and provide feedbackUnderstand aspirations of the team members and provide guidance opportunities etcEnsure team members are upskilledEnsure team is engaged in projectProactively identify attrition risks and work with BSE on retention measures\nCertifications\nObtain relevant domain and technology certifications\nSkill Examples\n Explain and communicate the design / development to the customer Perform and evaluate test results against product specifications Break down complex problems into logical components Develop user interfaces business software components  Use data models Estimate time and effort resources required for developing / debugging features / components Perform and evaluate test in the customer or target environments  Make quick decisions on technical/project related challenges Manage a team mentor and handle people related issues in team Have the ability to maintain high motivation levels and positive dynamics within the team. Interface with other teams designers and other parallel practices Set goals for self and team. Provide feedback for team members Create and articulate impactful technical presentations Follow high level of business etiquette in emails and other business communication Drive conference calls with customers and answer customer questions Proactively ask for and offer help Ability to work under pressure determine dependencies risks facilitate planning handling multiple tasks. Build confidence with customers by meeting the deliverables timely with a quality product. Estimate time and effort of resources required for developing / debugging features / components\nKnowledge Examples\n Appropriate software programs / modules  Functional & technical designing Programming languages – proficient in multiple skill clusters DBMS Operating Systems and software platforms Software Development Life Cycle Agile – Scrum or Kanban Methods Integrated development environment (IDE)  Rapid application development (RAD) Modelling technology and languages Interface definition languages (IDL)  Broad knowledge of customer domain and deep knowledge of sub domain where problem is solved\nAdditional Comments\n\nPTEC is looking for a Java Senior Developer to work with one of the leading financial services organization in the US and Canada. The ideal candidate must possess strong background on micro-services development in Spring Boot. The candidate must possess excellent written and verbal communication skills with the ability to collaborate effectively with domain experts and technical experts in the team. Responsibilities: As a Senior Developer, you will\n Maintain active relationships with Product Owner to understand business requirements, lead requirement gathering meetings and review designs with the product owner Own his backlog items and coordinate with other team members to develop the features planned for each sprint Perform technical design reviews and code reviews Be Responsible for prototyping, developing, and troubleshooting software in the user interface or service layers Perform peer reviews on source code to ensure reuse, scalability and the use of best practices Participate in collaborative technical discussions that focus on software user experience, design, architecture, and development Perform demonstrations for client stakeholders on project features and sub features, which utilizes the latest Front end and Backend development technologies Requirements: 6+ years of experience in Java development Skills in developing applications using multi-tier architecture Knowledge of google/AWS cloud Angular 5 or above, Java/JEE, Spring, Spring boot, REST/SOAP web services, Hibernate, SQL, Tomcat, Application servers (WebSphere), SONAR, Agile, AJAX, Jenkins..etc Skills in UML, application designing/architecture, Design Patterns..etc skills in Unit testing application using Junit or similar technologies, Angular unit testing tools such as Karma, Jasmine, Protractor ��� Experience with BDD-Cucumber for automation Good communication skills Leadership skills Provide overlap coverage with onsite/customer teams till 9 PM IST Capability to support QA teams with test plans, root cause analysis and defect fixing Strong experience in Responsive design, cross browser web applications Strong knowledge of web service models Strong knowledge in creating and working with APIs Experience with Cloud services, specifically on Google cloud Strong exposure in Agile, Scaled Agile based development models Familiar with Interfaces such as REST web services, swagger profiles, JSON payloads. Familiar with tools/utilities such as Bitbucket / Jira / Confluence",
+      "link": "https://www.linkedin.com/jobs/view/3542125516/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=SCHOOL_RECRUIT&refId=umTz6CIvxgbV7z2fcfOE%2FQ%3D%3D&trackingId=LJ0du8PNwlXlt14TOmpRMQ%3D%3D&trk=flagship3_search_srp_jobs",
+      "stipend": "Not disclosed"
+    }
     ,
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "Marvell Semiconductors",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-marvell-india-pvt-ltd-bangalore-bengaluru-0-to-1-years-150323501993",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Studying for a Masters degree in Computer Networks, Electronics and Communication Syste..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineering Intern",
-        "companyName": "Finsoftai",
-        "link": "https://www.naukri.com/job-listings-software-engineering-intern-finsoftai-pune-0-to-0-years-230323501189",
-        "location": "Pune",
-        "stipend": "Not disclosed",
-        "description": "Bachelor s / Master s Degree in Computer Science, Information Technology or Electronics..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "Impact Analytics",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-impact-analytics-bangalore-bengaluru-0-to-1-years-140323011825",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "1 year of project experience working on developing web applicationsBachelors degree in ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer (Backend) Intern",
-        "companyName": "Crio.Do",
-        "link": "https://www.naukri.com/job-listings-software-engineer-backend-intern-crio-do-bangalore-bengaluru-0-to-1-years-140323004211",
-        "location": "Bangalore/Bengaluru(Koramangala)",
-        "stipend": "Not disclosed",
-        "description": "Requirements 7+ projects in GitHub with at least 3 solid projects Looking for batch 202..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineering Intern",
-        "companyName": "Enthuziastic",
-        "link": "https://www.naukri.com/job-listings-software-engineering-intern-enthuziastic-remote-1-to-3-years-210323501158",
-        "location": "Permanent Remote",
-        "stipend": "Not disclosed",
-        "description": "In the new world of work from home, we expect the ideal candidate to over-communicate ...."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineering Intern",
-        "companyName": "Funding Societies",
-        "link": "https://www.naukri.com/job-listings-software-engineering-intern-funding-societies-bangalore-bengaluru-2-to-3-years-170323501999",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Currently pursuing a Bachelor s or Master s degree in Computer Science, Software Engine..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "Productiv",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-productiv-bangalore-bengaluru-0-to-3-years-310123500513",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Familiarity with AWS and node.js / VUE.js a plus, but not required"
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineering Intern",
-        "companyName": "Simbo.ai",
-        "link": "https://www.naukri.com/job-listings-software-engineering-intern-simbo-ai-bengaluru-bangalore-0-to-1-years-250320501368",
-        "location": "Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Must know programming and scripting under Linux Must be able to spend at least 2 months..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "The Trade Desk",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-the-trade-desk-bangalore-bengaluru-0-to-1-years-250123502346",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Enrolled in a bachelors degree in Computer Science / Engineering / IT or related program"
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern (Mobile Web)",
-        "companyName": "Approwess Technologies",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-mobile-web-approwess-technologies-private-limited-mumbai-0-to-1-years-211020500003",
-        "location": "Mumbai",
-        "stipend": "Not disclosed",
-        "description": ". . . . . As a software intern at Approwess, youll have real responsibility, real work ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Internship - Software Engineering Intern",
-        "companyName": "The Hiring Box",
-        "link": "https://www.naukri.com/job-listings-internship-software-engineering-intern-the-hiring-box-bangalore-bengaluru-0-to-1-years-191222501725",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "You need to know React, Node & Fundamentals of Javascript very well to apply for this p..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineering Intern",
-        "companyName": "Duck Creek",
-        "link": "https://www.naukri.com/job-listings-software-engineering-intern-duck-creek-technologies-remote-0-to-2-years-300123502178",
-        "location": "remote",
-        "stipend": "Not disclosed",
-        "description": ". ABOUT THE SUMMER INTERNSHIP: . . . . . . . Duck Creeks Summer Internship program is f..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "Epitas",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-epitas-mangaluru-mangalore-0-to-2-years-310721500950",
-        "location": "Mangaluru/Mangalore",
-        "stipend": "Not disclosed",
-        "description": "We are looking for energetic intern to join our software development team. The intern w..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineering Intern",
-        "companyName": "Truckx",
-        "link": "https://www.naukri.com/job-listings-software-engineering-intern-truckx-inc-pune-0-to-2-years-230721500309",
-        "location": "Pune",
-        "stipend": "Not disclosed",
-        "description": ". As a software engineer intern in backend team, you will be building backend services ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern, Core Infrastructure",
-        "companyName": "Poshmark",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-core-infrastructure-poshmark-chennai-0-to-1-years-230223501382",
-        "location": "Chennai",
-        "stipend": "Not disclosed",
-        "description": ". . . . . Our goal is to give you exposure to a range of development techniques and cur..."
-      },
-      {
-        "site": "Naukri",
-        "title": "SOFTWARE ENGINEER INTERN",
-        "companyName": "Qbotica",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-qbotica-remote-0-to-4-years-221122503590",
-        "location": "remote",
-        "stipend": "Not disclosed",
-        "description": "As software engineer intern, you will build robust and scalable software, participate i..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "Openstack Apps",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-openstack-remote-0-to-1-years-211022501096",
-        "location": "Remote",
-        "stipend": "Not disclosed",
-        "description": "Basic experience with at least one back end or front end programming language (e.g PHP,..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern, iOS",
-        "companyName": "Poshmark",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-ios-poshmark-chennai-0-to-1-years-201222500547",
-        "location": "Chennai",
-        "stipend": "Not disclosed",
-        "description": "Over 12 weeks the intern can expect to become deeply involved in learning the tech stac..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "Etasens Technologies",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-etasens-technologies-chandigarh-0-to-1-years-100120500470",
-        "location": "Chandigarh",
-        "stipend": "Not disclosed",
-        "description": "Minimum Qualifications : Should have an Engineer degree/final semester. Core Technologi..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - Intern",
-        "companyName": "Teknorix",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-teknorix-systems-panaji-panjim-0-to-1-years-020322500411",
-        "location": "Panaji/Panjim",
-        "stipend": "Not disclosed",
-        "description": "What is expected from you? As a Software Engineer Intern, you will have to provide assi..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineering Intern",
-        "companyName": "Logicplum",
-        "link": "https://www.naukri.com/job-listings-software-engineering-intern-logicplum-trivandrum-thiruvananthapuram-0-to-1-years-100521500256",
-        "location": "Trivandrum/Thiruvananthapuram",
-        "stipend": "Not disclosed",
-        "description": "Experience programming in C, C++, or PythonPractical experience with a wide variety of ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineering Intern - ML Ops",
-        "companyName": "Enterpret",
-        "link": "https://www.naukri.com/job-listings-software-engineering-intern-ml-ops-enterpret-remote-0-to-1-years-090223502131",
-        "location": "Permanent Remote",
-        "stipend": "Not disclosed",
-        "description": "Available for a full-time 3-6 month internship immediately. . . . Proficiency with Pyth..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern - Python",
-        "companyName": "Logicplum",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-python-logicplum-trivandrum-thiruvananthapuram-0-to-2-years-071221500332",
-        "location": "Trivandrum/Thiruvananthapuram",
-        "stipend": "Not disclosed",
-        "description": "Working with team members to help develop optimal approaches to provide good architectu..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern: Software Engineering",
-        "companyName": "BayaTree",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineering-bayatree-kolkata-mumbai-new-delhi-hyderabad-secunderabad-pune-chennai-bangalore-bengaluru-0-to-1-years-211118500010",
-        "location": "Kolkata, Mumbai, New Delhi, Hyderabad/Secunderabad, Pune, Chennai, Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "You should be a fresh graduate/ post graduate with good communication skills and passio..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern-Software Engineer",
-        "companyName": "Cadence",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineer-cadence-design-systems-ahmedabad-0-to-2-years-220922501736",
-        "location": "Ahmedabad",
-        "stipend": "Not disclosed",
-        "description": "Fresh Engineering graduate in electronics or Comp Science Very good digital / analog sk..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern-Software Engineer",
-        "companyName": "Cadence",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineer-cadence-design-systems-ahmedabad-0-to-2-years-100822500740",
-        "location": "Ahmedabad",
-        "stipend": "Not disclosed",
-        "description": "Position Requirements: . . Fresh Engineering graduate in electronics or Comp Science . ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - PHP - Intern",
-        "companyName": "Dongre Technoquip Pvt. Ltd",
-        "link": "https://www.naukri.com/job-listings-software-engineer-php-intern-dongre-technoquip-pvt-ltd-mumbai-thane-0-to-1-years-181220500265",
-        "location": "Mumbai, Thane",
-        "stipend": "Not disclosed",
-        "description": ". . . Educational Qualifications: . . Preferably from an software engineering / technic..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer-  Intern",
-        "companyName": "Blueberry Digital Labs",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-blueberry-labs-hyderabad-secunderabad-2-to-4-years-290416500459",
-        "location": "Hyderabad",
-        "stipend": "Not disclosed",
-        "description": "Company Description Blueberry Digital Labs (www. blueberrylabs. com) is a leading young..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern Software Engineer",
-        "companyName": "Terix International",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineer-terix-international-noida-0-to-1-years-100223501803",
-        "location": "Noida",
-        "stipend": "Not disclosed",
-        "description": "Must have core PHP and MySql knowledge Good technical aptitude, willingness to learn ne..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern Software Engineer",
-        "companyName": "Riversand Technologies, Inc.",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineer-riversand-technologies-inc-remote-0-to-2-years-300123500388",
-        "location": "remote",
-        "stipend": "Not disclosed",
-        "description": "Knowledge of professional software engineering practices & best practices for the full ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Interns - Software Engineering",
-        "companyName": "Aphthartos Technologies",
-        "link": "https://www.naukri.com/job-listings-interns-software-engineering-gighub-hyderabad-secunderabad-0-to-1-years-160621500530",
-        "location": "Hyderabad/Secunderabad",
-        "stipend": "Not disclosed",
-        "description": "- We are looking for highly driven interns to help our product team build our core plat..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern Software Engineer ( Onsite )",
-        "companyName": "SJ Innovation",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineer-onsite-sj-innovation-llc-panaji-panjim-0-to-2-years-131022501563",
-        "location": "Panaji/Panjim",
-        "stipend": "Not disclosed",
-        "description": "Outstanding coding abilities Thorough knowledge of atleast 1 programming language. Work..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern Software Engineer ( Onsite )",
-        "companyName": "SJ Innovation",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineer-onsite-sj-innovation-llc-panaji-panjim-0-to-2-years-131022501562",
-        "location": "Panaji/Panjim",
-        "stipend": "Not disclosed",
-        "description": "Thorough knowledge of atleast 1 programming languageWorking knowledge of HTML, CSS, Jav..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "Telit",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-telit-bangalore-bengaluru-5-to-6-years-181122501402",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Qualifications: . . Bachelors or master s degree in engineeringNo experience required. ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "National Instruments",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-national-instruments-india-pvt-ltd-bangalore-bengaluru-1-to-2-years-050123500638",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "The Software Engineer Intern position is a challenging role within NI, requiring daily ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "software engineering intern",
-        "companyName": "Medyug Technology",
-        "link": "https://www.naukri.com/job-listings-software-engineering-intern-medyug-technology-pvt-ltd-bengaluru-bangalore-2-to-5-years-090117500589",
-        "location": "Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "MTBNG - SWINT - 01 : Internship Description: Requirements:Good knowledge of algorithmsM..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - Intern",
-        "companyName": "Saras Analytics",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-saras-solutions-india-pvt-ltd-hyderabad-secunderabad-1-to-3-years-101022502841",
-        "location": "Hyderabad/Secunderabad",
-        "stipend": "Not disclosed",
-        "description": "Requirements: . . . . Proficient in . . Demonstrable understanding of . . Design Patter..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "Training Basket",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-training-basket-new-delhi-1-to-3-years-210223501757",
-        "location": "New Delhi",
-        "stipend": "Not disclosed",
-        "description": "Criteria for Pre Placement Offer: Interview after successful completion of 2 months int..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "The Depository Trust &amp;amp; Clearing Corporation (DTCC)",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-the-depository-trust-amp-amp-clearing-corporation-dtcc-chennai-5-to-6-years-141122500725",
-        "location": "Chennai",
-        "stipend": "Not disclosed",
-        "description": "The Information Technology Intern will participate in the collection and analysis of pr..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern",
-        "companyName": "Epitas",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-epitas-mangaluru-mangalore-2-to-5-years-111121501683",
-        "location": "Mangaluru/Mangalore",
-        "stipend": "Not disclosed",
-        "description": "Assess applicants relevant knowledge, skills, soft skills, experience and aptitudes"
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Intern - Angular",
-        "companyName": "Logicplum",
-        "link": "https://www.naukri.com/job-listings-software-engineer-intern-angular-logicplum-trivandrum-thiruvananthapuram-2-to-7-years-071221500333",
-        "location": "Trivandrum/Thiruvananthapuram",
-        "stipend": "Not disclosed",
-        "description": "Develop awesome client-side applications, using Angular . . Optimize applications for m..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern-Software Engineering",
-        "companyName": "Cadence",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineering-cadence-design-systems-noida-1-to-2-years-270123501824",
-        "location": "Noida",
-        "stipend": "Not disclosed",
-        "description": "Fresh Engineering graduate in electronics or Comp Science Very good digital/analog skil..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern - Software Engineering",
-        "companyName": "Cadence",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineering-cadence-design-systems-noida-1-to-2-years-220223501010",
-        "location": "Noida",
-        "stipend": "Not disclosed",
-        "description": "Fresh Engineering graduate in electronics or Comp Science . Very good digital / analog ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern-Software Engineering",
-        "companyName": "Cadence",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineering-cadence-design-systems-noida-1-to-2-years-130123500432",
-        "location": "Noida",
-        "stipend": "Not disclosed",
-        "description": "Strong C/C++ development skills with a good understanding of object-oriented design. St..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern-Software Engineering",
-        "companyName": "Cadence",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineering-cadence-design-systems-ahmedabad-1-to-2-years-100822500741",
-        "location": "Ahmedabad",
-        "stipend": "Not disclosed",
-        "description": "Position Requirements: . . Fresh Engineering graduate in electronics or Comp Science . ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern  Software Engineering",
-        "companyName": "Springworks",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineering-springworks-bengaluru-bangalore-1-to-6-years-110321501645",
-        "location": "Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "The intern will gain exciting realworld software engineering experience at a thriving c..."
-      },
-      {
-        "site": "Naukri",
-        "title": "S/W Engineer/Intern",
-        "companyName": "Marvell Semiconductors",
-        "link": "https://www.naukri.com/job-listings-s-w-engineer-intern-marvell-india-pvt-ltd-pune-0-to-1-years-150323501992",
-        "location": "Pune",
-        "stipend": "Not disclosed",
-        "description": "Write code, unit-tests as per discussion with team leader, and debug necessary C / C++ ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Intern Software Engineer",
-        "companyName": "Atoconn System Labs",
-        "link": "https://www.naukri.com/job-listings-intern-software-engineer-atoconn-system-labs-private-limited-thane-6-to-11-years-140519500126",
-        "location": "Thane",
-        "stipend": "Not disclosed",
-        "description": "Intern Software Engineer Location: Thane (Experience : 0-0. 6 Yr) Qualification : B. E ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - Snowflake",
-        "companyName": "Siemens",
-        "link": "https://www.naukri.com/job-listings-software-engineer-snowflake-siemens-limited-bangalore-bengaluru-0-to-5-years-270323500272",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Responsible for the development and delivery of parts of a product, in accordance with ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Trainee Software Engineer",
-        "companyName": "Citiustech",
-        "link": "https://www.naukri.com/job-listings-trainee-software-engineer-citiustech-mumbai-0-to-1-years-190621500479",
-        "location": "Mumbai",
-        "stipend": "Not disclosed",
-        "description": "As a Trainee SoftwareEngineer , you will be part of an agile team to build healthcareap..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Junior Software Engineer - Intern",
-        "companyName": "Boxfile",
-        "link": "https://www.naukri.com/job-listings-junior-software-engineer-intern-boxfile-chennai-0-to-1-years-220322501502",
-        "location": "Chennai",
-        "stipend": "Not disclosed",
-        "description": "Bachelor s degree, preferably in Computer Science, Information Technology, Computer Eng..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Senior Software Engineer - C++ Golang",
-        "companyName": "Siemens",
-        "link": "https://www.naukri.com/job-listings-senior-software-engineer-c-golang-siemens-limited-bangalore-bengaluru-0-to-7-years-150323503230",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "You should be flexible for a Technology shift from C++ to Golang You Should be able to ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Development Engineer 1",
-        "companyName": "Jio",
-        "link": "https://www.naukri.com/job-listings-software-development-engineer-1-jio-bangalore-bengaluru-delhi-ncr-mumbai-all-areas-0-to-3-years-100323005317",
-        "location": "Bangalore/Bengaluru, Delhi / NCR, Mumbai (All Areas)",
-        "stipend": "Not disclosed",
-        "description": "2+ years of non-internship professional software development experienceBE /B Tech in Co..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software / Firmware Engineer - Intern",
-        "companyName": "Marvell Semiconductors",
-        "link": "https://www.naukri.com/job-listings-software-firmware-engineer-intern-marvell-india-pvt-ltd-bangalore-bengaluru-0-to-2-years-180323501194",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "1.Skill in Automation Strategy and Methodology. 2.Strong skills in Python scripting. 3...."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Infineon",
-        "link": "https://www.naukri.com/job-listings-software-engineer-infineon-technologies-pvt-ltd-bangalore-bengaluru-0-to-1-years-020223500888",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Exposure to Unix/ Linux Platforms . . Preferably having working knowledge in Perl/ Pyth..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - Fresher - QA",
-        "companyName": "Altisource",
-        "link": "https://www.naukri.com/job-listings-software-engineer-fresher-qa-altisource-business-solutions-pvt-ltd-bangalore-bengaluru-0-to-2-years-290921501859",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": ". 0-2 years of experience in Software Industry, preferably from Product companiesWorkin..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - Java (Fresher -Batch 2022 passout only)",
-        "companyName": "Paytm",
-        "link": "https://www.naukri.com/job-listings-software-engineer-java-fresher-batch-2022-passout-only-paytm-noida-0-to-1-years-270323007289",
-        "location": "Hybrid - Noida",
-        "stipend": "Not disclosed",
-        "description": "Batch - 2022 (BTech) . Preferred Qualifications : BTech - 2022 batch, Bachelors / Maste..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Altisource",
-        "link": "https://www.naukri.com/job-listings-software-engineer-altisource-business-solutions-pvt-ltd-bangalore-bengaluru-0-to-2-years-241221501632",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Should have Strong problem solving capability. . Be able to contribute as strong hands-..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Altisource Software Engineer",
-        "companyName": "Altisource",
-        "link": "https://www.naukri.com/job-listings-altisource-software-engineer-altisource-business-solutions-pvt-ltd-bangalore-bengaluru-0-to-2-years-231221500016",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "WHAT YOU GET TO DO Participate in Development of new features in Vendorly Monitor platf..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Altisource Software Engineer - Fresher - QA",
-        "companyName": "Altisource",
-        "link": "https://www.naukri.com/job-listings-altisource-software-engineer-fresher-qa-altisource-business-solutions-pvt-ltd-bangalore-bengaluru-0-to-2-years-011121500169",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Requirement 0-2 years of experience in Software Industry, preferably from Product compa..."
-      },
-      {
-        "site": "Naukri",
-        "title": "PHP DEVELOPER, SOFTWARE ENGINEER",
-        "companyName": "Godigi Infotech",
-        "link": "https://www.naukri.com/job-listings-php-developer-software-engineer-godigi-infotech-mumbai-0-to-3-years-040122501238",
-        "location": "Mumbai",
-        "stipend": "Not disclosed",
-        "description": "Experience 0 - 3 Years working Knowledge in web technologies and MYSQL ( HTML 5, CSS 3,..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Associate I Software Engineer",
-        "companyName": "S&P Global Inc.",
-        "link": "https://www.naukri.com/job-listings-associate-i-software-engineer-s-p-global-inc-bangalore-bengaluru-0-to-2-years-250323500448",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Strong programming skills in Python Automation preferably in Windows environment Should..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - UI",
-        "companyName": "Siemens",
-        "link": "https://www.naukri.com/job-listings-software-engineer-ui-siemens-limited-bangalore-bengaluru-0-to-5-years-150323503232",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "BE/ B Tech/ MCA/ M Tech/ . Engineering Graduate / Post Graduate (preferably a major in ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Trainee Software Engineer",
-        "companyName": "Omangom Infosystems",
-        "link": "https://www.naukri.com/job-listings-trainee-software-engineer-omangom-infosystems-delhi-ncr-0-to-0-years-140323006160",
-        "location": "Delhi / NCR",
-        "stipend": "1.25-2.5 Lacs PA",
-        "description": "Basic Requirements :-Good Programming and Coding AbilityPositive AttitudeEagerness to L..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Associate Software Engineer",
-        "companyName": "GlobalLogic",
-        "link": "https://www.naukri.com/job-listings-associate-software-engineer-globallogic-gurgaon-gurugram-0-to-1-years-210323003915",
-        "location": "Gurgaon/Gurugram",
-        "stipend": "Not disclosed",
-        "description": "Should be able to fix and maintain clients bug list as per priority Route the ticket / ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Trainee Software Engineer",
-        "companyName": "Jardine Lloyd Thompson",
-        "link": "https://www.naukri.com/job-listings-trainee-software-engineer-jardine-lloyd-thompson-india-pvt-ltd-mumbai-0-to-2-years-220323500534",
-        "location": "Mumbai",
-        "stipend": "Not disclosed",
-        "description": "A Trainee Software Engineer will be expected to learn the basic principles of software ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Kodiak Networks",
-        "link": "https://www.naukri.com/job-listings-software-engineer-motorola-solutions-india-private-ltd-bangalore-bengaluru-0-to-1-years-060223501129",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "On-call work are occasionally required for services developed by the team . . . . . . ...."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer / Trainees",
-        "companyName": "venuebookingz.com",
-        "link": "https://www.naukri.com/job-listings-software-engineer-trainees-venuebookingz-com-bengaluru-bangalore-0-to-2-years-310118501365",
-        "location": "Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Full time in Benguluru only Must be comfortable working in fuzzy environments- where bo..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Associate Professional Software Engineer",
-        "companyName": "DXC Technology",
-        "link": "https://www.naukri.com/job-listings-associate-professional-software-engineer-dxc-technology-bangalore-bengaluru-0-to-5-years-220822501100",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Bachelors degree or equivalent combination of education and experienceBachelors degree ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "uReturn -Software Engineer / System Engineer / Data Engineer",
-        "companyName": "Uber",
-        "link": "https://www.naukri.com/job-listings-ureturn-software-engineer-system-engineer-data-engineer-uber-bangalore-bengaluru-0-to-3-years-190522500563",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Bachelors degree or equivalent in Computer Science, Engineering, Mathematics or related..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Trainee Software Engineer",
-        "companyName": "Infobeans",
-        "link": "https://www.naukri.com/job-listings-trainee-software-engineer-infobeans-technologies-limited-indore-0-to-0-years-131118600153",
-        "location": "Indore",
-        "stipend": "Not disclosed",
-        "description": "We are conducting a WalkIn Drive to Hire fresh graduates to join usEducation : Bachelor..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Yodlee",
-        "link": "https://www.naukri.com/job-listings-software-engineer-yodlee-infotech-private-limited-bangalore-bengaluru-0-to-2-years-131021500572",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Skills & Knowledge : Java and J2EE and exposure to web technologies JSP, Servlet, HTML ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer / Trainees",
-        "companyName": "easybookingz, TIS Pvt. Ltd",
-        "link": "https://www.naukri.com/job-listings-software-engineer-trainees-easybookingz-tis-pvt-ltd-bengaluru-bangalore-0-to-1-years-070818500242",
-        "location": "Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Location: Full time & Benguluru . Must be comfortable working in fuzzy environments- wh..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Institutional Shareholder Services",
-        "link": "https://www.naukri.com/job-listings-software-engineer-institutional-shareholder-services-inc-mumbai-0-to-4-years-270922501053",
-        "location": "Mumbai",
-        "stipend": "Not disclosed",
-        "description": "Rapid design and implementation of user interfaces within constraints of a UI framework..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Development Engineer",
-        "companyName": "Greenizon Agritech Consultancy",
-        "link": "https://www.naukri.com/job-listings-software-development-engineer-jai-kisan-bangalore-bengaluru-0-to-4-years-301122501469",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "The ideal candidate is the one who is willing to undergo 6 months on internship with us..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Junior Software Engineers Freshers B-Tech /IT/MCA/BCA/BSC/MTech",
-        "companyName": "Perennation Computer Solutions Global Private Limi Ted",
-        "link": "https://www.naukri.com/job-listings-junior-software-engineers-freshers-b-tech-it-mca-bca-bsc-mtech-perennation-computer-solutions-global-private-limi-ted-bhubaneswar-kolkata-bangalore-bengaluru-0-to-3-years-220323006465",
-        "location": "Hybrid - Bhubaneswar, Kolkata, Bangalore/Bengaluru",
-        "stipend": "50,000-3 Lacs PA",
-        "description": "Candidates should be passed out BE / B-Tech & ME/ M-Tech, BCA, MCA, and graduatesPerks ..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Trainee  SQL/PostgreSQL",
-        "companyName": "Impact Analytics",
-        "link": "https://www.naukri.com/job-listings-software-engineer-trainee-sql-postgresql-impact-analytics-bangalore-bengaluru-0-to-1-years-150323003900",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Working towards or currently possess a bachelors degree from a four-year college or uni..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Associate Software Engineer",
-        "companyName": "S&P Global Inc.",
-        "link": "https://www.naukri.com/job-listings-associate-software-engineer-s-p-global-inc-hyderabad-secunderabad-0-to-2-years-230323502501",
-        "location": "Hyderabad/Secunderabad",
-        "stipend": "Not disclosed",
-        "description": "Willing to work in 24*5 environment on rotational shifts Basic knowledge of Linux / Win..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Kodiak Networks",
-        "link": "https://www.naukri.com/job-listings-software-engineer-motorola-solutions-india-private-ltd-kolkata-0-to-4-years-210323500177",
-        "location": "Kolkata",
-        "stipend": "Not disclosed",
-        "description": "In C, C++, scripting languages such as Python, TCL, and other languages as requiredenvi..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Hiring For Associate software Engineer",
-        "companyName": "GlobalLogic",
-        "link": "https://www.naukri.com/job-listings-hiring-for-associate-software-engineer-globallogic-gurgaon-gurugram-0-to-1-years-070323004535",
-        "location": "Gurgaon/Gurugram",
-        "stipend": "1-4 Lacs PA",
-        "description": "Experience: 0 to 1 Years Good knowledge of Regular Expressions. . . . Strong OOPS Conce..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Meta Soft Tech Systems Private Limted",
-        "link": "https://www.naukri.com/job-listings-software-engineer-meta-soft-tech-systems-private-limted-chennai-tiruchirapalli-trichy-0-to-0-years-030323005041",
-        "location": "Chennai, Tiruchirapalli/Trichy",
-        "stipend": "Not disclosed",
-        "description": "Bachelor s degree in CSC/ EEE / ECE with good knowledge in Core Java/ C/ C+ Knowledge o..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - CBTC - Railway Infrastructure",
-        "companyName": "Siemens",
-        "link": "https://www.naukri.com/job-listings-software-engineer-cbtc-railway-infrastructure-siemens-limited-pune-0-to-8-years-300621501758",
-        "location": "Pune",
-        "stipend": "Not disclosed",
-        "description": "Knowledge of radio principle for CBTC. . You have experience in reading and understandi..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - React Native",
-        "companyName": "moglix",
-        "link": "https://www.naukri.com/job-listings-software-engineer-react-native-moglix-noida-0-to-3-years-090922501881",
-        "location": "Noida",
-        "stipend": "Not disclosed",
-        "description": ". 7, Should have good experience in iOS, React Native & Redux We are looking for a smar..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Bajaj Finserv Ltd.",
-        "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-071122501323",
-        "location": "Pune",
-        "stipend": "Not disclosed",
-        "description": "Required Qualifications and Experience . . . . Should have good understanding of Client..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Bajaj Finserv Ltd.",
-        "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-070223501577",
-        "location": "Pune",
-        "stipend": "Not disclosed",
-        "description": "Work with infra team to get desired configuration done for various initiatives undertak..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Bajaj Finserv Ltd.",
-        "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-070223501215",
-        "location": "Pune",
-        "stipend": "Not disclosed",
-        "description": "Any Graduate with good technical knowledge (PLSQL) An experience of more than 3 yearsEx..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Bajaj Finserv Ltd.",
-        "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-070223501213",
-        "location": "Pune",
-        "stipend": "Not disclosed",
-        "description": "Minimum Qualification: Graduate/ Post-graduate in Engineering Bachelors degree in Compu..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Bajaj Finserv Ltd.",
-        "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-070223501212",
-        "location": "Pune",
-        "stipend": "Not disclosed",
-        "description": "No / Less escalation from business. . . . Qualification, Experience / Skills, Leadershi..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Bajaj Finserv Ltd.",
-        "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-070223501211",
-        "location": "Pune",
-        "stipend": "Not disclosed",
-        "description": "Should have good financial domain knowledge of business process and solutions Manage te..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer, developer / Programmer, 2022 graduate Can also appl",
-        "companyName": "Creative Hands HR",
-        "link": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2022-graduate-can-also-appl-creative-hands-hr-hyderabad-secunderabad-chennai-bangalore-bengaluru-0-to-1-years-261222001008",
-        "location": "Temp. WFH - Hyderabad/Secunderabad, Chennai, Bangalore/Bengaluru",
-        "stipend": "5-7 Lacs PA",
-        "description": "Software Programmer / Developer Qualification- Diploma, BE / BTech IT, CSE, BCA, MCA, B..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Trainee Software Engineer",
-        "companyName": "Apogaeis",
-        "link": "https://www.naukri.com/job-listings-trainee-software-engineer-apogaeis-technologies-bengaluru-bangalore-0-to-1-years-260619500926",
-        "location": "Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Business, Industry, Technology Management News, Trends, Tips Blogs for a Successful Pra..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Testing Engineer (Intern) - Web & Mobile",
-        "companyName": "Shujabits Infotech Solutions",
-        "link": "https://www.naukri.com/job-listings-software-testing-engineer-intern-web-mobile-shujabits-infotech-solutions-navi-mumbai-0-to-1-years-210323911629",
-        "location": "Navi Mumbai",
-        "stipend": "Not disclosed",
-        "description": "RequirementsSKILLS AND EXPERIENCE REQUIRED FOR THIS ROLE:Excellent analytical ability.A..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Trainee Software Engineer",
-        "companyName": "Rhytify Technologies",
-        "link": "https://www.naukri.com/job-listings-trainee-software-engineer-rhytify-technologies-private-limited-bengaluru-bangalore-0-to-4-years-120819502299",
-        "location": "Bengaluru",
-        "stipend": "Not disclosed",
-        "description": "Recent Computer Science Graduates with good gradesKnowledge of any RDBMS . . Good commu..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer I",
-        "companyName": "Cadence",
-        "link": "https://www.naukri.com/job-listings-software-engineer-i-cadence-design-systems-bangalore-bengaluru-0-to-2-years-311222500392",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": ". . . . . . . BTech / M.tech in Computer Science or Electrical Engineering Proficient i..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - Backend",
-        "companyName": "Greenizon Agritech Consultancy",
-        "link": "https://www.naukri.com/job-listings-software-engineer-backend-jai-kisan-bangalore-bengaluru-0-to-3-years-301122501470",
-        "location": "Bangalore/Bengaluru",
-        "stipend": "Not disclosed",
-        "description": ". Should be involved to drive product design discussionsShould be working with the fron..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Trainee Software Engineer",
-        "companyName": "Laurus Software Technologies",
-        "link": "https://www.naukri.com/job-listings-trainee-software-engineer-laurus-software-technologies-pvt-ltd-mumbai-0-to-1-years-301018501357",
-        "location": "Mumbai",
-        "stipend": "Not disclosed",
-        "description": "Trainee Software Engineer"
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer - Trainee C++ Developer",
-        "companyName": "VXL Software Solutions",
-        "link": "https://www.naukri.com/job-listings-software-engineer-trainee-c-developer-vxl-software-mumbai-0-to-1-years-300919501308",
-        "location": "Mumbai",
-        "stipend": "Not disclosed",
-        "description": "Software Engineer - Trainee C++ Developer - 15 vacancies Job details Trainee C Plus Plu..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Trainee Software Engineer",
-        "companyName": "Digital Business People",
-        "link": "https://www.naukri.com/job-listings-trainee-software-engineer-digital-business-people-pte-ltd-noida-hyderabad-secunderabad-0-to-1-years-300522503570",
-        "location": "Noida, Hyderabad/Secunderabad",
-        "stipend": "Not disclosed",
-        "description": "Willing to learn new technologies and adapt quickly . . Good communications skills, abl..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer",
-        "companyName": "Researchtech",
-        "link": "https://www.naukri.com/job-listings-software-engineer-researchtech-mumbai-all-areas-0-to-1-years-270323008014",
-        "location": "Hybrid - Mumbai (All Areas)",
-        "stipend": "1-1.75 Lacs PA",
-        "description": "Candidate should have worked as an individual contributor in most stages of SDLC requir..."
-      },
-      {
-        "site": "Naukri",
-        "title": "Software Engineer Trainee",
-        "companyName": "Williams Lea",
-        "link": "https://www.naukri.com/job-listings-software-engineer-trainee-williams-lea-kochi-cochin-0-to-1-years-270223005265",
-        "location": "Permanent Remote",
-        "stipend": "4.5-5 Lacs PA",
-        "description": "As a new graduate, youll have the opportunity to work alongside experienced developers ..."
-      }
-    
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "Marvell Semiconductors",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-marvell-india-pvt-ltd-bangalore-bengaluru-0-to-1-years-150323501993",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Studying for a Masters degree in Computer Networks, Electronics and Communication Syste..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineering Intern",
+      "companyName": "Finsoftai",
+      "link": "https://www.naukri.com/job-listings-software-engineering-intern-finsoftai-pune-0-to-0-years-230323501189",
+      "location": "Pune",
+      "stipend": "Not disclosed",
+      "description": "Bachelor s / Master s Degree in Computer Science, Information Technology or Electronics..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "Impact Analytics",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-impact-analytics-bangalore-bengaluru-0-to-1-years-140323011825",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "1 year of project experience working on developing web applicationsBachelors degree in ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer (Backend) Intern",
+      "companyName": "Crio.Do",
+      "link": "https://www.naukri.com/job-listings-software-engineer-backend-intern-crio-do-bangalore-bengaluru-0-to-1-years-140323004211",
+      "location": "Bangalore/Bengaluru(Koramangala)",
+      "stipend": "Not disclosed",
+      "description": "Requirements 7+ projects in GitHub with at least 3 solid projects Looking for batch 202..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineering Intern",
+      "companyName": "Enthuziastic",
+      "link": "https://www.naukri.com/job-listings-software-engineering-intern-enthuziastic-remote-1-to-3-years-210323501158",
+      "location": "Permanent Remote",
+      "stipend": "Not disclosed",
+      "description": "In the new world of work from home, we expect the ideal candidate to over-communicate ...."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineering Intern",
+      "companyName": "Funding Societies",
+      "link": "https://www.naukri.com/job-listings-software-engineering-intern-funding-societies-bangalore-bengaluru-2-to-3-years-170323501999",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Currently pursuing a Bachelor s or Master s degree in Computer Science, Software Engine..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "Productiv",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-productiv-bangalore-bengaluru-0-to-3-years-310123500513",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Familiarity with AWS and node.js / VUE.js a plus, but not required"
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineering Intern",
+      "companyName": "Simbo.ai",
+      "link": "https://www.naukri.com/job-listings-software-engineering-intern-simbo-ai-bengaluru-bangalore-0-to-1-years-250320501368",
+      "location": "Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Must know programming and scripting under Linux Must be able to spend at least 2 months..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "The Trade Desk",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-the-trade-desk-bangalore-bengaluru-0-to-1-years-250123502346",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Enrolled in a bachelors degree in Computer Science / Engineering / IT or related program"
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern (Mobile Web)",
+      "companyName": "Approwess Technologies",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-mobile-web-approwess-technologies-private-limited-mumbai-0-to-1-years-211020500003",
+      "location": "Mumbai",
+      "stipend": "Not disclosed",
+      "description": ". . . . . As a software intern at Approwess, youll have real responsibility, real work ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Internship - Software Engineering Intern",
+      "companyName": "The Hiring Box",
+      "link": "https://www.naukri.com/job-listings-internship-software-engineering-intern-the-hiring-box-bangalore-bengaluru-0-to-1-years-191222501725",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "You need to know React, Node & Fundamentals of Javascript very well to apply for this p..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineering Intern",
+      "companyName": "Duck Creek",
+      "link": "https://www.naukri.com/job-listings-software-engineering-intern-duck-creek-technologies-remote-0-to-2-years-300123502178",
+      "location": "remote",
+      "stipend": "Not disclosed",
+      "description": ". ABOUT THE SUMMER INTERNSHIP: . . . . . . . Duck Creeks Summer Internship program is f..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "Epitas",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-epitas-mangaluru-mangalore-0-to-2-years-310721500950",
+      "location": "Mangaluru/Mangalore",
+      "stipend": "Not disclosed",
+      "description": "We are looking for energetic intern to join our software development team. The intern w..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineering Intern",
+      "companyName": "Truckx",
+      "link": "https://www.naukri.com/job-listings-software-engineering-intern-truckx-inc-pune-0-to-2-years-230721500309",
+      "location": "Pune",
+      "stipend": "Not disclosed",
+      "description": ". As a software engineer intern in backend team, you will be building backend services ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern, Core Infrastructure",
+      "companyName": "Poshmark",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-core-infrastructure-poshmark-chennai-0-to-1-years-230223501382",
+      "location": "Chennai",
+      "stipend": "Not disclosed",
+      "description": ". . . . . Our goal is to give you exposure to a range of development techniques and cur..."
+    },
+    {
+      "site": "Naukri",
+      "title": "SOFTWARE ENGINEER INTERN",
+      "companyName": "Qbotica",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-qbotica-remote-0-to-4-years-221122503590",
+      "location": "remote",
+      "stipend": "Not disclosed",
+      "description": "As software engineer intern, you will build robust and scalable software, participate i..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "Openstack Apps",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-openstack-remote-0-to-1-years-211022501096",
+      "location": "Remote",
+      "stipend": "Not disclosed",
+      "description": "Basic experience with at least one back end or front end programming language (e.g PHP,..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern, iOS",
+      "companyName": "Poshmark",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-ios-poshmark-chennai-0-to-1-years-201222500547",
+      "location": "Chennai",
+      "stipend": "Not disclosed",
+      "description": "Over 12 weeks the intern can expect to become deeply involved in learning the tech stac..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "Etasens Technologies",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-etasens-technologies-chandigarh-0-to-1-years-100120500470",
+      "location": "Chandigarh",
+      "stipend": "Not disclosed",
+      "description": "Minimum Qualifications : Should have an Engineer degree/final semester. Core Technologi..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - Intern",
+      "companyName": "Teknorix",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-teknorix-systems-panaji-panjim-0-to-1-years-020322500411",
+      "location": "Panaji/Panjim",
+      "stipend": "Not disclosed",
+      "description": "What is expected from you? As a Software Engineer Intern, you will have to provide assi..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineering Intern",
+      "companyName": "Logicplum",
+      "link": "https://www.naukri.com/job-listings-software-engineering-intern-logicplum-trivandrum-thiruvananthapuram-0-to-1-years-100521500256",
+      "location": "Trivandrum/Thiruvananthapuram",
+      "stipend": "Not disclosed",
+      "description": "Experience programming in C, C++, or PythonPractical experience with a wide variety of ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineering Intern - ML Ops",
+      "companyName": "Enterpret",
+      "link": "https://www.naukri.com/job-listings-software-engineering-intern-ml-ops-enterpret-remote-0-to-1-years-090223502131",
+      "location": "Permanent Remote",
+      "stipend": "Not disclosed",
+      "description": "Available for a full-time 3-6 month internship immediately. . . . Proficiency with Pyth..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern - Python",
+      "companyName": "Logicplum",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-python-logicplum-trivandrum-thiruvananthapuram-0-to-2-years-071221500332",
+      "location": "Trivandrum/Thiruvananthapuram",
+      "stipend": "Not disclosed",
+      "description": "Working with team members to help develop optimal approaches to provide good architectu..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern: Software Engineering",
+      "companyName": "BayaTree",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineering-bayatree-kolkata-mumbai-new-delhi-hyderabad-secunderabad-pune-chennai-bangalore-bengaluru-0-to-1-years-211118500010",
+      "location": "Kolkata, Mumbai, New Delhi, Hyderabad/Secunderabad, Pune, Chennai, Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "You should be a fresh graduate/ post graduate with good communication skills and passio..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern-Software Engineer",
+      "companyName": "Cadence",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineer-cadence-design-systems-ahmedabad-0-to-2-years-220922501736",
+      "location": "Ahmedabad",
+      "stipend": "Not disclosed",
+      "description": "Fresh Engineering graduate in electronics or Comp Science Very good digital / analog sk..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern-Software Engineer",
+      "companyName": "Cadence",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineer-cadence-design-systems-ahmedabad-0-to-2-years-100822500740",
+      "location": "Ahmedabad",
+      "stipend": "Not disclosed",
+      "description": "Position Requirements: . . Fresh Engineering graduate in electronics or Comp Science . ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - PHP - Intern",
+      "companyName": "Dongre Technoquip Pvt. Ltd",
+      "link": "https://www.naukri.com/job-listings-software-engineer-php-intern-dongre-technoquip-pvt-ltd-mumbai-thane-0-to-1-years-181220500265",
+      "location": "Mumbai, Thane",
+      "stipend": "Not disclosed",
+      "description": ". . . Educational Qualifications: . . Preferably from an software engineering / technic..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer-  Intern",
+      "companyName": "Blueberry Digital Labs",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-blueberry-labs-hyderabad-secunderabad-2-to-4-years-290416500459",
+      "location": "Hyderabad",
+      "stipend": "Not disclosed",
+      "description": "Company Description Blueberry Digital Labs (www. blueberrylabs. com) is a leading young..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern Software Engineer",
+      "companyName": "Terix International",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineer-terix-international-noida-0-to-1-years-100223501803",
+      "location": "Noida",
+      "stipend": "Not disclosed",
+      "description": "Must have core PHP and MySql knowledge Good technical aptitude, willingness to learn ne..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern Software Engineer",
+      "companyName": "Riversand Technologies, Inc.",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineer-riversand-technologies-inc-remote-0-to-2-years-300123500388",
+      "location": "remote",
+      "stipend": "Not disclosed",
+      "description": "Knowledge of professional software engineering practices & best practices for the full ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Interns - Software Engineering",
+      "companyName": "Aphthartos Technologies",
+      "link": "https://www.naukri.com/job-listings-interns-software-engineering-gighub-hyderabad-secunderabad-0-to-1-years-160621500530",
+      "location": "Hyderabad/Secunderabad",
+      "stipend": "Not disclosed",
+      "description": "- We are looking for highly driven interns to help our product team build our core plat..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern Software Engineer ( Onsite )",
+      "companyName": "SJ Innovation",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineer-onsite-sj-innovation-llc-panaji-panjim-0-to-2-years-131022501563",
+      "location": "Panaji/Panjim",
+      "stipend": "Not disclosed",
+      "description": "Outstanding coding abilities Thorough knowledge of atleast 1 programming language. Work..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern Software Engineer ( Onsite )",
+      "companyName": "SJ Innovation",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineer-onsite-sj-innovation-llc-panaji-panjim-0-to-2-years-131022501562",
+      "location": "Panaji/Panjim",
+      "stipend": "Not disclosed",
+      "description": "Thorough knowledge of atleast 1 programming languageWorking knowledge of HTML, CSS, Jav..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "Telit",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-telit-bangalore-bengaluru-5-to-6-years-181122501402",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Qualifications: . . Bachelors or master s degree in engineeringNo experience required. ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "National Instruments",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-national-instruments-india-pvt-ltd-bangalore-bengaluru-1-to-2-years-050123500638",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "The Software Engineer Intern position is a challenging role within NI, requiring daily ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "software engineering intern",
+      "companyName": "Medyug Technology",
+      "link": "https://www.naukri.com/job-listings-software-engineering-intern-medyug-technology-pvt-ltd-bengaluru-bangalore-2-to-5-years-090117500589",
+      "location": "Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "MTBNG - SWINT - 01 : Internship Description: Requirements:Good knowledge of algorithmsM..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - Intern",
+      "companyName": "Saras Analytics",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-saras-solutions-india-pvt-ltd-hyderabad-secunderabad-1-to-3-years-101022502841",
+      "location": "Hyderabad/Secunderabad",
+      "stipend": "Not disclosed",
+      "description": "Requirements: . . . . Proficient in . . Demonstrable understanding of . . Design Patter..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "Training Basket",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-training-basket-new-delhi-1-to-3-years-210223501757",
+      "location": "New Delhi",
+      "stipend": "Not disclosed",
+      "description": "Criteria for Pre Placement Offer: Interview after successful completion of 2 months int..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "The Depository Trust &amp;amp; Clearing Corporation (DTCC)",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-the-depository-trust-amp-amp-clearing-corporation-dtcc-chennai-5-to-6-years-141122500725",
+      "location": "Chennai",
+      "stipend": "Not disclosed",
+      "description": "The Information Technology Intern will participate in the collection and analysis of pr..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern",
+      "companyName": "Epitas",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-epitas-mangaluru-mangalore-2-to-5-years-111121501683",
+      "location": "Mangaluru/Mangalore",
+      "stipend": "Not disclosed",
+      "description": "Assess applicants relevant knowledge, skills, soft skills, experience and aptitudes"
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Intern - Angular",
+      "companyName": "Logicplum",
+      "link": "https://www.naukri.com/job-listings-software-engineer-intern-angular-logicplum-trivandrum-thiruvananthapuram-2-to-7-years-071221500333",
+      "location": "Trivandrum/Thiruvananthapuram",
+      "stipend": "Not disclosed",
+      "description": "Develop awesome client-side applications, using Angular . . Optimize applications for m..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern-Software Engineering",
+      "companyName": "Cadence",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineering-cadence-design-systems-noida-1-to-2-years-270123501824",
+      "location": "Noida",
+      "stipend": "Not disclosed",
+      "description": "Fresh Engineering graduate in electronics or Comp Science Very good digital/analog skil..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern - Software Engineering",
+      "companyName": "Cadence",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineering-cadence-design-systems-noida-1-to-2-years-220223501010",
+      "location": "Noida",
+      "stipend": "Not disclosed",
+      "description": "Fresh Engineering graduate in electronics or Comp Science . Very good digital / analog ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern-Software Engineering",
+      "companyName": "Cadence",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineering-cadence-design-systems-noida-1-to-2-years-130123500432",
+      "location": "Noida",
+      "stipend": "Not disclosed",
+      "description": "Strong C/C++ development skills with a good understanding of object-oriented design. St..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern-Software Engineering",
+      "companyName": "Cadence",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineering-cadence-design-systems-ahmedabad-1-to-2-years-100822500741",
+      "location": "Ahmedabad",
+      "stipend": "Not disclosed",
+      "description": "Position Requirements: . . Fresh Engineering graduate in electronics or Comp Science . ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern  Software Engineering",
+      "companyName": "Springworks",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineering-springworks-bengaluru-bangalore-1-to-6-years-110321501645",
+      "location": "Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "The intern will gain exciting realworld software engineering experience at a thriving c..."
+    },
+    {
+      "site": "Naukri",
+      "title": "S/W Engineer/Intern",
+      "companyName": "Marvell Semiconductors",
+      "link": "https://www.naukri.com/job-listings-s-w-engineer-intern-marvell-india-pvt-ltd-pune-0-to-1-years-150323501992",
+      "location": "Pune",
+      "stipend": "Not disclosed",
+      "description": "Write code, unit-tests as per discussion with team leader, and debug necessary C / C++ ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Intern Software Engineer",
+      "companyName": "Atoconn System Labs",
+      "link": "https://www.naukri.com/job-listings-intern-software-engineer-atoconn-system-labs-private-limited-thane-6-to-11-years-140519500126",
+      "location": "Thane",
+      "stipend": "Not disclosed",
+      "description": "Intern Software Engineer Location: Thane (Experience : 0-0. 6 Yr) Qualification : B. E ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - Snowflake",
+      "companyName": "Siemens",
+      "link": "https://www.naukri.com/job-listings-software-engineer-snowflake-siemens-limited-bangalore-bengaluru-0-to-5-years-270323500272",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Responsible for the development and delivery of parts of a product, in accordance with ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Trainee Software Engineer",
+      "companyName": "Citiustech",
+      "link": "https://www.naukri.com/job-listings-trainee-software-engineer-citiustech-mumbai-0-to-1-years-190621500479",
+      "location": "Mumbai",
+      "stipend": "Not disclosed",
+      "description": "As a Trainee SoftwareEngineer , you will be part of an agile team to build healthcareap..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Junior Software Engineer - Intern",
+      "companyName": "Boxfile",
+      "link": "https://www.naukri.com/job-listings-junior-software-engineer-intern-boxfile-chennai-0-to-1-years-220322501502",
+      "location": "Chennai",
+      "stipend": "Not disclosed",
+      "description": "Bachelor s degree, preferably in Computer Science, Information Technology, Computer Eng..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Senior Software Engineer - C++ Golang",
+      "companyName": "Siemens",
+      "link": "https://www.naukri.com/job-listings-senior-software-engineer-c-golang-siemens-limited-bangalore-bengaluru-0-to-7-years-150323503230",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "You should be flexible for a Technology shift from C++ to Golang You Should be able to ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Development Engineer 1",
+      "companyName": "Jio",
+      "link": "https://www.naukri.com/job-listings-software-development-engineer-1-jio-bangalore-bengaluru-delhi-ncr-mumbai-all-areas-0-to-3-years-100323005317",
+      "location": "Bangalore/Bengaluru, Delhi / NCR, Mumbai (All Areas)",
+      "stipend": "Not disclosed",
+      "description": "2+ years of non-internship professional software development experienceBE /B Tech in Co..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software / Firmware Engineer - Intern",
+      "companyName": "Marvell Semiconductors",
+      "link": "https://www.naukri.com/job-listings-software-firmware-engineer-intern-marvell-india-pvt-ltd-bangalore-bengaluru-0-to-2-years-180323501194",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "1.Skill in Automation Strategy and Methodology. 2.Strong skills in Python scripting. 3...."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Infineon",
+      "link": "https://www.naukri.com/job-listings-software-engineer-infineon-technologies-pvt-ltd-bangalore-bengaluru-0-to-1-years-020223500888",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Exposure to Unix/ Linux Platforms . . Preferably having working knowledge in Perl/ Pyth..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - Fresher - QA",
+      "companyName": "Altisource",
+      "link": "https://www.naukri.com/job-listings-software-engineer-fresher-qa-altisource-business-solutions-pvt-ltd-bangalore-bengaluru-0-to-2-years-290921501859",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": ". 0-2 years of experience in Software Industry, preferably from Product companiesWorkin..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - Java (Fresher -Batch 2022 passout only)",
+      "companyName": "Paytm",
+      "link": "https://www.naukri.com/job-listings-software-engineer-java-fresher-batch-2022-passout-only-paytm-noida-0-to-1-years-270323007289",
+      "location": "Hybrid - Noida",
+      "stipend": "Not disclosed",
+      "description": "Batch - 2022 (BTech) . Preferred Qualifications : BTech - 2022 batch, Bachelors / Maste..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Altisource",
+      "link": "https://www.naukri.com/job-listings-software-engineer-altisource-business-solutions-pvt-ltd-bangalore-bengaluru-0-to-2-years-241221501632",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Should have Strong problem solving capability. . Be able to contribute as strong hands-..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Altisource Software Engineer",
+      "companyName": "Altisource",
+      "link": "https://www.naukri.com/job-listings-altisource-software-engineer-altisource-business-solutions-pvt-ltd-bangalore-bengaluru-0-to-2-years-231221500016",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "WHAT YOU GET TO DO Participate in Development of new features in Vendorly Monitor platf..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Altisource Software Engineer - Fresher - QA",
+      "companyName": "Altisource",
+      "link": "https://www.naukri.com/job-listings-altisource-software-engineer-fresher-qa-altisource-business-solutions-pvt-ltd-bangalore-bengaluru-0-to-2-years-011121500169",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Requirement 0-2 years of experience in Software Industry, preferably from Product compa..."
+    },
+    {
+      "site": "Naukri",
+      "title": "PHP DEVELOPER, SOFTWARE ENGINEER",
+      "companyName": "Godigi Infotech",
+      "link": "https://www.naukri.com/job-listings-php-developer-software-engineer-godigi-infotech-mumbai-0-to-3-years-040122501238",
+      "location": "Mumbai",
+      "stipend": "Not disclosed",
+      "description": "Experience 0 - 3 Years working Knowledge in web technologies and MYSQL ( HTML 5, CSS 3,..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Associate I Software Engineer",
+      "companyName": "S&P Global Inc.",
+      "link": "https://www.naukri.com/job-listings-associate-i-software-engineer-s-p-global-inc-bangalore-bengaluru-0-to-2-years-250323500448",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Strong programming skills in Python Automation preferably in Windows environment Should..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - UI",
+      "companyName": "Siemens",
+      "link": "https://www.naukri.com/job-listings-software-engineer-ui-siemens-limited-bangalore-bengaluru-0-to-5-years-150323503232",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "BE/ B Tech/ MCA/ M Tech/ . Engineering Graduate / Post Graduate (preferably a major in ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Trainee Software Engineer",
+      "companyName": "Omangom Infosystems",
+      "link": "https://www.naukri.com/job-listings-trainee-software-engineer-omangom-infosystems-delhi-ncr-0-to-0-years-140323006160",
+      "location": "Delhi / NCR",
+      "stipend": "1.25-2.5 Lacs PA",
+      "description": "Basic Requirements :-Good Programming and Coding AbilityPositive AttitudeEagerness to L..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Associate Software Engineer",
+      "companyName": "GlobalLogic",
+      "link": "https://www.naukri.com/job-listings-associate-software-engineer-globallogic-gurgaon-gurugram-0-to-1-years-210323003915",
+      "location": "Gurgaon/Gurugram",
+      "stipend": "Not disclosed",
+      "description": "Should be able to fix and maintain clients bug list as per priority Route the ticket / ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Trainee Software Engineer",
+      "companyName": "Jardine Lloyd Thompson",
+      "link": "https://www.naukri.com/job-listings-trainee-software-engineer-jardine-lloyd-thompson-india-pvt-ltd-mumbai-0-to-2-years-220323500534",
+      "location": "Mumbai",
+      "stipend": "Not disclosed",
+      "description": "A Trainee Software Engineer will be expected to learn the basic principles of software ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Kodiak Networks",
+      "link": "https://www.naukri.com/job-listings-software-engineer-motorola-solutions-india-private-ltd-bangalore-bengaluru-0-to-1-years-060223501129",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "On-call work are occasionally required for services developed by the team . . . . . . ...."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer / Trainees",
+      "companyName": "venuebookingz.com",
+      "link": "https://www.naukri.com/job-listings-software-engineer-trainees-venuebookingz-com-bengaluru-bangalore-0-to-2-years-310118501365",
+      "location": "Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Full time in Benguluru only Must be comfortable working in fuzzy environments- where bo..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Associate Professional Software Engineer",
+      "companyName": "DXC Technology",
+      "link": "https://www.naukri.com/job-listings-associate-professional-software-engineer-dxc-technology-bangalore-bengaluru-0-to-5-years-220822501100",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Bachelors degree or equivalent combination of education and experienceBachelors degree ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "uReturn -Software Engineer / System Engineer / Data Engineer",
+      "companyName": "Uber",
+      "link": "https://www.naukri.com/job-listings-ureturn-software-engineer-system-engineer-data-engineer-uber-bangalore-bengaluru-0-to-3-years-190522500563",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Bachelors degree or equivalent in Computer Science, Engineering, Mathematics or related..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Trainee Software Engineer",
+      "companyName": "Infobeans",
+      "link": "https://www.naukri.com/job-listings-trainee-software-engineer-infobeans-technologies-limited-indore-0-to-0-years-131118600153",
+      "location": "Indore",
+      "stipend": "Not disclosed",
+      "description": "We are conducting a WalkIn Drive to Hire fresh graduates to join usEducation : Bachelor..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Yodlee",
+      "link": "https://www.naukri.com/job-listings-software-engineer-yodlee-infotech-private-limited-bangalore-bengaluru-0-to-2-years-131021500572",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Skills & Knowledge : Java and J2EE and exposure to web technologies JSP, Servlet, HTML ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer / Trainees",
+      "companyName": "easybookingz, TIS Pvt. Ltd",
+      "link": "https://www.naukri.com/job-listings-software-engineer-trainees-easybookingz-tis-pvt-ltd-bengaluru-bangalore-0-to-1-years-070818500242",
+      "location": "Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Location: Full time & Benguluru . Must be comfortable working in fuzzy environments- wh..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Institutional Shareholder Services",
+      "link": "https://www.naukri.com/job-listings-software-engineer-institutional-shareholder-services-inc-mumbai-0-to-4-years-270922501053",
+      "location": "Mumbai",
+      "stipend": "Not disclosed",
+      "description": "Rapid design and implementation of user interfaces within constraints of a UI framework..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Development Engineer",
+      "companyName": "Greenizon Agritech Consultancy",
+      "link": "https://www.naukri.com/job-listings-software-development-engineer-jai-kisan-bangalore-bengaluru-0-to-4-years-301122501469",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "The ideal candidate is the one who is willing to undergo 6 months on internship with us..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Junior Software Engineers Freshers B-Tech /IT/MCA/BCA/BSC/MTech",
+      "companyName": "Perennation Computer Solutions Global Private Limi Ted",
+      "link": "https://www.naukri.com/job-listings-junior-software-engineers-freshers-b-tech-it-mca-bca-bsc-mtech-perennation-computer-solutions-global-private-limi-ted-bhubaneswar-kolkata-bangalore-bengaluru-0-to-3-years-220323006465",
+      "location": "Hybrid - Bhubaneswar, Kolkata, Bangalore/Bengaluru",
+      "stipend": "50,000-3 Lacs PA",
+      "description": "Candidates should be passed out BE / B-Tech & ME/ M-Tech, BCA, MCA, and graduatesPerks ..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Trainee  SQL/PostgreSQL",
+      "companyName": "Impact Analytics",
+      "link": "https://www.naukri.com/job-listings-software-engineer-trainee-sql-postgresql-impact-analytics-bangalore-bengaluru-0-to-1-years-150323003900",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Working towards or currently possess a bachelors degree from a four-year college or uni..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Associate Software Engineer",
+      "companyName": "S&P Global Inc.",
+      "link": "https://www.naukri.com/job-listings-associate-software-engineer-s-p-global-inc-hyderabad-secunderabad-0-to-2-years-230323502501",
+      "location": "Hyderabad/Secunderabad",
+      "stipend": "Not disclosed",
+      "description": "Willing to work in 24*5 environment on rotational shifts Basic knowledge of Linux / Win..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Kodiak Networks",
+      "link": "https://www.naukri.com/job-listings-software-engineer-motorola-solutions-india-private-ltd-kolkata-0-to-4-years-210323500177",
+      "location": "Kolkata",
+      "stipend": "Not disclosed",
+      "description": "In C, C++, scripting languages such as Python, TCL, and other languages as requiredenvi..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Hiring For Associate software Engineer",
+      "companyName": "GlobalLogic",
+      "link": "https://www.naukri.com/job-listings-hiring-for-associate-software-engineer-globallogic-gurgaon-gurugram-0-to-1-years-070323004535",
+      "location": "Gurgaon/Gurugram",
+      "stipend": "1-4 Lacs PA",
+      "description": "Experience: 0 to 1 Years Good knowledge of Regular Expressions. . . . Strong OOPS Conce..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Meta Soft Tech Systems Private Limted",
+      "link": "https://www.naukri.com/job-listings-software-engineer-meta-soft-tech-systems-private-limted-chennai-tiruchirapalli-trichy-0-to-0-years-030323005041",
+      "location": "Chennai, Tiruchirapalli/Trichy",
+      "stipend": "Not disclosed",
+      "description": "Bachelor s degree in CSC/ EEE / ECE with good knowledge in Core Java/ C/ C+ Knowledge o..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - CBTC - Railway Infrastructure",
+      "companyName": "Siemens",
+      "link": "https://www.naukri.com/job-listings-software-engineer-cbtc-railway-infrastructure-siemens-limited-pune-0-to-8-years-300621501758",
+      "location": "Pune",
+      "stipend": "Not disclosed",
+      "description": "Knowledge of radio principle for CBTC. . You have experience in reading and understandi..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - React Native",
+      "companyName": "moglix",
+      "link": "https://www.naukri.com/job-listings-software-engineer-react-native-moglix-noida-0-to-3-years-090922501881",
+      "location": "Noida",
+      "stipend": "Not disclosed",
+      "description": ". 7, Should have good experience in iOS, React Native & Redux We are looking for a smar..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Bajaj Finserv Ltd.",
+      "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-071122501323",
+      "location": "Pune",
+      "stipend": "Not disclosed",
+      "description": "Required Qualifications and Experience . . . . Should have good understanding of Client..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Bajaj Finserv Ltd.",
+      "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-070223501577",
+      "location": "Pune",
+      "stipend": "Not disclosed",
+      "description": "Work with infra team to get desired configuration done for various initiatives undertak..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Bajaj Finserv Ltd.",
+      "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-070223501215",
+      "location": "Pune",
+      "stipend": "Not disclosed",
+      "description": "Any Graduate with good technical knowledge (PLSQL) An experience of more than 3 yearsEx..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Bajaj Finserv Ltd.",
+      "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-070223501213",
+      "location": "Pune",
+      "stipend": "Not disclosed",
+      "description": "Minimum Qualification: Graduate/ Post-graduate in Engineering Bachelors degree in Compu..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Bajaj Finserv Ltd.",
+      "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-070223501212",
+      "location": "Pune",
+      "stipend": "Not disclosed",
+      "description": "No / Less escalation from business. . . . Qualification, Experience / Skills, Leadershi..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Bajaj Finserv Ltd.",
+      "link": "https://www.naukri.com/job-listings-software-engineer-bajaj-finserv-ltd-pune-0-to-3-years-070223501211",
+      "location": "Pune",
+      "stipend": "Not disclosed",
+      "description": "Should have good financial domain knowledge of business process and solutions Manage te..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer, developer / Programmer, 2022 graduate Can also appl",
+      "companyName": "Creative Hands HR",
+      "link": "https://www.naukri.com/job-listings-software-engineer-developer-programmer-2022-graduate-can-also-appl-creative-hands-hr-hyderabad-secunderabad-chennai-bangalore-bengaluru-0-to-1-years-261222001008",
+      "location": "Temp. WFH - Hyderabad/Secunderabad, Chennai, Bangalore/Bengaluru",
+      "stipend": "5-7 Lacs PA",
+      "description": "Software Programmer / Developer Qualification- Diploma, BE / BTech IT, CSE, BCA, MCA, B..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Trainee Software Engineer",
+      "companyName": "Apogaeis",
+      "link": "https://www.naukri.com/job-listings-trainee-software-engineer-apogaeis-technologies-bengaluru-bangalore-0-to-1-years-260619500926",
+      "location": "Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Business, Industry, Technology Management News, Trends, Tips Blogs for a Successful Pra..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Testing Engineer (Intern) - Web & Mobile",
+      "companyName": "Shujabits Infotech Solutions",
+      "link": "https://www.naukri.com/job-listings-software-testing-engineer-intern-web-mobile-shujabits-infotech-solutions-navi-mumbai-0-to-1-years-210323911629",
+      "location": "Navi Mumbai",
+      "stipend": "Not disclosed",
+      "description": "RequirementsSKILLS AND EXPERIENCE REQUIRED FOR THIS ROLE:Excellent analytical ability.A..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Trainee Software Engineer",
+      "companyName": "Rhytify Technologies",
+      "link": "https://www.naukri.com/job-listings-trainee-software-engineer-rhytify-technologies-private-limited-bengaluru-bangalore-0-to-4-years-120819502299",
+      "location": "Bengaluru",
+      "stipend": "Not disclosed",
+      "description": "Recent Computer Science Graduates with good gradesKnowledge of any RDBMS . . Good commu..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer I",
+      "companyName": "Cadence",
+      "link": "https://www.naukri.com/job-listings-software-engineer-i-cadence-design-systems-bangalore-bengaluru-0-to-2-years-311222500392",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": ". . . . . . . BTech / M.tech in Computer Science or Electrical Engineering Proficient i..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - Backend",
+      "companyName": "Greenizon Agritech Consultancy",
+      "link": "https://www.naukri.com/job-listings-software-engineer-backend-jai-kisan-bangalore-bengaluru-0-to-3-years-301122501470",
+      "location": "Bangalore/Bengaluru",
+      "stipend": "Not disclosed",
+      "description": ". Should be involved to drive product design discussionsShould be working with the fron..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Trainee Software Engineer",
+      "companyName": "Laurus Software Technologies",
+      "link": "https://www.naukri.com/job-listings-trainee-software-engineer-laurus-software-technologies-pvt-ltd-mumbai-0-to-1-years-301018501357",
+      "location": "Mumbai",
+      "stipend": "Not disclosed",
+      "description": "Trainee Software Engineer"
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer - Trainee C++ Developer",
+      "companyName": "VXL Software Solutions",
+      "link": "https://www.naukri.com/job-listings-software-engineer-trainee-c-developer-vxl-software-mumbai-0-to-1-years-300919501308",
+      "location": "Mumbai",
+      "stipend": "Not disclosed",
+      "description": "Software Engineer - Trainee C++ Developer - 15 vacancies Job details Trainee C Plus Plu..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Trainee Software Engineer",
+      "companyName": "Digital Business People",
+      "link": "https://www.naukri.com/job-listings-trainee-software-engineer-digital-business-people-pte-ltd-noida-hyderabad-secunderabad-0-to-1-years-300522503570",
+      "location": "Noida, Hyderabad/Secunderabad",
+      "stipend": "Not disclosed",
+      "description": "Willing to learn new technologies and adapt quickly . . Good communications skills, abl..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer",
+      "companyName": "Researchtech",
+      "link": "https://www.naukri.com/job-listings-software-engineer-researchtech-mumbai-all-areas-0-to-1-years-270323008014",
+      "location": "Hybrid - Mumbai (All Areas)",
+      "stipend": "1-1.75 Lacs PA",
+      "description": "Candidate should have worked as an individual contributor in most stages of SDLC requir..."
+    },
+    {
+      "site": "Naukri",
+      "title": "Software Engineer Trainee",
+      "companyName": "Williams Lea",
+      "link": "https://www.naukri.com/job-listings-software-engineer-trainee-williams-lea-kochi-cochin-0-to-1-years-270223005265",
+      "location": "Permanent Remote",
+      "stipend": "4.5-5 Lacs PA",
+      "description": "As a new graduate, youll have the opportunity to work alongside experienced developers ..."
+    }
+
   ]
   const db = getFirestore(fb);
   const [multipleSelectValuesOption, setMultipleSelectValuesOption] =
@@ -9283,7 +9283,7 @@ const SideNav = () => {
         </div>
       </div>
       <div className="flex flex-row gap-5 pt-6 pb-2 flex-wrap justify-between">
-        <div className="flex flex-row gap-5">
+        <div className="flex flex-row gap-5 flex-wrap">
           <div
             className=" hover:bg-navOrange text-base p-2 rounded-md font-medium cursor-pointer"
             onClick={() => {
@@ -9349,50 +9349,51 @@ const SideNav = () => {
       </div>
       <hr></hr>
       <div
-        className="flex p-3 gap-2 flex-col sm:flex-row"
+        className="flex p-3 gap-4 flex-col md:flex-row"
         style={{ height: "78vh" }}
       >
-        <div
-          className="basis-1/4 flex items-center  flex-col p-3 gap-2"
+        <div className="basis-1/4 flex items-center  flex-col p-3 gap-2"
           style={{
             transition: "box-shadow .25s, -webkit-box-shadow .25s",
             boxShadow:
               " 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2)",
           }}
         >
-          <div className="font-bold">
-            {/* <FilterAltOutlinedIcon /> */}
-            Filter
-          </div>
-          <div className="flex flex-col mt-9">
-            <div className=" flex items-center justify-start font-semibold">
-              Category
+          <div className="w-full flex flex-col justify-center items-center" >
+            <div className="font-bold">
+              {/* <FilterAltOutlinedIcon /> */}
+              Filter
             </div>
-            <MultiSelect
-              style={{ border: "none" }}
-              className="multi-select"
-              onChange={handleOnchange}
-              options={multiSelectTag}
-            />
-            {/* <input
-              className="placeholder:italic placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-9 pr-3 shadow-sm focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 sm:text-sm"
-              placeholder="Search for anything..."
-            /> */}
-          </div>
-          <div className="flex flex-col mt-4">
-            <div className=" flex items-center justify-start font-semibold">
-              Location
+            <div className="flex flex-col mt-3">
+              <div className=" flex items-center justify-start font-semibold">
+                Category
+              </div>
+              <MultiSelect
+                style={{ border: "none" }}
+                className="multi-select"
+                onChange={handleOnchange}
+                options={multiSelectTag}
+              />
+              {/* <input
+                className="placeholder:italic placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-9 pr-3 shadow-sm focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 sm:text-sm"
+                placeholder="Search for anything..."
+              /> */}
             </div>
-            <MultiSelect
-              style={{ border: "none" }}
-              className="multi-select"
-              onChange={handleOnchangeLocation}
-              options={multiSelectTagLocation}
-            />
-            {/* <input
-              className="placeholder:italic placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-9 pr-3 shadow-sm focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 sm:text-sm"
-              placeholder="Search for anything..."
-            /> */}
+            <div className="flex flex-col mt-4">
+              <div className=" flex items-center justify-start font-semibold">
+                Location
+              </div>
+              <MultiSelect
+                style={{ border: "none" }}
+                className="multi-select"
+                onChange={handleOnchangeLocation}
+                options={multiSelectTagLocation}
+              />
+              {/* <input
+                className="placeholder:italic placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-9 pr-3 shadow-sm focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 sm:text-sm"
+                placeholder="Search for anything..."
+              /> */}
+            </div>
           </div>
         </div>
         <div className="basis-3/4 h-full  flex flex-col gap-6 scrollbar-thin scrollbar-thumb-navOrange pr-3 scrollbar-track-orange-100 overflow-y-scroll">
