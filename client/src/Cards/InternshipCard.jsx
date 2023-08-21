@@ -45,9 +45,9 @@ const InternshipCard = (props) => {
             " 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2)",
         }}
       >
-        <div className="flex flex-row justify-between gap-1">
-          <div className="basis-1/12 flex justify-center">
-            <div style={{ height: "80%" }}>
+        <div className=" flex justify-between gap-1">
+          <div className="w-14 shrink-0 inline-block justify-center">
+            <div style={{ height: "70%",width:"100%" }}>
               <img
                 src={`${props.site.toLowerCase()}-small.png`}
                 alt=""
@@ -67,18 +67,18 @@ const InternshipCard = (props) => {
           </div>
           <div className="flex flex-col gap-2 basis-6/7">
             <div className=" shadow-black-100  rounded-md p-1 md:pt-2 flex items-center justify-start font-strong text-xl  ">
-              {props.title}
+              {props?.title}
             </div>
 
-            <div className="flex flex-col sm:flex-row justify-between gap-1 ">
+            <div className="flex flex-col sm:flex-row flex-wrap justify-between gap-1 ">
               <div className=" shadow-black-100  rounded-md p-1 flex items-center justify-start font-semiStrong">
-                {props.company}
+                {props?.companyName}
               </div>
               <div className="flex items-center justify-start   shadow-black-100 font-semiStrong">
-                {props.location}
+                {props?.location}
               </div>
               <div className="flex items-center justify-start   shadow-black-100 font-semiStrong">
-                {props.salary ? `Salary : ${props.salary}` : "Salary : Not Disclosed"}
+                {props.stipend ? `Salary : ${props?.stipend}` : "Salary : Not Disclosed"}
               </div>
             </div>
             <div
@@ -89,7 +89,7 @@ const InternshipCard = (props) => {
             </div>
             <div className=" shadow-black-100  rounded-md p-1 flex items-center justify-end cursor-pointer ">
               <button
-                onClick={() => window.open(props.link)}
+                onClick={() => window.open(props?.link)}
                 className="bg-navOrange py-1 px-5 rounded-md"
               >
                 view
@@ -97,7 +97,7 @@ const InternshipCard = (props) => {
             </div>
           </div>
           {props?.currValue != 6 ? (
-            <div className="basis-1/12 flex justify-end pt-2 ">
+            <div className=" flex justify-end pt-2 ">
               {bookmark === 0 && (
                 <BookmarkBorderIcon
                   className="text-navOrange cursor-pointer"
@@ -106,9 +106,9 @@ const InternshipCard = (props) => {
                     setBookmark(1);
                     saveInternship({
                       title: props?.title,
-                      company: props?.company,
+                      companyName: props?.companyName,
                       location: props?.location,
-                      salary: props?.salary,
+                      stipend: props?.stipend,
                       description: props?.description,
                       link: props?.link,
                       site: props?.site,
@@ -127,7 +127,7 @@ const InternshipCard = (props) => {
               )}
             </div>
           ) : (
-            <div className="basis-1/12 flex justify-end pt-2 ">
+            <div className=" flex justify-end pt-2 ">
               <DeleteOutlineIcon
                 className="text-navOrange cursor-pointer"
                 style={{ fontSize: "30px" }}

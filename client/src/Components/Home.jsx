@@ -2,15 +2,15 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div style={{height:"78vh"}}>
-        <div className=' flex flex-row justify-center items-center px-20 pt-10' id="header">
-            <div className='basis-1/2 flex justify-center items-center'>
-                <div className=' flex justify-center items-center flex-col w-72  text-4xl font-strong' style={{color:"#363636",}}>
+    <div className="flex justify-center items-center" style={{height:"78vh"}}>
+        <div className='flex flex-col md:flex-row justify-center items-center md:px-20 md:pt-10 gap-7 ' id="header">
+            <div className='basis-1/2 flex justify-center items-center order-2 md:order-1'>
+                <div className=' flex justify-center items-center flex-col w-72 text-3xl md:text-4xl font-strong' style={{color:"#363636",}}>
                     We're happy to see you here and can't wait to help you explore the internships.
                 </div> 
             </div>
-            <div className='basis-1/2 header-image'>
-                <img src="work.svg" className='img-fluid animated' alt="" style={{height:"492px",width:"600px"}} />
+            <div className='basis-1/2 header-image order-1 md:order-2'>
+                <img src="work.svg " className='img-fluid animated h-56 md:h-428' alt=""  />
             </div>
         </div>
         {/* logos start */}

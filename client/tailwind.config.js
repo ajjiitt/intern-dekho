@@ -19,6 +19,9 @@ module.exports = {
       fontWeight:{
         strong: '900',
         semiStrong:'600',
+      },
+      height: {
+        '428': '428px',
       }
     },
   },

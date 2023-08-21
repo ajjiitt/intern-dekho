@@ -106,7 +106,7 @@ const Navbar = () => {
       </div>
       {/* Sidebar Ends */}
       <div className="flex flex-row sm:pl-8">
-        <div>
+        <div onClick={() => navigate("/")}>
           <img src="logo.jpg" alt="" className="h-8 sm:h-10" />
         </div>
       </div>
